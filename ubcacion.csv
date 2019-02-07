@@ -1,0 +1,3703 @@
+"","departamento","ciudad","localidad","barrio","eventos"
+"1","Cundinamarca","Bogot<U+00E1>",NA,NA,35207
+"2",NA,NA,NA,NA,30990
+"3","Antioquia","Medell<U+00ED>n",NA,NA,5515
+"4","Valle","Cali",NA,NA,3745
+"5",NA,"Bogot<U+00E1>",NA,NA,2645
+"6",NA,"No",NA,NA,2185
+"7",NA,"Medell<U+00ED>n",NA,NA,1864
+"8","Santander","Bucaramanga",NA,NA,1528
+"9",NA,"Cali",NA,NA,1528
+"10","Atl<U+00E1>ntico","Barranquilla",NA,NA,1189
+"11","Cundinamarca","Bogot<U+00E1>","Chapinero",NA,1129
+"12",NA,"Medellin",NA,NA,1100
+"13",NA,"Bucaramanga",NA,NA,889
+"14","Antioquia","Envigado",NA,NA,761
+"15","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Cedritos",691
+"16",NA,"Bogota",NA,NA,690
+"17","Risaralda","Pereira",NA,NA,680
+"18","Antioquia","Medell<U+00ED>n","Comuna",NA,667
+"19","Antioquia","Bello",NA,NA,661
+"20","Tolima","Ibagu<U+00E9>",NA,NA,611
+"21",NA,"medellin",NA,NA,603
+"22","Caldas","Manizales",NA,NA,576
+"23","Antioquia","Itag",NA,NA,542
+"24","Cundinamarca","Bogot<U+00E1>","Suba",NA,497
+"25",NA,"bogota",NA,NA,460
+"26","Antioquia","Medell<U+00ED>n","Medell<U+00ED>n",NA,451
+"27",NA,"cali",NA,NA,449
+"28",NA,"Suba",NA,NA,446
+"29",NA,"Barranquilla",NA,NA,400
+"30","Santander","Floridablanca",NA,NA,380
+"31","Antioquia","Sabaneta",NA,NA,372
+"32","Cundinamarca","Ch<U+00ED>a",NA,NA,371
+"33","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>",NA,361
+"34",NA,"Pereira",NA,NA,323
+"35","Cundinamarca","Bogot<U+00E1>","Teusaquillo",NA,318
+"36",NA,"Manizales",NA,NA,317
+"37",NA,"Chapinero",NA,NA,310
+"38","Cundinamarca","Bogot<U+00E1>","Fontib<U+00F3>n",NA,289
+"39","Quind<U+00ED>o","Armenia",NA,NA,285
+"40","Bol<U+00ED>var","Cartagena",NA,NA,264
+"41",NA,"Bello",NA,NA,263
+"42","Antioquia","La",NA,NA,246
+"43","Antioquia","Copacabana",NA,NA,239
+"44",NA,"Palmira",NA,NA,239
+"45","Cundinamarca","Bogot<U+00E1>","Teusaquillo","Ciudad Salitre Nororiental",237
+"46","Cundinamarca","Cajic<U+00E1>",NA,NA,236
+"47","Cundinamarca","Bogot<U+00E1>","Chapinero","Chapinero Alto",235
+"48","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n",NA,231
+"49","Valle","Palmira",NA,NA,229
+"50","Cundinamarca","Bogot<U+00E1>","Suba","La Colina Campestre",224
+"51",NA,"Itagui",NA,NA,223
+"52","Cundinamarca","Mosquera",NA,NA,218
+"53","Cundinamarca","Bogot<U+00E1>","Suba","Pasadena",215
+"54",NA,"Envigado",NA,NA,215
+"55",NA,"chapinero",NA,NA,215
+"56","Antioquia","Rionegro",NA,NA,206
+"57",NA,"Cedritos",NA,NA,202
+"58","Antioquia","El",NA,NA,197
+"59","Cundinamarca","Bogot<U+00E1>","Kennedy",NA,195
+"60",NA,"Ibague",NA,NA,190
+"61","Valle","Cali","Cali",NA,189
+"62","Cundinamarca","Bogot<U+00E1>","Fontib<U+00F3>n","Hayuelos",188
+"63","Cundinamarca","Bogot<U+00E1>","Barrios",NA,186
+"64","Santander","Bucaramanga","Bucaramanga",NA,186
+"65","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Normandia",185
+"66",NA,"Kennedy",NA,NA,184
+"67","Cundinamarca","Bogot<U+00E1>","Teusaquillo","Galerias",180
+"68","Risaralda","Dosquebradas",NA,NA,176
+"69",NA,"Floridablanca",NA,NA,174
+"70","Magdalena","Santa",NA,NA,168
+"71","Cundinamarca","Bogot<U+00E1>","Suba","Mazuren",167
+"72","Cundinamarca","Bogot<U+00E1>","Puente",NA,164
+"73",NA,"Itag",NA,NA,164
+"74","Meta","Villavicencio",NA,NA,163
+"75","Antioquia","Envigado","Envigado",NA,162
+"76",NA,"La",NA,NA,162
+"77",NA,"Teusaquillo",NA,NA,156
+"78",NA,"Castilla",NA,NA,155
+"79",NA,"bucaramanga",NA,NA,153
+"80",NA,"Sabaneta",NA,NA,150
+"81",NA,"Chia",NA,NA,148
+"82",NA,"Ibagu<U+00E9>",NA,NA,148
+"83","Cundinamarca","La",NA,NA,146
+"84","Cundinamarca","Bogot<U+00E1>","Fontib<U+00F3>n","Modelia",145
+"85",NA,"San",NA,NA,144
+"86","Santander","Piedecuesta",NA,NA,141
+"87",NA,"envigado",NA,NA,137
+"88","Cundinamarca","Girardot","Comuna","Bocas Del Bogot<U+00E1>",135
+"89",NA,"Modelia",NA,NA,134
+"90",NA,"MEDELLIN",NA,NA,132
+"91",NA,"ibague",NA,NA,131
+"92","Cundinamarca","Soacha",NA,NA,129
+"93","Cundinamarca","Funza",NA,NA,128
+"94",NA,"Bosa",NA,NA,128
+"95",NA,"Fontibon",NA,NA,128
+"96",NA,"suba",NA,NA,128
+"97","Cundinamarca","Bogot<U+00E1>","Teusaquillo","Quinta Paredes",126
+"98",NA,"Santa",NA,NA,126
+"99","Cundinamarca","Bogot<U+00E1>","Suba","Pontevedra",124
+"100",NA,"Antioquia",NA,NA,123
+"101","Cundinamarca","Bogot<U+00E1>","Teusaquillo","La Soledad",122
+"102",NA,"Mosquera",NA,NA,122
+"103","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Villas De Granada",121
+"104",NA,"Soacha",NA,NA,121
+"105",NA,"la",NA,NA,121
+"106","Huila","Neiva",NA,NA,118
+"107","Norte","C<U+00FA>cuta",NA,NA,118
+"108","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Bella Suiza",113
+"109","Santander","Gir<U+00F3>n",NA,NA,112
+"110",NA,"pereira",NA,NA,107
+"111","Cundinamarca","Bogot<U+00E1>","Barrios","Polo Club",106
+"112","Cundinamarca","Bogot<U+00E1>","Barrios","Rionegro",106
+"113","Cundinamarca","Bogot<U+00E1>","Suba","Puente Largo",106
+"114","Cundinamarca","Bogot<U+00E1>","Kennedy","Castilla",105
+"115","Cundinamarca","Bogot<U+00E1>","Teusaquillo","Nicolas De Federman",105
+"116",NA,"Armenia",NA,NA,105
+"117",NA,"Dosquebradas",NA,NA,104
+"118",NA,"Engativa",NA,NA,102
+"119","Cundinamarca","Zipaquir<U+00E1>",NA,NA,101
+"120","Antioquia","Guarne",NA,NA,97
+"121","Antioquia","Sabaneta","Sabaneta",NA,97
+"122",NA,"C<U+00FA>cuta",NA,NA,96
+"123",NA,"sabaneta",NA,NA,95
+"124","Antioquia","Medell<U+00ED>n","Medell<U+00ED>n","San Antonio De Prado",94
+"125",NA,"BOGOTA",NA,NA,94
+"126","Cundinamarca","Bogot<U+00E1>","Suba","Suba Centro",91
+"127","Nari","Pasto",NA,NA,91
+"128","Antioquia","Caldas",NA,NA,89
+"129","Cundinamarca","Fusagasug<U+00E1>",NA,NA,89
+"130","Cundinamarca","Bogot<U+00E1>","Barrios","La Castellana",88
+"131","Cundinamarca","Bogot<U+00E1>","Fontib<U+00F3>n","Bosque De Modelia",88
+"132","Cundinamarca","Bogot<U+00E1>","Kennedy","El Tintal",88
+"133",NA,"Neiva",NA,NA,86
+"134","Cundinamarca","Bogot<U+00E1>","Ciudad","Madelena",84
+"135","Cundinamarca","Bogot<U+00E1>","Chapinero","Chico Norte",83
+"136",NA,"Madelena",NA,NA,83
+"137",NA,"cedritos",NA,NA,83
+"138",NA,"itagui",NA,NA,83
+"139",NA,"Cartagena",NA,NA,82
+"140",NA,"antioquia",NA,NA,82
+"141","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Minuto De Dios",81
+"142",NA,"chia",NA,NA,81
+"143","Cundinamarca","Bogot<U+00E1>","Teusaquillo","Ciudad Salitre Suroriental",80
+"144","Cundinamarca","Bogot<U+00E1>","Santa","La Macarena",79
+"145","Cundinamarca","Bogot<U+00E1>","Chapinero","Los Rosales",78
+"146",NA,"normandia",NA,NA,78
+"147","Cundinamarca","Bogot<U+00E1>","Barrios","Jose Joaquin Vargas",77
+"148","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Bochica",76
+"149","Antioquia","La","La",NA,75
+"150","Cundinamarca","Bogot<U+00E1>","Suba","Batan",75
+"151","Cundinamarca","Bogot<U+00E1>","Suba","Prado Veraniego",75
+"152","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Alamos",74
+"153","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Ciudadela Colsubsidio",74
+"154","Cundinamarca","Bogot<U+00E1>","Fontib<U+00F3>n","La Felicidad",74
+"155",NA,"barranquilla",NA,NA,74
+"156","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Gran Granada",73
+"157","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Chico Navarra",73
+"158",NA,"Salitre",NA,NA,73
+"159","Valle","Jamund<U+00ED>",NA,NA,72
+"160",NA,"Normandia",NA,NA,72
+"161","Caldas","Manizales","Manizales",NA,71
+"162","Cundinamarca","Cota",NA,NA,71
+"163","Cundinamarca","Bogot<U+00E1>","Puente","Ciudad Montes",70
+"164","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Belmira",70
+"165","Cundinamarca","Girardot",NA,NA,70
+"166",NA,"Cajica",NA,NA,70
+"167",NA,"CALI",NA,NA,69
+"168",NA,"san",NA,NA,69
+"169","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","El Toberin",68
+"170","Risaralda","Pereira","Pereira",NA,67
+"171","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Bosque Popular",66
+"172","Cundinamarca","Madrid",NA,NA,65
+"173","Risaralda","Santa",NA,NA,64
+"174",NA,"Piedecuesta",NA,NA,64
+"175","Antioquia","Bello","Bello",NA,63
+"176","Cundinamarca","Bogot<U+00E1>","Barrios","Metropolis",63
+"177","Cundinamarca","Bogot<U+00E1>","Barrios","San Fernando",63
+"178","Cundinamarca","Bogot<U+00E1>","Martires","Santa Isabel",63
+"179","Cundinamarca","Bogot<U+00E1>","Suba","Mirandela",63
+"180","Santander","Floridablanca","Floridablanca",NA,62
+"181",NA,"bello",NA,NA,62
+"182",NA,"manizales",NA,NA,62
+"183","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Bonanza",61
+"184","Cundinamarca","Bogot<U+00E1>","Teusaquillo","Palermo",60
+"185","Cundinamarca","Bogot<U+00E1>","Tunjuelito","Ciudad Tunal",60
+"186",NA,"santa",NA,NA,60
+"187","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","La Calleja",59
+"188","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","San Patricio",59
+"189","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Santa Barbara",59
+"190",NA,"Ciudad",NA,NA,59
+"191",NA,"Tunja",NA,NA,59
+"192","Antioquia","Copacabana","Copacabana",NA,58
+"193","C<U+00F3>rdoba","Monter<U+00ED>a",NA,NA,58
+"194","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Modelo Norte",58
+"195","Cundinamarca","Subachoque",NA,NA,58
+"196","Quind<U+00ED>o","Armenia","Armenia",NA,58
+"197",NA,"Cundinamarca",NA,NA,58
+"198",NA,"Funza",NA,NA,58
+"199","Cundinamarca","Bogot<U+00E1>","Suba","Alhambra",57
+"200",NA,"Copacabana",NA,NA,57
+"201","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Estrada",56
+"202","Cundinamarca","Bogot<U+00E1>","Fontib<U+00F3>n","Modelia Occidental",56
+"203",NA,"Fusagasug<U+00E1>",NA,NA,56
+"204","Cundinamarca","Bogot<U+00E1>","Kennedy","Ciudad Kennedy Central",55
+"205","Cundinamarca","Bogot<U+00E1>","Kennedy","Villa Alsacia",55
+"206","Cundinamarca","Bogot<U+00E1>","Teusaquillo","Pablo Vi",55
+"207",NA,"Mandalay",NA,NA,55
+"208",NA,"Pontevedra",NA,NA,55
+"209",NA,"mazuren",NA,NA,55
+"210",NA,"soacha",NA,NA,55
+"211",NA,"El",NA,NA,54
+"212",NA,"Guarne",NA,NA,54
+"213",NA,"fontibon",NA,NA,54
+"214","Antioquia","Itag","Itag",NA,53
+"215","Cundinamarca","Bogot<U+00E1>","Kennedy","Mandalay ",53
+"216",NA,"Poblado",NA,NA,53
+"217","Cundinamarca","Bogot<U+00E1>","Chapinero","Chapinero Central",52
+"218","Cundinamarca","Bogot<U+00E1>","Suba","Andes Norte",52
+"219","Cundinamarca","Bogot<U+00E1>","Teusaquillo","Rafael Nu",52
+"220","Cundinamarca","Facatativ<U+00E1>",NA,NA,52
+"221","Tolima","Ibagu<U+00E9>","Ibagu<U+00E9>",NA,52
+"222","Cundinamarca","Bogot<U+00E1>","Chapinero","Chico Norte ",51
+"223","Cundinamarca","Bogot<U+00E1>","Teusaquillo","Teusaquillo",51
+"224",NA,"Villa",NA,NA,51
+"225",NA,"mosquera",NA,NA,51
+"226","Cundinamarca","Bogot<U+00E1>","La",NA,50
+"227",NA,"Pasto",NA,NA,50
+"228",NA,"Tintal",NA,NA,50
+"229","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Las Ferias",49
+"230",NA,"kennedy",NA,NA,49
+"231","Antioquia","Bello","Niquia",NA,48
+"232","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","La Espa",48
+"233","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Santa Paula",48
+"234",NA,"Cajic<U+00E1>",NA,NA,48
+"235",NA,"Galerias",NA,NA,48
+"236",NA,"Norte",NA,NA,48
+"237",NA,"cajica",NA,NA,48
+"238","Cundinamarca","Bogot<U+00E1>","Antonio","Ciudad Jardin Sur",47
+"239","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","El Cortijo",47
+"240",NA,"Cortijo",NA,NA,47
+"241",NA,"Villavicencio",NA,NA,47
+"242",NA,"ciudad",NA,NA,47
+"243",NA,"galerias",NA,NA,47
+"244","Cundinamarca","Bogot<U+00E1>","Barrios","Simon Bol<U+00ED>var",46
+"245","Cundinamarca","Bogot<U+00E1>","Teusaquillo","Gran America",46
+"246",NA,"usaquen",NA,NA,45
+"247","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Nueva Autopista",44
+"248","Cundinamarca","Cajic<U+00E1>","Cajic<U+00E1>",NA,44
+"249","Cundinamarca","Girardot","Comuna","Bogot<U+00E1>",44
+"250",NA,"bosa",NA,NA,44
+"251",NA,"modelia",NA,NA,44
+"252","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Alamos Norte",43
+"253","Cundinamarca","Bogot<U+00E1>","Fontib<U+00F3>n","Fontibon Centro",43
+"254","Cundinamarca","Bogot<U+00E1>","Santa","Centro Internacional",43
+"255","Cundinamarca","Bogot<U+00E1>","Suba","Gilmar",43
+"256",NA,"hayuelos",NA,NA,43
+"257","Antioquia","Marinilla",NA,NA,42
+"258","Boyac<U+00E1>","Tunja",NA,NA,42
+"259","Cundinamarca","Bogot<U+00E1>","Chapinero","El Nogal",42
+"260","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Quirigua",42
+"261","Cundinamarca","Bogot<U+00E1>","Kennedy","Marsella",42
+"262",NA,"Alamos",NA,NA,42
+"263",NA,"Estrada",NA,NA,42
+"264",NA,"Pasadena",NA,NA,42
+"265",NA,"bogot<U+00E1>",NA,NA,42
+"266","Cundinamarca","Bogot<U+00E1>","Chapinero","El Retiro",41
+"267","Cundinamarca","Bogot<U+00E1>","Suba","Britalia",41
+"268","Cundinamarca","Bogot<U+00E1>","Suba","Cantalejo",41
+"269","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Santa Bibiana",41
+"270",NA,"Bonanza",NA,NA,41
+"271",NA,"Chico",NA,NA,41
+"272",NA,"Tunal",NA,NA,41
+"273",NA,"copacabana",NA,NA,41
+"274",NA,"guarne",NA,NA,41
+"275",NA,"quirigua",NA,NA,41
+"276","Quind<U+00ED>o","Calarca",NA,NA,40
+"277",NA,"BUCARAMANGA",NA,NA,40
+"278",NA,"Hayuelos",NA,NA,40
+"279",NA,"MANIZALES",NA,NA,40
+"280",NA,"Mazuren",NA,NA,40
+"281",NA,"Zipaquira",NA,NA,40
+"282","Antioquia","Medell<U+00ED>n","Comuna","Boston",39
+"283","Cundinamarca","Bogot<U+00E1>","Chapinero","Chico Alto",39
+"284","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Villa Luz",39
+"285",NA,"el",NA,NA,39
+"286",NA,"villa",NA,NA,39
+"287","Atl<U+00E1>ntico","Puerto",NA,NA,38
+"288","Cundinamarca","Bogot<U+00E1>","Bosa",NA,38
+"289",NA,"Cota",NA,NA,38
+"290",NA,"Usaquen",NA,NA,38
+"291","Cauca","Popay<U+00E1>n",NA,NA,37
+"292","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Santa Maria Del Lago",37
+"293","Cundinamarca","Bogot<U+00E1>","Rafael","Villa Mayor",37
+"294",NA,"Belen",NA,NA,37
+"295",NA,"Centro",NA,NA,37
+"296",NA,"villavicencio",NA,NA,37
+"297",NA,"zipaquira",NA,NA,37
+"298","Cesar","Valledupar",NA,NA,36
+"299","Cundinamarca","Bogot<U+00E1>","Suba","San Cipriano",36
+"300",NA,"castilla",NA,NA,36
+"301","Cundinamarca","Bogot<U+00E1>","Teusaquillo","El Recuerdo",35
+"302",NA,"Niza",NA,NA,35
+"303",NA,"cundinamarca",NA,NA,35
+"304",NA,"teusaquillo",NA,NA,35
+"305","Cundinamarca","Bogot<U+00E1>","Teusaquillo","Salitre el Greco",34
+"306",NA,"Aranjuez",NA,NA,34
+"307",NA,"Cucuta",NA,NA,34
+"308",NA,"Puente",NA,NA,34
+"309","Cundinamarca","Bogot<U+00E1>","Kennedy","Bosques De Castilla",33
+"310","Cundinamarca","Bogot<U+00E1>","Suba","Prado Veraniego Norte",33
+"311","Risaralda","Dosquebradas","Dosquebradas",NA,33
+"312",NA,"Engativ<U+00E1>",NA,NA,33
+"313",NA,"Valledupar",NA,NA,33
+"314","Antioquia","Medell<U+00ED>n","Comuna","Bel<U+00E9>n Parque",32
+"315","Cundinamarca","Bogot<U+00E1>","Chapinero","El Virrey",32
+"316","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Bolivia",32
+"317","Cundinamarca","Bogot<U+00E1>","Kennedy","Nueva Castilla",32
+"318","Cundinamarca","Bogot<U+00E1>","Teusaquillo","La Esmeralda",32
+"319","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Usaqu<U+00E9>n",32
+"320","Santander","Bucaramanga","Comuna",NA,32
+"321",NA,"Giron",NA,NA,32
+"322",NA,"popayan",NA,NA,32
+"323","Cundinamarca","Anapoima",NA,NA,31
+"324","Cundinamarca","Bogot<U+00E1>","San",NA,31
+"325","Cundinamarca","Bogot<U+00E1>","Suba","Lagos De Cordoba",31
+"326","Cundinamarca","La","La",NA,31
+"327",NA,"Floresta",NA,NA,31
+"328",NA,"Galan",NA,NA,31
+"329",NA,"floridablanca",NA,NA,31
+"330","Cundinamarca","Bogot<U+00E1>","Santa","Las Nieves",30
+"331","Valle","Cartago",NA,NA,30
+"332",NA,"Caldas",NA,NA,30
+"333","Antioquia","Medell<U+00ED>n","Comuna","El Chagualo",29
+"334","Cundinamarca","Bogot<U+00E1>","Chapinero","Antiguo Country",29
+"335","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","La Estradita",29
+"336","Cundinamarca","Bogot<U+00E1>","Suba","San Jose De Spring",29
+"337",NA,"Popay<U+00E1>n",NA,NA,29
+"338","Antioquia","Medell<U+00ED>n","Comuna","Campo Valdes ",28
+"339","Cundinamarca","Bogot<U+00E1>","Kennedy","Alsacia",28
+"340","Cundinamarca","Bogot<U+00E1>","Rafael","Gustavo Restrepo",28
+"341",NA,"Bochica",NA,NA,28
+"342",NA,"Girardot",NA,NA,28
+"343",NA,"Quirinal",NA,NA,28
+"344",NA,"rionegro",NA,NA,28
+"345",NA,"toberin",NA,NA,28
+"346","Cundinamarca","Bogot<U+00E1>","Puente","Santa Isabel Occidental",27
+"347","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Lisboa",27
+"348","Magdalena","Santa","Santa",NA,27
+"349",NA,"Barrio",NA,NA,27
+"350",NA,"Gran",NA,NA,27
+"351",NA,"Laureles",NA,NA,27
+"352",NA,"Tunjuelito",NA,NA,27
+"353",NA,"cartagena",NA,NA,27
+"354","Antioquia","Santaf<U+00E9>",NA,NA,26
+"355","Caldas","Villamar<U+00ED>a",NA,NA,26
+"356","Cundinamarca","Bogot<U+00E1>","Chapinero","Emaus",26
+"357","Cundinamarca","Bogot<U+00E1>","Chapinero","La Cabrera",26
+"358","Cundinamarca","Bogot<U+00E1>","Chapinero","Quinta Camacho",26
+"359","Cundinamarca","Bogot<U+00E1>","Kennedy","Americas Occidental ",26
+"360","Cundinamarca","Bogot<U+00E1>","Suba","Niza",26
+"361","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Cedro Golf",26
+"362","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","El Contador",26
+"363",NA,"Carvajal",NA,NA,26
+"364",NA,"Madrid",NA,NA,26
+"365",NA,"Perdomo",NA,NA,26
+"366",NA,"SABANETA",NA,NA,26
+"367",NA,"Spring",NA,NA,26
+"368",NA,"Tibabita",NA,NA,26
+"369",NA,"armenia",NA,NA,26
+"370","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Engativa Centro",25
+"371","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","La Granja",25
+"372","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Los Monjes",25
+"373","Cundinamarca","Bogot<U+00E1>","Suba","Villa Del Prado",25
+"374","Cundinamarca","Bogot<U+00E1>","Teusaquillo","Belalcazar",25
+"375","Cundinamarca","Bogot<U+00E1>","Teusaquillo","El Salitre",25
+"376","Cundinamarca","Bogot<U+00E1>","Usme",NA,25
+"377",NA,"Colina",NA,NA,25
+"378",NA,"Los",NA,NA,25
+"379",NA,"Restrepo",NA,NA,25
+"380",NA,"Rosales",NA,NA,25
+"381",NA,"belen",NA,NA,25
+"382","Antioquia","Medell<U+00ED>n","Comuna","La Milagrosa",24
+"383","Cundinamarca","Bogot<U+00E1>","Chapinero","Porciuncula",24
+"384","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Ciudad Bachue",24
+"385","Cundinamarca","Bogot<U+00E1>","Suba","Morato",24
+"386","Cundinamarca","Bogot<U+00E1>","Suba","Portales Del Norte",24
+"387","Cundinamarca","Tabio",NA,NA,24
+"388",NA,"Facatativa",NA,NA,24
+"389",NA,"Robledo",NA,NA,24
+"390",NA,"Sogamoso",NA,NA,24
+"391",NA,"Sur",NA,NA,24
+"392",NA,"Zipaquir<U+00E1>",NA,NA,24
+"393",NA,"dosquebradas",NA,NA,24
+"394",NA,"polo",NA,NA,24
+"395","Antioquia","Guarne","Guarne",NA,23
+"396","Casanare","Yopal",NA,NA,23
+"397","Cundinamarca","Bogot<U+00E1>","Bosa","Bosa",23
+"398","Cundinamarca","Bogot<U+00E1>","Chapinero","Sucre Javeriana",23
+"399","Cundinamarca","Bogot<U+00E1>","La","Las Aguas",23
+"400","Cundinamarca","Bogot<U+00E1>","Suba","Prado Pinzon",23
+"401","valle","Cali",NA,NA,23
+"402",NA,"Galer<U+00ED>as",NA,NA,23
+"403",NA,"Nari",NA,NA,23
+"404",NA,"Yopal",NA,NA,23
+"405",NA,"engativa",NA,NA,23
+"406",NA,"montevideo",NA,NA,23
+"407","Antioquia","Caldas","Caldas",NA,22
+"408","Atl<U+00E1>ntico","Soledad",NA,NA,22
+"409","Cundinamarca","Bogot<U+00E1>","Chapinero","Marly",22
+"410","Cundinamarca","Bogot<U+00E1>","Puente","Galan",22
+"411","Cundinamarca","Bogot<U+00E1>","Suba","La Campi",22
+"412","Cundinamarca","Bogot<U+00E1>","Teusaquillo","Corferias",22
+"413","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Las Orquideas",22
+"414","Cundinamarca","Soacha","Otras","Ciudad Verde",22
+"415","Cundinamarca","Villeta",NA,NA,22
+"416","Meta","Castilla",NA,NA,22
+"417",NA,"Antioqu<U+00ED>a",NA,NA,22
+"418",NA,"Caba",NA,NA,22
+"419",NA,"Venecia",NA,NA,22
+"420",NA,"laureles",NA,NA,22
+"421","Antioquia","Medell<U+00ED>n","Comuna","C<U+00F3>rdoba",21
+"422","Antioquia","Medell<U+00ED>n","Comuna","Ciudad del Rio",21
+"423","Antioquia","Medell<U+00ED>n","Comuna","La Mota",21
+"424","Antioquia","Medell<U+00ED>n","Comuna","Los Colores",21
+"425","Cundinamarca","Bogot<U+00E1>","Antonio",NA,21
+"426","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Boyac<U+00E1> Real",21
+"427","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Normandia Occidental",21
+"428","Cundinamarca","Bogot<U+00E1>","Kennedy","Boita ",21
+"429","Cundinamarca","Bogot<U+00E1>","Kennedy","Carvajal ",21
+"430","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","El Verbenal",21
+"431","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Santa Barbara Occidental",21
+"432","Cundinamarca","Cajica",NA,NA,21
+"433",NA,"FLORIDABLANCA",NA,NA,21
+"434",NA,"LA",NA,NA,21
+"435",NA,"Palermo",NA,NA,21
+"436",NA,"bochica",NA,NA,21
+"437","Antioquia","Medell<U+00ED>n","Comuna","Carlos E Restrepo",20
+"438","Antioquia","Medell<U+00ED>n","Comuna","La Aguacatala",20
+"439","Antioquia","Medell<U+00ED>n","Comuna","Las Palmas",20
+"440","Atl<U+00E1>ntico","Soledad","Soledad","Ciudad Salitre",20
+"441","Cundinamarca","Bogot<U+00E1>","Fontib<U+00F3>n","Capellania",20
+"442","Cundinamarca","Bogot<U+00E1>","Fontib<U+00F3>n","El Rincon De Modelia",20
+"443","Cundinamarca","Bogot<U+00E1>","Puente","Santa Matilde",20
+"444","Cundinamarca","Bogot<U+00E1>","Suba","Los Lagartos",20
+"445","Cundinamarca","Bogot<U+00E1>","Suba","Vereda Suba Rincon",20
+"446","Cundinamarca","Bogot<U+00E1>","Teusaquillo","San Luis",20
+"447","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Barrancas",20
+"448","Cundinamarca","Chia",NA,NA,20
+"449","Cundinamarca","Ricaurte",NA,NA,20
+"450","Cundinamarca","Soacha","Otras","Soacha",20
+"451",NA,"Castropol",NA,NA,20
+"452",NA,"Las",NA,NA,20
+"453",NA,"Marinilla",NA,NA,20
+"454",NA,"Salvador",NA,NA,20
+"455",NA,"funza",NA,NA,20
+"456",NA,"noroccidente",NA,NA,20
+"457","Boyac<U+00E1>","Villa",NA,NA,19
+"458","Cundinamarca","Bogot<U+00E1>","Antonio","Ciudad Berna",19
+"459","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","El Laurel",19
+"460","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Garces Navas",19
+"461","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Los Cerezos",19
+"462","Cundinamarca","Bogot<U+00E1>","Rafael",NA,19
+"463","Cundinamarca","Bogot<U+00E1>","Suba","Ciudadela Cafam",19
+"464","Cundinamarca","Bogot<U+00E1>","Suba","Ilarco",19
+"465","Cundinamarca","Bogot<U+00E1>","Suba","Nueva Zelandia",19
+"466","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Rincon Del Chico",19
+"467","Santander","Barrancabermeja",NA,NA,19
+"468",NA,"Alsacia",NA,NA,19
+"469",NA,"Boita",NA,NA,19
+"470",NA,"ENVIGADO",NA,NA,19
+"471",NA,"Macarena",NA,NA,19
+"472",NA,"Quiroga",NA,NA,19
+"473",NA,"Rionegro",NA,NA,19
+"474",NA,"Santander",NA,NA,19
+"475",NA,"Tenjo",NA,NA,19
+"476",NA,"neiva",NA,NA,19
+"477",NA,"palmira",NA,NA,19
+"478","Antioquia","Medell<U+00ED>n","Comuna","Bombona ",18
+"479","Antioquia","Medell<U+00ED>n","Comuna","Calasanz",18
+"480","Cundinamarca","Bogot<U+00E1>","Bosa","El Porvenir Bosa Central",18
+"481","Cundinamarca","Bogot<U+00E1>","Chapinero","Chico Reservado",18
+"482","Cundinamarca","Bogot<U+00E1>","Ciudad","Bogota Sur La Esperanza",18
+"483","Cundinamarca","Bogot<U+00E1>","Ciudad",NA,18
+"484","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Zarzamora",18
+"485","Cundinamarca","Bogot<U+00E1>","Kennedy","Boita",18
+"486","Cundinamarca","Bogot<U+00E1>","Kennedy","Nueva Marsella Sector ",18
+"487","Cundinamarca","Bogot<U+00E1>","Kennedy","Urbanizaci<U+00F3>n Banderas",18
+"488","Cundinamarca","Bogot<U+00E1>","Santa","Bosque Izquierdo",18
+"489","Cundinamarca","Bogot<U+00E1>","Suba","Compartir",18
+"490","Cundinamarca","Bogot<U+00E1>","Suba","Gratamira",18
+"491","Cundinamarca","Bogot<U+00E1>","Teusaquillo","Acevedo Tejada",18
+"492","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Usaqu<U+00E9>n Otros",18
+"493","Cundinamarca","Mosquera","Mosquera",NA,18
+"494","Santander","Bucaramanga","Comuna","Bucaramanga",18
+"495",NA,"Andes",NA,NA,18
+"496",NA,"Ch<U+00ED>a",NA,NA,18
+"497",NA,"Ciudadela",NA,NA,18
+"498",NA,"Modelo",NA,NA,18
+"499",NA,"Robles",NA,NA,18
+"500",NA,"Soledad",NA,NA,18
+"501",NA,"Villas",NA,NA,18
+"502",NA,"centro",NA,NA,18
+"503",NA,"puente",NA,NA,18
+"504",NA,"restrepo",NA,NA,18
+"505",NA,"valledupar",NA,NA,18
+"506","Antioquia","Medell<U+00ED>n","Comuna","Castropol",17
+"507","Antioquia","Medell<U+00ED>n","Comuna","La Floresta",17
+"508","Antioquia","Medell<U+00ED>n","Comuna","Los Conquistadores",17
+"509","Antioquia","Sabaneta","Sabaneta","Sabaneta Real",17
+"510","Antioquia","San",NA,NA,17
+"511","Cundinamarca","Bogot<U+00E1>","Barrios","San Miguel",17
+"512","Cundinamarca","Bogot<U+00E1>","Rafael","Country Sur",17
+"513","Cundinamarca","Bogot<U+00E1>","Suba","Las Villas",17
+"514","Cundinamarca","Bogot<U+00E1>","Suba","Victoria Norte",17
+"515","Cundinamarca","Bogot<U+00E1>","Teusaquillo","Quirinal",17
+"516","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Santa Barbara Central",17
+"517","Cundinamarca","Madrid","Madrid",NA,17
+"518","Cundinamarca","Tocancip<U+00E1>",NA,NA,17
+"519","Santander","Floridablanca","Floridablanca","Alto De Ca",17
+"520","Valle","Cali","Comuna",NA,17
+"521",NA,"Prado",NA,NA,17
+"522",NA,"Quimbaya",NA,NA,17
+"523",NA,"Tabio",NA,NA,17
+"524",NA,"Usme",NA,NA,17
+"525",NA,"andes",NA,NA,17
+"526",NA,"chico",NA,NA,17
+"527",NA,"norte",NA,NA,17
+"528",NA,"salitre",NA,NA,17
+"529","Antioquia","El","El",NA,16
+"530","Antioquia","Medell<U+00ED>n","Comuna","F<U+00E1>tima",16
+"531","Cundinamarca","Bogot<U+00E1>","Barrios","Los Andes",16
+"532","Cundinamarca","Bogot<U+00E1>","Chapinero","El Chico",16
+"533","Cundinamarca","Bogot<U+00E1>","Chapinero","Lago Gaitan El Lago",16
+"534","Cundinamarca","Bogot<U+00E1>","Puente","Puente Aranda",16
+"535","Cundinamarca","Bogot<U+00E1>","Suba","Ciudad Jardin Norte",16
+"536","Cundinamarca","Bogot<U+00E1>","Suba","Lombardia",16
+"537","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Santa Ana",16
+"538","Valle","Cali","Comuna","El Caney",16
+"539","Valle","Tulu<U+00E1>",NA,NA,16
+"540",NA,"Bachue",NA,NA,16
+"541",NA,"Ca",NA,NA,16
+"542",NA,"Candelaria",NA,NA,16
+"543",NA,"Marsella",NA,NA,16
+"544",NA,"las",NA,NA,16
+"545",NA,"poblado",NA,NA,16
+"546",NA,"tintal",NA,NA,16
+"547","Cundinamar","Bogot<U+00E1>",NA,NA,15
+"548","Cundinamarca","Bogot<U+00E1>","Antonio","Villa Mayor Oriental",15
+"549","Cundinamarca","Bogot<U+00E1>","Barrios","San Fernando Occidental",15
+"550","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Paris Gaitan",15
+"551","Cundinamarca","Bogot<U+00E1>","Kennedy","Alameda De Timiza",15
+"552","Cundinamarca","Bogot<U+00E1>","Martires","Veraguas",15
+"553","Cundinamarca","Bogot<U+00E1>","Puente","Brisas Del Galan",15
+"554","Cundinamarca","Bogot<U+00E1>","Puente","Carabelas",15
+"555","Cundinamarca","Bogot<U+00E1>","Puente","Tibana",15
+"556","Cundinamarca","Bogot<U+00E1>","San"," De Julio",15
+"557","Cundinamarca","Bogot<U+00E1>","Suba","El Pinar",15
+"558","Cundinamarca","Bogot<U+00E1>","Suba","Granada Norte",15
+"559","Cundinamarca","Bogot<U+00E1>","Suba","Iberia",15
+"560","Cundinamarca","Bogot<U+00E1>","Suba","Pinar De Suba",15
+"561","Cundinamarca","Venecia",NA,NA,15
+"562","Valle","Guadalajara",NA,NA,15
+"563",NA,"ANTIOQUIA",NA,NA,15
+"564",NA,"CEDRITOS",NA,NA,15
+"565",NA,"CHAPINERO",NA,NA,15
+"566",NA,"Carabelas",NA,NA,15
+"567",NA,"Flandes",NA,NA,15
+"568",NA,"Limonar",NA,NA,15
+"569",NA,"bachue",NA,NA,15
+"570",NA,"ilarco",NA,NA,15
+"571",NA,"quinta",NA,NA,15
+"572",NA,"sur",NA,NA,15
+"573","Antioquia","Medell<U+00ED>n","Comuna","Cristo Rey",14
+"574","Antioquia","Medell<U+00ED>n","Comuna","Enciso",14
+"575","Boyac<U+00E1>","Duitama",NA,NA,14
+"576","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Santa Rosita",14
+"577","Cundinamarca","Bogot<U+00E1>","Suba","San Jose De Bavaria",14
+"578","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","San Cristobal Norte",14
+"579","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Santa Teresa",14
+"580","Quind<U+00ED>o","Calarca","Calarc<U+00E1>",NA,14
+"581",NA,"BARRANQUILLA",NA,NA,14
+"582",NA,"BOSA",NA,NA,14
+"583",NA,"Bellavista",NA,NA,14
+"584",NA,"Fatima",NA,NA,14
+"585",NA,"Jimnacio",NA,NA,14
+"586",NA,"Mirandela",NA,NA,14
+"587",NA,"Quinta",NA,NA,14
+"588",NA,"bosque",NA,NA,14
+"589",NA,"calle",NA,NA,14
+"590",NA,"piedecuesta",NA,NA,14
+"591",NA,"valle",NA,NA,14
+"592","Antioquia","Barbosa",NA,NA,13
+"593","Antioquia","Medell<U+00ED>n","Comuna","El Vel<U+00F3>dromo",13
+"594","Antioquia","Medell<U+00ED>n","Comuna","Manila",13
+"595","Antioquia","Rionegro","Comuna","San Antonio de Pereira",13
+"596","Antioquia","Santaf<U+00E9>","Santaf<U+00E9>",NA,13
+"597","Cundinamarca","Bogot<U+00E1>","Ciudad","Bogota Sector Tequendama",13
+"598","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Bochica ",13
+"599","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Santa Helenita",13
+"600","Cundinamarca","Bogot<U+00E1>","Fontib<U+00F3>n","Cofradia",13
+"601","Cundinamarca","Bogot<U+00E1>","Fontib<U+00F3>n","Villemar",13
+"602","Cundinamarca","Bogot<U+00E1>","Kennedy","Floralia ",13
+"603","Cundinamarca","Bogot<U+00E1>","Kennedy","Lago Timiza Etapa ",13
+"604","Cundinamarca","Bogot<U+00E1>","Puente","Alqueria",13
+"605","Cundinamarca","Bogot<U+00E1>","San","Quinta Ramos",13
+"606","Cundinamarca","Bogot<U+00E1>","Suba","Estoril",13
+"607","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Bosque De Pinos",13
+"608","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Multicentro",13
+"609","Cundinamarca","Cota","Cota",NA,13
+"610","Cundinamarca","Tenjo",NA,NA,13
+"611","Santander","Gir<U+00F3>n","Gir<U+00F3>n","Gir<U+00F3>n Campestre",13
+"612","Tolima","Melgar",NA,NA,13
+"613","antioquia","Medellin",NA,NA,13
+"614",NA,"Bolivia",NA,NA,13
+"615",NA,"Estrella",NA,NA,13
+"616",NA,"MEDITERRANE",NA,NA,13
+"617",NA,"TUNAL",NA,NA,13
+"618",NA,"alamos",NA,NA,13
+"619",NA,"giron",NA,NA,13
+"620",NA,"jamundi",NA,NA,13
+"621","Antioquia","Armenia",NA,NA,12
+"622","Antioquia","Bello","La","Caba",12
+"623","Antioquia","Medell<U+00ED>n","Comuna","Patio Bonito",12
+"624","Antioquia","Medell<U+00ED>n","Medell<U+00ED>n","Santa Elena",12
+"625","Atl<U+00E1>ntico","Barranquilla","Sur","Atl<U+00E1>ntico",12
+"626","Cundinamarca","Bogot<U+00E1>","Barrios"," de Agosto",12
+"627","Cundinamarca","Bogot<U+00E1>","Barrios","Alcazares Norte",12
+"628","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Metropolis",12
+"629","Cundinamarca","Bogot<U+00E1>","Kennedy","La Igualdad",12
+"630","Cundinamarca","Bogot<U+00E1>","Puente","Autopista Muzu",12
+"631","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","La Carolina",12
+"632","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","San Antonio Norte",12
+"633","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Villa Magdala",12
+"634","Cundinamarca","Soacha","Comuna",NA,12
+"635","Norte","C<U+00FA>cuta","C<U+00FA>cuta",NA,12
+"636",NA,"ALAMOS",NA,NA,12
+"637",NA,"Bel<U+00E9>n",NA,NA,12
+"638",NA,"Bella",NA,NA,12
+"639",NA,"Chingui",NA,NA,12
+"640",NA,"Fusagasuga",NA,NA,12
+"641",NA,"Girardota",NA,NA,12
+"642",NA,"Minuto",NA,NA,12
+"643",NA,"Nicolas",NA,NA,12
+"644",NA,"PEREIRA",NA,NA,12
+"645",NA,"SUBA",NA,NA,12
+"646",NA,"Santamarta",NA,NA,12
+"647",NA,"TEUSAQUILLO",NA,NA,12
+"648",NA,"Tejar",NA,NA,12
+"649",NA,"Tibana",NA,NA,12
+"650",NA,"barrio",NA,NA,12
+"651",NA,"colina",NA,NA,12
+"652",NA,"fusagasuga",NA,NA,12
+"653",NA,"prado",NA,NA,12
+"654","Antioquia","Bello","La",NA,11
+"655","Antioquia","Envigado","Envigado","Cumbres",11
+"656","Antioquia","Medell<U+00ED>n","Comuna","Altos Del Poblado",11
+"657","Antioquia","Medell<U+00ED>n","Comuna","Bel<U+00E9>n",11
+"658","Antioquia","Medell<U+00ED>n","Comuna","El Salvador",11
+"659","Bol<U+00ED>var","Cartagena","Cartagena",NA,11
+"660","Cundinamarca","Bogot<U+00E1>","Barrios","San Felipe",11
+"661","Cundinamarca","Bogot<U+00E1>","Chapinero","Bosque Calderon",11
+"662","Cundinamarca","Bogot<U+00E1>","Chapinero","Chapinero Norte",11
+"663","Cundinamarca","Bogot<U+00E1>","Chapinero","Maria Cristina",11
+"664","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","San Antonio Norte",11
+"665","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Villas del Dorado",11
+"666","Cundinamarca","Bogot<U+00E1>","Fontib<U+00F3>n","Salitre Nor Occidental",11
+"667","Cundinamarca","Bogot<U+00E1>","Kennedy","Roma",11
+"668","Cundinamarca","Bogot<U+00E1>","Kennedy","Timiza",11
+"669","Cundinamarca","Bogot<U+00E1>","Rafael","San Jose Sur",11
+"670","Cundinamarca","Bogot<U+00E1>","Santa",NA,11
+"671","Cundinamarca","Bogot<U+00E1>","Tunjuelito",NA,11
+"672","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Tibabita",11
+"673","Cundinamarca","Funza","Funza",NA,11
+"674","Cundinamarca","Sop<U+00F3>",NA,NA,11
+"675","Cundinamarca","Zipaquira",NA,NA,11
+"676",NA,"BUCARAMNGA",NA,NA,11
+"677",NA,"Barrios",NA,NA,11
+"678",NA,"Bucarica",NA,NA,11
+"679",NA,"Buga",NA,NA,11
+"680",NA,"Calarca",NA,NA,11
+"681",NA,"Calasanz",NA,NA,11
+"682",NA,"Calle",NA,NA,11
+"683",NA,"Cantalejo",NA,NA,11
+"684",NA,"Casa",NA,NA,11
+"685",NA,"Chiminangos",NA,NA,11
+"686",NA,"Gal<U+00E1>n",NA,NA,11
+"687",NA,"Jardin",NA,NA,11
+"688",NA,"Polo",NA,NA,11
+"689",NA,"QUIRIGUA",NA,NA,11
+"690",NA,"RIONEGRO",NA,NA,11
+"691",NA,"Rodadero",NA,NA,11
+"692",NA,"barrranquilla",NA,NA,11
+"693",NA,"caldas",NA,NA,11
+"694",NA,"floresta",NA,NA,11
+"695",NA,"huila",NA,NA,11
+"696",NA,"manila",NA,NA,11
+"697",NA,"mirandela",NA,NA,11
+"698",NA,"palermo",NA,NA,11
+"699",NA,"perdomo",NA,NA,11
+"700",NA,"pontevedra",NA,NA,11
+"701",NA,"tibana",NA,NA,11
+"702","Antioquia","Guatape",NA,NA,10
+"703","Antioquia","Medell<U+00ED>n","Comuna","Alfonso L<U+00F3>pez",10
+"704","Antioquia","Medell<U+00ED>n","Comuna","Florida Nueva",10
+"705","Antioquia","Medell<U+00ED>n","Comuna","San Javier ",10
+"706","Atl<U+00E1>ntico","Barranquilla","Sur","Pasadena",10
+"707","Atl<U+00E1>ntico","Soledad","Soledad",NA,10
+"708","Cundinamarca","Bogot<U+00E1>","Antonio","Restrepo",10
+"709","Cundinamarca","Bogot<U+00E1>","Bosa","Berlin De Bosa La Libertad ",10
+"710","Cundinamarca","Bogot<U+00E1>","Chapinero","Pardo Rubio",10
+"711","Cundinamarca","Bogot<U+00E1>","Ciudad","Ismael Perdomo",10
+"712","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","La Europa",10
+"713","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Tabora",10
+"714","Cundinamarca","Bogot<U+00E1>","Fontib<U+00F3>n","Carlos Lleras",10
+"715","Cundinamarca","Bogot<U+00E1>","Kennedy","Tintala",10
+"716","Cundinamarca","Bogot<U+00E1>","Martires","Eduardo Santos",10
+"717","Cundinamarca","Bogot<U+00E1>","Martires",NA,10
+"718","Cundinamarca","Bogot<U+00E1>","Rafael","Bravo Paez Quiroga",10
+"719","Cundinamarca","Bogot<U+00E1>","San","San Cristobal Sur",10
+"720","Cundinamarca","Bogot<U+00E1>","Suba","Niza Suba",10
+"721","Cundinamarca","Bogot<U+00E1>","Suba","San Jose Del Prado",10
+"722","Cundinamarca","Bogot<U+00E1>","Teusaquillo","Alfonso Lopez",10
+"723","Cundinamarca","Bogot<U+00E1>","Teusaquillo","Campin",10
+"724","Cundinamarca","Bogot<U+00E1>","Teusaquillo","Chapinero Occidental",10
+"725","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Las Margaritas",10
+"726","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Santa Ana Occidental",10
+"727","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Unicentro",10
+"728","Cundinamarca","San",NA,NA,10
+"729","Cundinamarca","Soacha","Comuna","Soacha Parque",10
+"730","Huila","Neiva","Comuna","Neiva Ya",10
+"731","Tolima","Carmen",NA,NA,10
+"732","Valle","Caicedonia","Caicedonia","Valle del Cauca",10
+"733","Valle","Calima",NA,NA,10
+"734",NA,"Antioqui",NA,NA,10
+"735",NA,"CEVILLAR",NA,NA,10
+"736",NA,"Cauca",NA,NA,10
+"737",NA,"Duitama",NA,NA,10
+"738",NA,"Galicia",NA,NA,10
+"739",NA,"Nueva",NA,NA,10
+"740",NA,"PALMIRA",NA,NA,10
+"741",NA,"Quindio",NA,NA,10
+"742",NA,"SAN",NA,NA,10
+"743",NA,"Suba","compartir",NA,10
+"744",NA,"Ubate",NA,NA,10
+"745",NA,"barrios",NA,NA,10
+"746",NA,"buenos",NA,NA,10
+"747",NA,"carola",NA,NA,10
+"748",NA,"fusagasug<U+00E1>",NA,NA,10
+"749",NA,"madrid",NA,NA,10
+"750",NA,"medell<U+00ED>n",NA,NA,10
+"751",NA,"pasto",NA,NA,10
+"752",NA,"siete",NA,NA,10
+"753","Antioquia","Ciudad",NA,NA,9
+"754","Antioquia","Girardota",NA,NA,9
+"755","Antioquia","Medell<U+00ED>n","Comuna","Aranjuez",9
+"756","Antioquia","Medell<U+00ED>n","Comuna","Campo Amor",9
+"757","Antioquia","Medell<U+00ED>n","Comuna","Florencia",9
+"758","Antioquia","Medell<U+00ED>n","Comuna","Manrique Central ",9
+"759","Antioquia","Medell<U+00ED>n","Comuna","Santa Luc<U+00ED>a",9
+"760","Archipi<U+00E9>lago","San",NA,NA,9
+"761","Boyac<U+00E1>","Paipa",NA,NA,9
+"762","Boyac<U+00E1>","Sogamoso",NA,NA,9
+"763","C<U+00F3>rdoba","Monter<U+00ED>a","Monteria",NA,9
+"764","Cauca","Popay<U+00E1>n","Comuna","Colina Campestre",9
+"765","Cundinamarca","Bogot<U+00E1>","Chapinero","Chapinero Otros",9
+"766","Cundinamarca","Bogot<U+00E1>","Ciudad","Cedritos Del Sur",9
+"767","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Andalucia",9
+"768","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Florencia",9
+"769","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","La Palestina",9
+"770","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","La Soledad Norte",9
+"771","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Morisco",9
+"772","Cundinamarca","Bogot<U+00E1>","Kennedy","El Rincon De Los Angeles",9
+"773","Cundinamarca","Bogot<U+00E1>","La","Candelaria",9
+"774","Cundinamarca","Bogot<U+00E1>","Puente","Jazmin",9
+"775","Cundinamarca","Bogot<U+00E1>","Suba","Julio Florez",9
+"776","Cundinamarca","Bogot<U+00E1>","Suba","La Floresta Norte",9
+"777","Cundinamarca","Bogot<U+00E1>","Suba","Santa Helena",9
+"778","Cundinamarca","Bogot<U+00E1>","Tunjuelito","Fatima",9
+"779","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","El Redil",9
+"780","Cundinamarca","Girardot","Comuna","Brisas De Girardot",9
+"781","Santander","Bucaramanga","Comuna","Diamante ",9
+"782","Sucre","Cove",NA,NA,9
+"783","Sucre","Sincelejo",NA,NA,9
+"784","Tolima","Ibagu<U+00E9>","Comuna","Urbanizaci<U+00F3>n Ibagu<U+00E9> ",9
+"785","Tolima","Ibagu<U+00E9>","Comuna",NA,9
+"786","Valle","Cali","Comuna","Ciudad Jard<U+00ED>n",9
+"787","Valle","Cali","Comuna","Tejares Cristales",9
+"788",NA,"Boston",NA,NA,9
+"789",NA,"Carmen",NA,NA,9
+"790",NA,"Cartago",NA,NA,9
+"791",NA,"Cunday",NA,NA,9
+"792",NA,"ENGATIVA",NA,NA,9
+"793",NA,"Fontib<U+00F3>n",NA,NA,9
+"794",NA,"Greco",NA,NA,9
+"795",NA,"Localidad",NA,NA,9
+"796",NA,"MAZUREN",NA,NA,9
+"797",NA,"Malib<U+00FA>",NA,NA,9
+"798",NA,"Monter<U+00ED>a",NA,NA,9
+"799",NA,"Primavera",NA,NA,9
+"800",NA,"Puerto",NA,NA,9
+"801",NA,"Tibabuyes",NA,NA,9
+"802",NA,"Timiza",NA,NA,9
+"803",NA,"Valle",NA,NA,9
+"804",NA,"abadias",NA,NA,9
+"805",NA,"boston",NA,NA,9
+"806",NA,"candelaria",NA,NA,9
+"807",NA,"carlos",NA,NA,9
+"808",NA,"ciudadela",NA,NA,9
+"809",NA,"los",NA,NA,9
+"810",NA,"nueva",NA,NA,9
+"811",NA,"pasadena",NA,NA,9
+"812",NA,"portal",NA,NA,9
+"813",NA,"quiroga",NA,NA,9
+"814",NA,"sogamoso",NA,NA,9
+"815","Antioquia","Medell<U+00ED>n","Comuna","Suramericana",8
+"816","Cundinama","Bogot<U+00E1>",NA,NA,8
+"817","Cundinamarca","Bogot<U+00E1>","Barrios","La Patria",8
+"818","Cundinamarca","Bogot<U+00E1>","Bosa","Chicala",8
+"819","Cundinamarca","Bogot<U+00E1>","Bosa","Villas Del Rio",8
+"820","Cundinamarca","Bogot<U+00E1>","Ciudad","Cooperativa Ismael Perdomo",8
+"821","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","El Encanto",8
+"822","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","La Caba",8
+"823","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Palo Blanco",8
+"824","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Santa Cecilia",8
+"825","Cundinamarca","Bogot<U+00E1>","Kennedy","Americas Central",8
+"826","Cundinamarca","Bogot<U+00E1>","Kennedy","Casa Blanca ",8
+"827","Cundinamarca","Bogot<U+00E1>","Kennedy","Urbanizaci<U+00F3>n Castilla La Nueva",8
+"828","Cundinamarca","Bogot<U+00E1>","Martires","Usatama",8
+"829","Cundinamarca","Bogot<U+00E1>","Puente","Santa Rita",8
+"830","Cundinamarca","Bogot<U+00E1>","Suba","Alcala",8
+"831","Cundinamarca","Bogot<U+00E1>","Suba","Guaymaral",8
+"832","Cundinamarca","Bogot<U+00E1>","Suba","Santa Rosa",8
+"833","Cundinamarca","Bogot<U+00E1>","Tunjuelito","Venecia",8
+"834","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","San Antonio Noroccidental",8
+"835","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Santa Barbara Alta",8
+"836","Cundinamarca","Silvania",NA,NA,8
+"837","Cundinamarca","Tabio","Tabio",NA,8
+"838","Meta","Acac<U+00ED>as",NA,NA,8
+"839","Norte","Bucarasica",NA,NA,8
+"840","Quind<U+00ED>o","Armenia","Comuna","Quindio",8
+"841","Santander","Piedecuesta","Piedecuesta","Balcones De La Castellana",8
+"842","Valle","Cali","Comuna","Valle de Lili",8
+"843",NA,"Belmira",NA,NA,8
+"844",NA,"Buenos",NA,NA,8
+"845",NA,"CASTILLA",NA,NA,8
+"846",NA,"Calera",NA,NA,8
+"847",NA,"Cantabria",NA,NA,8
+"848",NA,"Country",NA,NA,8
+"849",NA,"Emaus",NA,NA,8
+"850",NA,"Espa",NA,NA,8
+"851",NA,"Florencia",NA,NA,8
+"852",NA,"Keneddy",NA,NA,8
+"853",NA,"M<U+00E1>rtires",NA,NA,8
+"854",NA,"Monteria",NA,NA,8
+"855",NA,"Multicentro",NA,NA,8
+"856",NA,"NIQUIA",NA,NA,8
+"857",NA,"Pablo",NA,NA,8
+"858",NA,"Paula",NA,NA,8
+"859",NA,"SANTA",NA,NA,8
+"860",NA,"SANTANDER",NA,NA,8
+"861",NA,"Serafina",NA,NA,8
+"862",NA,"Tocancip<U+00E1>",NA,NA,8
+"863",NA,"bolivia",NA,NA,8
+"864",NA,"gran",NA,NA,8
+"865",NA,"lindaraja",NA,NA,8
+"866",NA,"marsella",NA,NA,8
+"867",NA,"sabambu",NA,NA,8
+"868",NA,"zapatoca",NA,NA,8
+"869","Antioquia","Itag","Comuna","Ditaires",7
+"870","Antioquia","Marinilla","Marinilla",NA,7
+"871","Antioquia","Medell<U+00ED>n","Comuna","Boyac<U+00E1> Las Brisas",7
+"872","Antioquia","Medell<U+00ED>n","Comuna","La Pilarica",7
+"873","Antioquia","Medell<U+00ED>n","Comuna","Loma De Los Bernal",7
+"874","Antioquia","Medell<U+00ED>n","Comuna","Rodeo Alto",7
+"875","Antioquia","Medell<U+00ED>n","Comuna","San Joaqu<U+00ED>n",7
+"876","Antioquia","Medell<U+00ED>n","Comuna","Sevilla",7
+"877","Antioquia","Medell<U+00ED>n","Medell<U+00ED>n","San Crist<U+00F3>bal",7
+"878","Atl<U+00E1>ntico","Barranquilla","Riomar","Villa Campestre",7
+"879","Atl<U+00E1>ntico","Barranquilla","Riomar","Villa Santos",7
+"880","Bol<U+00ED>var","Turbaco",NA,NA,7
+"881","Boyac<U+00E1>","Bel<U+00E9>n",NA,NA,7
+"882","Caldas","Chinchin<U+00E1>",NA,NA,7
+"883","Caldas","Villamar<U+00ED>a","Villamar<U+00ED>a",NA,7
+"884","Cundinamarca","Bogot<U+00E1>","Barrios","Entre Rios",7
+"885","Cundinamarca","Bogot<U+00E1>","Barrios","Santa Sofia",7
+"886","Cundinamarca","Bogot<U+00E1>","Bosa","Bosa Nova ",7
+"887","Cundinamarca","Bogot<U+00E1>","Chapinero","La Salle",7
+"888","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Bellavista Occidental",7
+"889","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","El Cedro Engativ<U+00E1>",7
+"890","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","El Guali",7
+"891","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","La Serena",7
+"892","Cundinamarca","Bogot<U+00E1>","Kennedy","Avenida Cundinamarca",7
+"893","Cundinamarca","Bogot<U+00E1>","Kennedy","Los Pinos De Marsella",7
+"894","Cundinamarca","Bogot<U+00E1>","Kennedy","Tundama",7
+"895","Cundinamarca","Bogot<U+00E1>","Kennedy","Vereda El Tintal",7
+"896","Cundinamarca","Bogot<U+00E1>","La","Nueva Santa Fe De Bogota",7
+"897","Cundinamarca","Bogot<U+00E1>","Puente","Cundinamarca",7
+"898","Cundinamarca","Bogot<U+00E1>","Puente","Milenta",7
+"899","Cundinamarca","Bogot<U+00E1>","Suba","Almendros Norte",7
+"900","Cundinamarca","Bogot<U+00E1>","Suba","Atabanza",7
+"901","Cundinamarca","Bogot<U+00E1>","Suba","Aures",7
+"902","Cundinamarca","Bogot<U+00E1>","Suba","Lisboa",7
+"903","Cundinamarca","Bogot<U+00E1>","Suba","Malibu",7
+"904","Cundinamarca","Bogot<U+00E1>","Suba","Niza Norte",7
+"905","Cundinamarca","Bogot<U+00E1>","Suba","Sabana De Tibabuyes",7
+"906","Cundinamarca","Bogot<U+00E1>","Suba","San Carlos De Tibabuyes",7
+"907","Cundinamarca","Bogot<U+00E1>","Suba","Teusaquillo De Suba",7
+"908","Cundinamarca","Bogot<U+00E1>","Teusaquillo","Quesada",7
+"909","Cundinamarca","Bogot<U+00E1>","Teusaquillo","quinta paredes",7
+"910","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Lijac<U+00E1>",7
+"911","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Nuevo Country",7
+"912","Cundinamarca","El",NA,NA,7
+"913","Cundinamdarca","Bogot<U+00E1>",NA,NA,7
+"914","Huila","Garz<U+00F3>n",NA,NA,7
+"915","Nari","Pasto","Corregimiento",NA,7
+"916","Risaralda","Pereira","Pereira","Corregimiento Cerritos",7
+"917","Santander","Barbosa","Barbosa",NA,7
+"918","Santander","Bucaramanga","Comuna","San Alonso",7
+"919","Santander","Floridablanca","Floridablanca","Bucarica",7
+"920","Santander","Floridablanca","Floridablanca","Ca",7
+"921","Santander","Piedecuesta","Piedecuesta",NA,7
+"922","Valle","Cali","Comuna","Brisas De Los ",7
+"923","Valle","Yumbo","Dapa",NA,7
+"924",NA,"Alcala",NA,NA,7
+"925",NA,"Anapoima",NA,NA,7
+"926",NA,"BELLO",NA,NA,7
+"927",NA,"Batan",NA,NA,7
+"928",NA,"Britalia",NA,NA,7
+"929",NA,"Buenaventura",NA,NA,7
+"930",NA,"Facatativ<U+00E1>",NA,NA,7
+"931",NA,"Huila",NA,NA,7
+"932",NA,"Ilarco",NA,NA,7
+"933",NA,"Melgar",NA,NA,7
+"934",NA,"Milenta",NA,NA,7
+"935",NA,"Morato",NA,NA,7
+"936",NA,"Niquia",NA,NA,7
+"937",NA,"Noroccidente",NA,NA,7
+"938",NA,"Patio",NA,NA,7
+"939",NA,"Popayan",NA,NA,7
+"940",NA,"Porciuncula",NA,NA,7
+"941",NA,"Serrezuela",NA,NA,7
+"942",NA,"Subachoque",NA,NA,7
+"943",NA,"Tierra",NA,NA,7
+"944",NA,"Villamaria",NA,NA,7
+"945",NA,"Zona",NA,NA,7
+"946",NA,"bonavista",NA,NA,7
+"947",NA,"cantalejo",NA,NA,7
+"948",NA,"cucuta",NA,NA,7
+"949",NA,"duitama",NA,NA,7
+"950",NA,"machado",NA,NA,7
+"951",NA,"molinos",NA,NA,7
+"952",NA,"monteria",NA,NA,7
+"953",NA,"niquia",NA,NA,7
+"954",NA,"porciuncula",NA,NA,7
+"955",NA,"santander",NA,NA,7
+"956",NA,"sucre",NA,NA,7
+"957",NA,"tunja",NA,NA,7
+"958","Antioquia","Bello","La","La Caba",6
+"959","Antioquia","Bello","Mirador","Niqu<U+00ED>a Bifamiliares",6
+"960","Antioquia","Bello","Mirador",NA,6
+"961","Antioquia","Itag","Comuna","Viviendas del Sur",6
+"962","Antioquia","Jard<U+00ED>n",NA,NA,6
+"963","Antioquia","La","La","La Tablaza",6
+"964","Antioquia","Medell<U+00ED>n","Comuna","Calasanz Parte Alta",6
+"965","Antioquia","Medell<U+00ED>n","Comuna","El Poblado",6
+"966","Antioquia","Medell<U+00ED>n","Comuna","La Castellana",6
+"967","Antioquia","Medell<U+00ED>n","Comuna","Laureles",6
+"968","Antioquia","Medellin",NA,NA,6
+"969","Antioquia","Rionegro","Corregimiento","Vereda Llanogrande",6
+"970","Atl<U+00E1>ntico","Barranquilla","Norte","Ciudad Jard<U+00ED>n",6
+"971","Atl<U+00E1>ntico","Puerto","Puerto",NA,6
+"972","Boyac<U+00E1>","Tunja","Tunja",NA,6
+"973","C","Bogot<U+00E1>",NA,NA,6
+"974","Cundinamarca","Anapoima","Anapoima",NA,6
+"975","Cundinamarca","Bogoaat<U+00E1>",NA,NA,6
+"976","Cundinamarca","Bogot<U+00E1>","Antonio","Policarpa",6
+"977","Cundinamarca","Bogot<U+00E1>","Barrios","Los Alcazares",6
+"978","Cundinamarca","Bogot<U+00E1>","Barrios","Popular Modelo",6
+"979","Cundinamarca","Bogot<U+00E1>","Bosa","El Porvenir",6
+"980","Cundinamarca","Bogot<U+00E1>","Bosa","Santa Isabel",6
+"981","Cundinamarca","Bogot<U+00E1>","Chapinero","Bellavista",6
+"982","Cundinamarca","Bogot<U+00E1>","Ciudad","Candelaria La Nueva",6
+"983","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Villas De Madrigal",6
+"984","Cundinamarca","Bogot<U+00E1>","Fontib<U+00F3>n","Zona Franca",6
+"985","Cundinamarca","Bogot<U+00E1>","Kennedy","Bavaria Techo ",6
+"986","Cundinamarca","Bogot<U+00E1>","Kennedy","Ciudad Kennedy Occidental",6
+"987","Cundinamarca","Bogot<U+00E1>","Kennedy","La Floresta",6
+"988","Cundinamarca","Bogot<U+00E1>","Kennedy","Santa Catalina",6
+"989","Cundinamarca","Bogot<U+00E1>","Kennedy","Urbanizaci<U+00F3>n Mandalay",6
+"990","Cundinamarca","Bogot<U+00E1>","Martires","Samper Mendoza",6
+"991","Cundinamarca","Bogot<U+00E1>","Puente","Alcala",6
+"992","Cundinamarca","Bogot<U+00E1>","Puente","La Guaca",6
+"993","Cundinamarca","Bogot<U+00E1>","Rafael","Los Molinos",6
+"994","Cundinamarca","Bogot<U+00E1>","San","Nari",6
+"995","Cundinamarca","Bogot<U+00E1>","Santa","Las Cruces",6
+"996","Cundinamarca","Bogot<U+00E1>","Suba","Colinas De Suba",6
+"997","Cundinamarca","Bogot<U+00E1>","Suba","Niza IX",6
+"998","Cundinamarca","Bogot<U+00E1>","Suba","Potosi",6
+"999","Cundinamarca","Bogot<U+00E1>","Suba","Prado Veraniego Sur",6
+"1000","Cundinamarca","Bogot<U+00E1>","Tunjuelito","Venecia Occidental",6
+"1001","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Balmoral Norte",6
+"1002","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Bosque De San Antonio",6
+"1003","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Montearroyo",6
+"1004","Cundinamarca","Chinauta",NA,NA,6
+"1005","Cundinamarca","Girardot","Comuna","La Colina Campestre",6
+"1006","Cundinamarca","Guayabal",NA,NA,6
+"1007","Cundinamarcal","Bogot<U+00E1>",NA,NA,6
+"1008","Cundinamarcao","Bogot<U+00E1>",NA,NA,6
+"1009","Huila","Pitalito",NA,NA,6
+"1010","Magdalena","Santa","Comuna","Rodadero Tradicional",6
+"1011","Norte","Villa",NA,NA,6
+"1012","Risaralda","Pereira","Comuna",NA,6
+"1013","Santander","Bucaramanga","Comuna","Ciudadela Real De Minas",6
+"1014","Santander","Bucaramanga","Comuna","La Victoria",6
+"1015","Santander","Bucaramanga","Comuna","Sotomayor",6
+"1016","Santander","Bucaramanga",NA,"Bucaramanga",6
+"1017","Tolima","Flandes",NA,NA,6
+"1018","Tolima","Santa",NA,NA,6
+"1019","Valle","Buenaventura",NA,NA,6
+"1020","Valle","Cali","Comuna","Ciudad Cordoba",6
+"1021","antioquia","Medell<U+00ED>n",NA,NA,6
+"1022",NA,"Alhambra",NA,NA,6
+"1023",NA,"Bosque",NA,NA,6
+"1024",NA,"CENTRO",NA,NA,6
+"1025",NA,"Campo",NA,NA,6
+"1026",NA,"Castellana",NA,NA,6
+"1027",NA,"Chic<U+00F3>",NA,NA,6
+"1028",NA,"Circasia",NA,NA,6
+"1029",NA,"Dos",NA,NA,6
+"1030",NA,"FUNZA",NA,NA,6
+"1031",NA,"Gir<U+00F3>n",NA,NA,6
+"1032",NA,"ITAGUI",NA,NA,6
+"1033",NA,"Jazmin",NA,NA,6
+"1034",NA,"Manrique",NA,NA,6
+"1035",NA,"Marly",NA,NA,6
+"1036",NA,"Martires",NA,NA,6
+"1037",NA,"PASTO",NA,NA,6
+"1038",NA,"Paipa",NA,NA,6
+"1039",NA,"QUINDIO",NA,NA,6
+"1040",NA,"Rafael",NA,NA,6
+"1041",NA,"Simon",NA,NA,6
+"1042",NA,"Usaqu<U+00E9>n",NA,NA,6
+"1043",NA,"alameda",NA,NA,6
+"1044",NA,"altos",NA,NA,6
+"1045",NA,"apartamento",NA,NA,6
+"1046",NA,"batan",NA,NA,6
+"1047",NA,"belmira",NA,NA,6
+"1048",NA,"bo",NA,NA,6
+"1049",NA,"ca",NA,NA,6
+"1050",NA,"calasanz",NA,NA,6
+"1051",NA,"ch<U+00ED>a",NA,NA,6
+"1052",NA,"gratamira",NA,NA,6
+"1053",NA,"nicolas",NA,NA,6
+"1054",NA,"niza",NA,NA,6
+"1055",NA,"pablo",NA,NA,6
+"1056",NA,"tocancipa",NA,NA,6
+"1057",NA,"villas",NA,NA,6
+"1058","Antioquia","Bello","La","La Madera",5
+"1059","Antioquia","Bello","Niquia","Niquia",5
+"1060","Antioquia","Itag","Comuna","Santa Maria ",5
+"1061","Antioquia","Medell<U+00ED>n","Comuna","Bosques De San Pablo",5
+"1062","Antioquia","Medell<U+00ED>n","Comuna","Los Balsos ",5
+"1063","Antioquia","Medell<U+00ED>n","Comuna","Santa M<U+00F3>nica",5
+"1064","Antioquia","Olaya",NA,NA,5
+"1065","Antioquia","San","San",NA,5
+"1066","Antioquia","Vereda",NA,NA,5
+"1067","Arauca","Cravo",NA,NA,5
+"1068","Caldas","Risaralda",NA,NA,5
+"1069","Cundidzhddhdhddnamarca","Bogoehhdb",NA,NA,5
+"1070","Cundinamarca","Bogot<U+00E1>","Barrios","Quinta Mutis",5
+"1071","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","El Cedro Garc<U+00E9>s Navas",5
+"1072","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","El Dorado San Joaquin",5
+"1073","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","San Ignacio Santa Cecilia",5
+"1074","Cundinamarca","Bogot<U+00E1>","Kennedy","Carimagua ",5
+"1075","Cundinamarca","Bogot<U+00E1>","Kennedy","Catalina",5
+"1076","Cundinamarca","Bogot<U+00E1>","Kennedy","Ciudad Kennedy Sur",5
+"1077","Cundinamarca","Bogot<U+00E1>","Kennedy","El Portal De Patio Bonito",5
+"1078","Cundinamarca","Bogot<U+00E1>","Kennedy","Hipotecho",5
+"1079","Cundinamarca","Bogot<U+00E1>","Kennedy","Patio Bonito ",5
+"1080","Cundinamarca","Bogot<U+00E1>","Martires","El Vergel",5
+"1081","Cundinamarca","Bogot<U+00E1>","Puente","Bochica",5
+"1082","Cundinamarca","Bogot<U+00E1>","Puente","La Asuncion",5
+"1083","Cundinamarca","Bogot<U+00E1>","Puente","La Trinidad",5
+"1084","Cundinamarca","Bogot<U+00E1>","Puente","Villa Sonia",5
+"1085","Cundinamarca","Bogot<U+00E1>","Rafael","Quiroga",5
+"1086","Cundinamarca","Bogot<U+00E1>","San","Calvo Sur",5
+"1087","Cundinamarca","Bogot<U+00E1>","San","Sociego",5
+"1088","Cundinamarca","Bogot<U+00E1>","Suba","Altos de Suba",5
+"1089","Cundinamarca","Bogot<U+00E1>","Suba","Coasmedas",5
+"1090","Cundinamarca","Bogot<U+00E1>","Suba","Las Orquideas",5
+"1091","Cundinamarca","Bogot<U+00E1>","Suba","Nuevo Monterrey",5
+"1092","Cundinamarca","Bogot<U+00E1>","Suba","Tarragona",5
+"1093","Cundinamarca","Bogot<U+00E1>","Teusaquillo","Centro Nari",5
+"1094","Cundinamarca","Bogot<U+00E1>","Teusaquillo","Santa Teresita",5
+"1095","Cundinamarca","Bogot<U+00E1>","Tunjuelito","Rincon De Venecia",5
+"1096","Cundinamarca","Bogot<U+00E1>","Tunjuelito","Tunjuelito",5
+"1097","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Country Club",5
+"1098","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","El Rincon De Las Margaritas",5
+"1099","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Molinos Del Norte",5
+"1100","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Navarra",5
+"1101","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Villas De Aranjuez",5
+"1102","Cundinamarca","Bogot<U+00E1>","Usme","Ciudadela El Recreo",5
+"1103","Cundinamarca","Facatativ<U+00E1>","Facatativa",NA,5
+"1104","Cundinamarca","Gachancip<U+00E1>",NA,NA,5
+"1105","Cundinamarca","Soacha","Comuna","Ciudad Verde",5
+"1106","Cundinamarca","Soacha","Comuna","Cumbres de San Mateo",5
+"1107","Cundinamarca","Ubat<U+00E9>",NA,NA,5
+"1108","Cundinamarca","chia",NA,NA,5
+"1109","Cundinamarca","mosquera",NA,NA,5
+"1110","Cundinamarca",NA,"Bogot<U+00E1>",NA,5
+"1111","Cundinamarcap","Bogot<U+00E1>",NA,NA,5
+"1112","Magdalena","Cerro",NA,NA,5
+"1113","Nari","Tuquerres",NA,NA,5
+"1114","Risaralda","Santa","Corregimiento",NA,5
+"1115","Santander","Bucaramanga","COMUNA","Bucaramanga",5
+"1116","Santander","Bucaramanga","Comuna","Nuevo Sotomayor",5
+"1117","Santander","Flori<U+00E1>n",NA,NA,5
+"1118","Tolima","Honda",NA,NA,5
+"1119","Valle","Cali","Comuna","Valle Grande",5
+"1120","Valle","Candelaria",NA,NA,5
+"1121","Valle","El",NA,NA,5
+"1122","Valle","Jamund<U+00ED>","Corregimiento","Vereda El Crucero",5
+"1123","Valle","Palmira","Comuna","Ciudadela Palmira",5
+"1124","Valle","Sevilla",NA,NA,5
+"1125","san","Medell<U+00ED>n",NA,NA,5
+"1126","valle","cali",NA,NA,5
+"1127",NA,"Barbosa",NA,NA,5
+"1128",NA,"Barrancabermeja",NA,NA,5
+"1129",NA,"Barrancas",NA,NA,5
+"1130",NA,"Biombo",NA,NA,5
+"1131",NA,"CAli",NA,NA,5
+"1132",NA,"Calasmolano",NA,NA,5
+"1133",NA,"Campi",NA,NA,5
+"1134",NA,"Campin",NA,NA,5
+"1135",NA,"Chile",NA,NA,5
+"1136",NA,"Cofrad<U+00ED>a",NA,NA,5
+"1137",NA,"Comuna",NA,NA,5
+"1138",NA,"EL",NA,NA,5
+"1139",NA,"Honda",NA,NA,5
+"1140",NA,"Icata",NA,NA,5
+"1141",NA,"J",NA,NA,5
+"1142",NA,"Jamundi",NA,NA,5
+"1143",NA,"Javeriana",NA,NA,5
+"1144",NA,"Knnedy",NA,NA,5
+"1145",NA,"Mede",NA,NA,5
+"1146",NA,"Morichal",NA,NA,5
+"1147",NA,"Oca",NA,NA,5
+"1148",NA,"PASADENA",NA,NA,5
+"1149",NA,"POBLADO",NA,NA,5
+"1150",NA,"Porci<U+00FA>ncula",NA,NA,5
+"1151",NA,"Portal",NA,NA,5
+"1152",NA,"Riohacha",NA,NA,5
+"1153",NA,"SALITRE",NA,NA,5
+"1154",NA,"Salomia",NA,NA,5
+"1155",NA,"TINTAL",NA,NA,5
+"1156",NA,"Tundama",NA,NA,5
+"1157",NA,"Usatama",NA,NA,5
+"1158",NA,"Villaluz",NA,NA,5
+"1159",NA,"banderas",NA,NA,5
+"1160",NA,"bog",NA,NA,5
+"1161",NA,"britalia",NA,NA,5
+"1162",NA,"campo",NA,NA,5
+"1163",NA,"casa",NA,NA,5
+"1164",NA,"castellana",NA,NA,5
+"1165",NA,"choconta",NA,NA,5
+"1166",NA,"cove",NA,NA,5
+"1167",NA,"facatativa",NA,NA,5
+"1168",NA,"javeriana",NA,NA,5
+"1169",NA,"jordan",NA,NA,5
+"1170",NA,"lagos",NA,NA,5
+"1171",NA,"madelena",NA,NA,5
+"1172",NA,"marinilla",NA,NA,5
+"1173",NA,"parque",NA,NA,5
+"1174",NA,"patio",NA,NA,5
+"1175",NA,"policarpa",NA,NA,5
+"1176",NA,"provenza",NA,NA,5
+"1177",NA,"puentelargo",NA,NA,5
+"1178",NA,"sanpablo",NA,NA,5
+"1179",NA,"santafe",NA,NA,5
+"1180","Antioquia","Apartad<U+00F3>",NA,NA,4
+"1181","Antioquia","Girardota","Girardota",NA,4
+"1182","Antioquia","Medell<U+00ED>n","Comuna","Alejandr<U+00ED>a",4
+"1183","Antioquia","Medell<U+00ED>n","Comuna","Aliadas",4
+"1184","Antioquia","Medell<U+00ED>n","Comuna","Loma San Julian",4
+"1185","Antioquia","Medell<U+00ED>n","Comuna","Loma de los Parra",4
+"1186","Antioquia","Medell<U+00ED>n","Comuna","Miraflores",4
+"1187","Antioquia","Medell<U+00ED>n","Comuna","Pedregal",4
+"1188","Antioquia","Medell<U+00ED>n","Comuna","Rosales",4
+"1189","Antioquia","Medell<U+00ED>n","Comuna","Santa Maria de Los ",4
+"1190","Antioquia","Venecia",NA,NA,4
+"1191","Bol<U+00ED>var","Cartagena","Hist<U+00F3>rica","Bocagrande",4
+"1192","Boyac<U+00E1>","Floresta",NA,NA,4
+"1193","Caldas","Manizales","Comuna","Estambul",4
+"1194","Caldas","Manizales","Comuna","La Sultana",4
+"1195","Caldas","Manizales","Comuna","Palermo",4
+"1196","Caquet<U+00E1>","Cartagena",NA,NA,4
+"1197","Caquet<U+00E1>","Florencia","Comuna","Altos de la Colina",4
+"1198","Choc<U+00F3>","Bel<U+00E9>n",NA,NA,4
+"1199","Cundinam","Bogot<U+00E1>",NA,NA,4
+"1200","Cundinamarc","Bogot<U+00E1>",NA,NA,4
+"1201","Cundinamarca","Bogot<U+00E1>","Antonio","Restrepo Occidental",4
+"1202","Cundinamarca","Bogot<U+00E1>","Barrios"," De Octubre",4
+"1203","Cundinamarca","Bogot<U+00E1>","Barrios","Chapinero Noroccidental",4
+"1204","Cundinamarca","Bogot<U+00E1>","Barrios","Jorge Eliecer Gaitan",4
+"1205","Cundinamarca","Bogot<U+00E1>","Bosa","San Pedro Bosa Central",4
+"1206","Cundinamarca","Bogot<U+00E1>","Chapinero","El Castillo",4
+"1207","Cundinamarca","Bogot<U+00E1>","Chapinero","El Refugio",4
+"1208","Cundinamarca","Bogot<U+00E1>","Ciudad","El Ensue",4
+"1209","Cundinamarca","Bogot<U+00E1>","Ciudad","Galicia",4
+"1210","Cundinamarca","Bogot<U+00E1>","Ciudad","Sotavento",4
+"1211","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Alameda",4
+"1212","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","El Lujan",4
+"1213","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Florida Blanca",4
+"1214","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","San Basilio Engativ<U+00E1>",4
+"1215","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Villa Amalia",4
+"1216","Cundinamarca","Bogot<U+00E1>","Fontib<U+00F3>n","La Esperanza Norte",4
+"1217","Cundinamarca","Bogot<U+00E1>","Fontib<U+00F3>n","Sausalito",4
+"1218","Cundinamarca","Bogot<U+00E1>","Fontib<U+00F3>n","Tarragona",4
+"1219","Cundinamarca","Bogot<U+00E1>","Kennedy","Ciudad Gal<U+00E1>n",4
+"1220","Cundinamarca","Bogot<U+00E1>","Kennedy","Ciudad Kennedy",4
+"1221","Cundinamarca","Bogot<U+00E1>","Kennedy","La Chucua",4
+"1222","Cundinamarca","Bogot<U+00E1>","Kennedy","Marsella ",4
+"1223","Cundinamarca","Bogot<U+00E1>","Kennedy","Santa Fe Del Tintal",4
+"1224","Cundinamarca","Bogot<U+00E1>","Kennedy","Tintalito",4
+"1225","Cundinamarca","Bogot<U+00E1>","Kennedy","Urbanizaci<U+00F3>n Arbolete Casablanca",4
+"1226","Cundinamarca","Bogot<U+00E1>","Kennedy","Urbanizaci<U+00F3>n Castilla Reservado",4
+"1227","Cundinamarca","Bogot<U+00E1>","Puente","Camelia Sur",4
+"1228","Cundinamarca","Bogot<U+00E1>","Puente","Jorge Gaitan Cortes",4
+"1229","Cundinamarca","Bogot<U+00E1>","Puente","La Pradera",4
+"1230","Cundinamarca","Bogot<U+00E1>","Puente","Los Sauces",4
+"1231","Cundinamarca","Bogot<U+00E1>","Puente","Villa Del Rosario",4
+"1232","Cundinamarca","Bogot<U+00E1>","Rafael","Quiroga Central",4
+"1233","Cundinamarca","Bogot<U+00E1>","Santa","San Bernardo",4
+"1234","Cundinamarca","Bogot<U+00E1>","Santa","San Diego",4
+"1235","Cundinamarca","Bogot<U+00E1>","Santa","San Martin",4
+"1236","Cundinamarca","Bogot<U+00E1>","Suba","Alcaparros",4
+"1237","Cundinamarca","Bogot<U+00E1>","Suba","Bilbao",4
+"1238","Cundinamarca","Bogot<U+00E1>","Suba","Cerros de Niza",4
+"1239","Cundinamarca","Bogot<U+00E1>","Suba","Cerros de Suba",4
+"1240","Cundinamarca","Bogot<U+00E1>","Suba","Cordoba",4
+"1241","Cundinamarca","Bogot<U+00E1>","Suba","El Cerezo",4
+"1242","Cundinamarca","Bogot<U+00E1>","Suba","Monaco",4
+"1243","Cundinamarca","Bogot<U+00E1>","Suba","Niza VIII",4
+"1244","Cundinamarca","Bogot<U+00E1>","Suba","San Nicolas",4
+"1245","Cundinamarca","Bogot<U+00E1>","Suba","Sotileza",4
+"1246","Cundinamarca","Bogot<U+00E1>","Teusaquillo","Armenia",4
+"1247","Cundinamarca","Bogot<U+00E1>","Teusaquillo","La Magdalena",4
+"1248","Cundinamarca","Bogot<U+00E1>","Tunjuelito","Condado De Santa Lucia",4
+"1249","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Maranta",4
+"1250","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Santa Barbara Oriental",4
+"1251","Cundinamarca","Bogot<U+00E1>","Usme","Brazuelos Sector La Esmeralda",4
+"1252","Cundinamarca","Bogot<U+00E1>","Usme","La Esmeralda El Recuerdo",4
+"1253","Cundinamarca","Choach<U+00ED>",NA,NA,4
+"1254","Cundinamarca","Granada",NA,NA,4
+"1255","Cundinamarca","Sasaima",NA,NA,4
+"1256","Cundinamarca","Soacha","Comuna","Hogares Soacha",4
+"1257","Cundinamarca","Soacha","Comuna","Urbanizaci<U+00F3>n Terreros",4
+"1258","Cundinamarca","Subachoque","Subachoque",NA,4
+"1259","Cundinamarca","Tenjo","Tenjo",NA,4
+"1260","Cundinamarca","Tocaima",NA,NA,4
+"1261","Cundinamarca","Tocancip<U+00E1>","Tocancip<U+00E1>",NA,4
+"1262","Cundinamarca","madrid",NA,NA,4
+"1263","Cundinamarca",NA,NA,NA,4
+"1264","Cundinamarcaalta","Bogot<U+00E1>",NA,NA,4
+"1265","Cundinamarcahhgkfs","Bogot<U+00E1>",NA,NA,4
+"1266","Cundinamarcamedellin","Bogot<U+00E1>",NA,NA,4
+"1267","CundinamarcamkkkBBM","Bogot<U+00E1>",NA,NA,4
+"1268","Huila","Neiva","Comuna","El Minuto de Dios",4
+"1269","Magdalena","Santa","Comuna",NA,4
+"1270","Nari","Policarpa",NA,NA,4
+"1271","Norte","C<U+00E1>cota",NA,NA,4
+"1272","Norte","La",NA,NA,4
+"1273","Norte","Oca",NA,NA,4
+"1274","Quind<U+00ED>o","Calarca","Calarc<U+00E1>","Portal del Quind<U+00ED>o",4
+"1275","Quind<U+00ED>o","Circasia","Circasia",NA,4
+"1276","Risaralda","Dosquebradas","Comuna","La Pradera",4
+"1277","Santander","Bucaramanga","Comuna","Antonia Santos",4
+"1278","Santander","Bucaramanga","Comuna","La Universidad",4
+"1279","Santander","Puente",NA,NA,4
+"1280","Santander","Santa",NA,NA,4
+"1281","Valle","Cali","Cali","Corregimiento La Buitrera",4
+"1282","Valle","Cali","Comuna","Chipichape",4
+"1283","Valle","Cali","Comuna","Ciudadela Floralia",4
+"1284","Valle","Cali","Comuna","Ciudadela Pasoancho",4
+"1285","Valle","Cali","Comuna","Crist<U+00F3>bal Col<U+00F3>n",4
+"1286","Valle","Cali","Comuna","Granada",4
+"1287","Valle","Cali","Comuna","La Flora",4
+"1288","Valle","Cali","Comuna","Mel<U+00E9>ndez",4
+"1289","Valle","Cali","Comuna","Parcelaciones Pance",4
+"1290","Valle","Cali","Comuna","Sector Mel<U+00E9>ndez",4
+"1291","Valle","Cali","Comuna","Villa Del Prado El Guabito",4
+"1292","Valle","Florida",NA,NA,4
+"1293","Valle","Yumbo",NA,NA,4
+"1294","antioquia","Copacabana",NA,NA,4
+"1295","m","B",NA,NA,4
+"1296","santander","Bucaramanga",NA,NA,4
+"1297","santander","Piedecuesta",NA,NA,4
+"1298","tolima","Ibague",NA,NA,4
+"1299",NA,"ARMENIA",NA,NA,4
+"1300",NA,"Alcal<U+00E1>",NA,NA,4
+"1301",NA,"Alejandria",NA,NA,4
+"1302",NA,"ArmeniA",NA,NA,4
+"1303",NA,"BOITA",NA,NA,4
+"1304",NA,"Bog",NA,NA,4
+"1305",NA,"Bogot",NA,NA,4
+"1306",NA,"Bogotakennedy",NA,NA,4
+"1307",NA,"Bucaramnga",NA,NA,4
+"1308",NA,"Claret",NA,NA,4
+"1309",NA,"Colseguros",NA,NA,4
+"1310",NA,"DUITAMA",NA,NA,4
+"1311",NA,"Diamante",NA,NA,4
+"1312",NA,"FONTIBON",NA,NA,4
+"1313",NA,"Granada",NA,NA,4
+"1314",NA,"Guayabal",NA,NA,4
+"1315",NA,"Jamund<U+00ED>",NA,NA,4
+"1316",NA,"MACARENA",NA,NA,4
+"1317",NA,"MADRID",NA,NA,4
+"1318",NA,"MARINILLA",NA,NA,4
+"1319",NA,"Maduren",NA,NA,4
+"1320",NA,"Medell",NA,NA,4
+"1321",NA,"Milagrosa",NA,NA,4
+"1322",NA,"Miraflores",NA,NA,4
+"1323",NA,"PUENTE",NA,NA,4
+"1324",NA,"Plaza",NA,NA,4
+"1325",NA,"Provenza",NA,NA,4
+"1326",NA,"Quind<U+00ED>o",NA,NA,4
+"1327",NA,"RESTREPO",NA,NA,4
+"1328",NA,"ROBLEDO",NA,NA,4
+"1329",NA,"Ricaurte",NA,NA,4
+"1330",NA,"Rincon",NA,NA,4
+"1331",NA,"SUR",NA,NA,4
+"1332",NA,"Siete",NA,NA,4
+"1333",NA,"Sincelejo",NA,NA,4
+"1334",NA,"Sosiego",NA,NA,4
+"1335",NA,"Toberin",NA,NA,4
+"1336",NA,"Tocancipa",NA,NA,4
+"1337",NA,"Tolima",NA,NA,4
+"1338",NA,"Tricentenario",NA,NA,4
+"1339",NA,"USAQUEN",NA,NA,4
+"1340",NA,"Universidad",NA,NA,4
+"1341",NA,"Verbenal",NA,NA,4
+"1342",NA,"Villamelida",NA,NA,4
+"1343",NA,"Villemar",NA,NA,4
+"1344",NA,"Vipasa",NA,NA,4
+"1345",NA,"anapoima",NA,NA,4
+"1346",NA,"barrancas",NA,NA,4
+"1347",NA,"bella",NA,NA,4
+"1348",NA,"boyaca",NA,NA,4
+"1349",NA,"corregimiento",NA,NA,4
+"1350",NA,"enciso",NA,NA,4
+"1351",NA,"estadio",NA,NA,4
+"1352",NA,"galan",NA,NA,4
+"1353",NA,"granada",NA,NA,4
+"1354",NA,"iberia",NA,NA,4
+"1355",NA,"macarena",NA,NA,4
+"1356",NA,"mandalay",NA,NA,4
+"1357",NA,"medelin",NA,NA,4
+"1358",NA,"metropolis",NA,NA,4
+"1359",NA,"modelo",NA,NA,4
+"1360",NA,"nuevo",NA,NA,4
+"1361",NA,"patria",NA,NA,4
+"1362",NA,"porvenir",NA,NA,4
+"1363",NA,"puerto",NA,NA,4
+"1364",NA,"quindio",NA,NA,4
+"1365",NA,"rincon",NA,NA,4
+"1366",NA,"rio",NA,NA,4
+"1367",NA,"riomar",NA,NA,4
+"1368",NA,"sasaima",NA,NA,4
+"1369",NA,"simon",NA,NA,4
+"1370",NA,"spring",NA,NA,4
+"1371",NA,"timiza",NA,NA,4
+"1372",NA,"ucara",NA,NA,4
+"1373",NA,"villemar",NA,NA,4
+"1374",NA,"zarzamora",NA,NA,4
+"1375","Amazonas","El",NA,NA,3
+"1376","Amazonas","Puerto",NA,NA,3
+"1377","Antioquia","Bello","La","El Trapiche",3
+"1378","Antioquia","Bello","Niquia","Niqu<U+00ED>a Panamer<U+00ED>cano",3
+"1379","Antioquia","Bello","Paris",NA,3
+"1380","Antioquia","Bello","Santa",NA,3
+"1381","Antioquia","Bello","Su<U+00E1>rez","Manchester",3
+"1382","Antioquia","Bello","Vereda",NA,3
+"1383","Antioquia","El","Corregimiento",NA,3
+"1384","Antioquia","Envigado","Envigado","Bosques de Zu",3
+"1385","Antioquia","Envigado","Envigado","El Salado",3
+"1386","Antioquia","Envigado","Envigado","Mil<U+00E1>n Vallejuelos",3
+"1387","Antioquia","Itag","Comuna","Sim<U+00F3>n Bol<U+00ED>var",3
+"1388","Antioquia","Marinilla","Marinilla","Las Caba",3
+"1389","Antioquia","Medell<U+00ED>n","Comuna","Barrio Crist<U+00F3>bal",3
+"1390","Antioquia","Medell<U+00ED>n","Comuna","Bello Horizonte",3
+"1391","Antioquia","Medell<U+00ED>n","Comuna","Catalu",3
+"1392","Antioquia","Medell<U+00ED>n","Comuna","El Rodeo",3
+"1393","Antioquia","Medell<U+00ED>n","Comuna","La Almeria",3
+"1394","Antioquia","Medell<U+00ED>n","Comuna","Loreto",3
+"1395","Antioquia","Medell<U+00ED>n","Comuna","Manrique Oriental",3
+"1396","Antioquia","Medell<U+00ED>n","Comuna","Moravia",3
+"1397","Antioquia","Medell<U+00ED>n","Comuna","San Bernardo",3
+"1398","Antioquia","Medell<U+00ED>n","Comuna","Sim<U+00F3>n Bol<U+00ED>var",3
+"1399","Antioquia","Medell<U+00ED>n","Comuna","Tricentenario",3
+"1400","Antioquia","Santa",NA,NA,3
+"1401","Antioquia","Sopetr<U+00E1>n",NA,NA,3
+"1402","Atl<U+00E1>ntico","Barranquilla","Norte","El Recreo",3
+"1403","Atl<U+00E1>ntico","Barranquilla","Norte",NA,3
+"1404","Atl<U+00E1>ntico","Barranquilla","Riomar","Villa Carolina",3
+"1405","Atl<U+00E1>ntico","Barranquilla","Sur","Las Nieves",3
+"1406","Bol<U+00ED>var","Cartagena","Hist<U+00F3>rica","Manga",3
+"1407","Bol<U+00ED>var","San",NA,NA,3
+"1408","Boyac<U+00E1>","Chiquinquir<U+00E1>",NA,NA,3
+"1409","C<U+00F3>rdoba","Monter<U+00ED>a","Comuna","Monter<U+00ED>a Moderno",3
+"1410","Caquet<U+00E1>","Florencia",NA,NA,3
+"1411","Cauca","Popay<U+00E1>n","Comuna","Santiago Cali II",3
+"1412","Cesar","Valledupar","Comuna","La Guajira",3
+"1413","Cpundinamarca","Bogot<U+00E1>",NA,NA,3
+"1414","Cund","Bogot<U+00E1>",NA,NA,3
+"1415","Cundinamarca","Agua",NA,NA,3
+"1416","Cundinamarca","Bogot<U+00E1>","Barrios","Baquero",3
+"1417","Cundinamarca","Bogot<U+00E1>","Barrios","Conjunto Residencial Calle ",3
+"1418","Cundinamarca","Bogot<U+00E1>","Bosa","El Libertador Bosa Central",3
+"1419","Cundinamarca","Bogot<U+00E1>","Bosa","La Fontana De Bosa La Libertad",3
+"1420","Cundinamarca","Bogot<U+00E1>","Bosa","La Libertad ",3
+"1421","Cundinamarca","Bogot<U+00E1>","Bosa","Pablo VI",3
+"1422","Cundinamarca","Bogot<U+00E1>","Bosa","Santa Barbara",3
+"1423","Cundinamarca","Bogot<U+00E1>","Chapinero","Catalu",3
+"1424","Cundinamarca","Bogot<U+00E1>","Chapinero","Ingemar",3
+"1425","Cundinamarca","Bogot<U+00E1>","Chapinero","Mariscal Sucre",3
+"1426","Cundinamarca","Bogot<U+00E1>","Chapinero","Nueva Granada",3
+"1427","Cundinamarca","Bogot<U+00E1>","Ciudad","El Pe",3
+"1428","Cundinamarca","Bogot<U+00E1>","Ciudad","Perdomo Alto",3
+"1429","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Acapulco",3
+"1430","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","San Joaquin",3
+"1431","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","San Marcos",3
+"1432","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Villa Cristina",3
+"1433","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Villa Gladys",3
+"1434","Cundinamarca","Bogot<U+00E1>","Fontib<U+00F3>n","Santa Cecilia",3
+"1435","Cundinamarca","Bogot<U+00E1>","Kennedy","Agrupacion De Vivienda Pio XII",3
+"1436","Cundinamarca","Bogot<U+00E1>","Kennedy","Aloha Sector Norte",3
+"1437","Cundinamarca","Bogot<U+00E1>","Kennedy","Carvajal Techo ",3
+"1438","Cundinamarca","Bogot<U+00E1>","Kennedy","Casa Blanca Sur",3
+"1439","Cundinamarca","Bogot<U+00E1>","Kennedy","Centro Civico Ciudad Kennedy",3
+"1440","Cundinamarca","Bogot<U+00E1>","Kennedy","Ciudad Techo ",3
+"1441","Cundinamarca","Bogot<U+00E1>","Kennedy","Conjunto Residencia Manuel Mejia",3
+"1442","Cundinamarca","Bogot<U+00E1>","Kennedy","Delicias",3
+"1443","Cundinamarca","Bogot<U+00E1>","Kennedy","El Palenque",3
+"1444","Cundinamarca","Bogot<U+00E1>","Kennedy","El Rincon De Castilla",3
+"1445","Cundinamarca","Bogot<U+00E1>","Kennedy","Gal<U+00E1>n",3
+"1446","Cundinamarca","Bogot<U+00E1>","Kennedy","Lagos De Castilla",3
+"1447","Cundinamarca","Bogot<U+00E1>","Kennedy","Marsella Norte ",3
+"1448","Cundinamarca","Bogot<U+00E1>","Kennedy","Multifamiliar Techo",3
+"1449","Cundinamarca","Bogot<U+00E1>","Kennedy","Nuevo Techo",3
+"1450","Cundinamarca","Bogot<U+00E1>","Kennedy","Pastranita Sector ",3
+"1451","Cundinamarca","Bogot<U+00E1>","Kennedy","Patio Bonito Sector ",3
+"1452","Cundinamarca","Bogot<U+00E1>","Kennedy","Pio XII",3
+"1453","Cundinamarca","Bogot<U+00E1>","Kennedy","Urbanizaci<U+00F3>n Castilla Real",3
+"1454","Cundinamarca","Bogot<U+00E1>","Kennedy","Valladolid",3
+"1455","Cundinamarca","Bogot<U+00E1>","Kennedy","Villa Claudia",3
+"1456","Cundinamarca","Bogot<U+00E1>","Modelia",NA,3
+"1457","Cundinamarca","Bogot<U+00E1>","Puente","San Rafael",3
+"1458","Cundinamarca","Bogot<U+00E1>","Rafael","Quiroga Sur",3
+"1459","Cundinamarca","Bogot<U+00E1>","Rafael","Santa Lucia",3
+"1460","Cundinamarca","Bogot<U+00E1>","San","Canada San Luis",3
+"1461","Cundinamarca","Bogot<U+00E1>","San","La Victoria ",3
+"1462","Cundinamarca","Bogot<U+00E1>","Santa","Germania",3
+"1463","Cundinamarca","Bogot<U+00E1>","Santa","La Perseverancia",3
+"1464","Cundinamarca","Bogot<U+00E1>","Santa","La Veracruz",3
+"1465","Cundinamarca","Bogot<U+00E1>","Santa","Parque Central Bavaria",3
+"1466","Cundinamarca","Bogot<U+00E1>","Santa","Torres Del Parque",3
+"1467","Cundinamarca","Bogot<U+00E1>","Suba","Atenas Casa Blanca Suba",3
+"1468","Cundinamarca","Bogot<U+00E1>","Suba","Bogota",3
+"1469","Cundinamarca","Bogot<U+00E1>","Suba","Calatrava",3
+"1470","Cundinamarca","Bogot<U+00E1>","Suba","Calima Norte",3
+"1471","Cundinamarca","Bogot<U+00E1>","Suba","El Poa",3
+"1472","Cundinamarca","Bogot<U+00E1>","Suba","El Salitre",3
+"1473","Cundinamarca","Bogot<U+00E1>","Suba","Pinos De Lombardia",3
+"1474","Cundinamarca","Bogot<U+00E1>","Suba","Pradera De Suba",3
+"1475","Cundinamarca","Bogot<U+00E1>","Suba","Prado Jardin",3
+"1476","Cundinamarca","Bogot<U+00E1>","Suba","San Carlos De Suba",3
+"1477","Cundinamarca","Bogot<U+00E1>","Suba","Tejares Del Norte",3
+"1478","Cundinamarca","Bogot<U+00E1>","Suba","Tuna Alta",3
+"1479","Cundinamarca","Bogot<U+00E1>","Suba","Tuna Baja",3
+"1480","Cundinamarca","Bogot<U+00E1>","Suba","Turingia",3
+"1481","Cundinamarca","Bogot<U+00E1>","Suba","Villa Maria",3
+"1482","Cundinamarca","Bogot<U+00E1>","Teusaquillo","Las Americas",3
+"1483","Cundinamarca","Bogot<U+00E1>","Tunjuelito","Casa Linda",3
+"1484","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Cedro Bol<U+00ED>var",3
+"1485","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","El Codito",3
+"1486","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","El Refugio De San Antonio",3
+"1487","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","La Granja Norte",3
+"1488","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","La Uribe",3
+"1489","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Recodo Del Country",3
+"1490","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Santa Coloma",3
+"1491","Cundinamarca","Bogot<U+00E1>","Usme","Chapinerito",3
+"1492","Cundinamarca","Bogot<U+00E1>","nicolas",NA,3
+"1493","Cundinamarca","Bogota",NA,NA,3
+"1494","Cundinamarca","Fontibon",NA,NA,3
+"1495","Cundinamarca","Girardot","Comuna","Parques Bocas Del Bogot<U+00E1>",3
+"1496","Cundinamarca","Guasca",NA,NA,3
+"1497","Cundinamarca","Madrid","Madrid","Cortijo",3
+"1498","Cundinamarca","Madrid","Madrid","Sosiego",3
+"1499","Cundinamarca","Nari",NA,NA,3
+"1500","Cundinamarca","Niza",NA,NA,3
+"1501","Cundinamarca","Pacho",NA,NA,3
+"1502","Cundinamarca","Tocancip<U+00E1>","Tocancip<U+00E1>","Los Cerezos",3
+"1503","Cundinamarca","Zioaquir<U+00E1>",NA,NA,3
+"1504","Cundinamarca","Zipac<U+00F3>n",NA,NA,3
+"1505","Cundinamarca","Zipaquir<U+00E1>","Comuna","Parcelaci<U+00F3>n Santa Isabel II",3
+"1506","Cundinamarca","cajica",NA,NA,3
+"1507","Cundinamarca","girardot",NA,NA,3
+"1508","Cundinamarca","zipaquira",NA,NA,3
+"1509","Cundinamarcacasa","Bogot<U+00E1>",NA,NA,3
+"1510","Cundinamarcachapinero","Bogot<U+00E1>",NA,NA,3
+"1511","Cundinamarcamodelia","Bogot<U+00E1>",NA,NA,3
+"1512","Cundinamarcasanta","Bogot<U+00E1>",NA,NA,3
+"1513","Cundinamarcatunal","Bogot<U+00E1>",NA,NA,3
+"1514","La","Maicao",NA,NA,3
+"1515","Norte","Oca","Comuna","La Popa",3
+"1516","Risaralda","Pereira","Comuna","Ciudad Jard<U+00ED>n",3
+"1517","Santander","Barbosa","Barbosa","San Gil",3
+"1518","Santander","Barbosa",NA,NA,3
+"1519","Santander","Bucaramanga","Comuna","Cabecera Del Llano",3
+"1520","Santander","Bucaramanga","Comuna","Santander",3
+"1521","Santander","Enciso",NA,NA,3
+"1522","Santander","Floridablanca","Floridablanca","Altos De Ca",3
+"1523","Santander","Floridablanca","Floridablanca","Ruitoque",3
+"1524","Santander","Gal<U+00E1>n",NA,NA,3
+"1525","Santander","Lebr<U+00ED>ja",NA,NA,3
+"1526","Santander","San",NA,NA,3
+"1527","Santander","Zapatoca",NA,NA,3
+"1528","Tolima","Chaparral",NA,NA,3
+"1529","Tolima","Espinal",NA,NA,3
+"1530","Tolima","Ibagu<U+00E9>","Comuna","Modelia ",3
+"1531","Valle","Bugalagrande",NA,NA,3
+"1532","Valle","Cali","Comuna","Calipso",3
+"1533","Valle","Cali","Comuna","El Pe",3
+"1534","Valle","Cali","Comuna","El Poblado ",3
+"1535","Valle","Cali","Comuna","Jun<U+00ED>n",3
+"1536","Valle","Cali","Comuna","Metropolitano Del Norte",3
+"1537","Valle","Cali","Comuna","Normand<U+00ED>a",3
+"1538","Valle","Cali","Comuna","San Judas Tadeo ",3
+"1539","Valle","Cali","Comuna","Santa Teresita",3
+"1540","Valle","Cali","Comuna","Talanga Comfenalco",3
+"1541","Valle","Cali","Comuna","Urbanizaci<U+00F3>n La Merced",3
+"1542","Valle","Cartago","Comuna","Camell<U+00F3>n del Quind<U+00ED>o",3
+"1543","Valle","Jamund<U+00ED>","Jamund<U+00ED>","El Castillo",3
+"1544","Valle","Jamund<U+00ED>","Jamund<U+00ED>",NA,3
+"1545","belecito","Ibague",NA,NA,3
+"1546","copacabana","Medellin",NA,NA,3
+"1547","inamarca","Bogot<U+00E1>",NA,NA,3
+"1548","valle","Palmira",NA,NA,3
+"1549","xcxxcc","Bogot<U+00E1>",NA,NA,3
+"1550",NA,"AV",NA,NA,3
+"1551",NA,"Acevedo",NA,NA,3
+"1552",NA,"Alcazares",NA,NA,3
+"1553",NA,"Alfonso",NA,NA,3
+"1554",NA,"Altavista",NA,NA,3
+"1555",NA,"Americas",NA,NA,3
+"1556",NA,"An",NA,NA,3
+"1557",NA,"Antiguo",NA,NA,3
+"1558",NA,"Antonio",NA,NA,3
+"1559",NA,"Avenida",NA,NA,3
+"1560",NA,"Ayuelos",NA,NA,3
+"1561",NA,"B",NA,NA,3
+"1562",NA,"BELEN",NA,NA,3
+"1563",NA,"BOGOTA","SUBA",NA,3
+"1564",NA,"BONANZA",NA,NA,3
+"1565",NA,"Baq",NA,NA,3
+"1566",NA,"Baranoa",NA,NA,3
+"1567",NA,"Bat<U+00E1>n",NA,NA,3
+"1568",NA,"Bogota","galerias",NA,3
+"1569",NA,"Bogots",NA,NA,3
+"1570",NA,"Boyac<U+00E1>",NA,NA,3
+"1571",NA,"Boyaca",NA,NA,3
+"1572",NA,"Buitrera",NA,NA,3
+"1573",NA,"CARTAGO",NA,NA,3
+"1574",NA,"CHAGUALO",NA,NA,3
+"1575",NA,"CIUDAD",NA,NA,3
+"1576",NA,"Carrera",NA,NA,3
+"1577",NA,"Ciencuadras",NA,NA,3
+"1578",NA,"Colores",NA,NA,3
+"1579",NA,"Contador",NA,NA,3
+"1580",NA,"Contry",NA,NA,3
+"1581",NA,"Cristo",NA,NA,3
+"1582",NA,"Cristobal",NA,NA,3
+"1583",NA,"Estadio",NA,NA,3
+"1584",NA,"Ferias",NA,NA,3
+"1585",NA,"Florida",NA,NA,3
+"1586",NA,"GIRON",NA,NA,3
+"1587",NA,"Gamma",NA,NA,3
+"1588",NA,"Garces",NA,NA,3
+"1589",NA,"Garzon",NA,NA,3
+"1590",NA,"Guatape",NA,NA,3
+"1591",NA,"IBAGUE",NA,NA,3
+"1592",NA,"Jardines",NA,NA,3
+"1593",NA,"Klmlkkkkkkkkkkkkkkkkkkk",NA,NA,3
+"1594",NA,"Lebrija",NA,NA,3
+"1595",NA,"Lijaca",NA,NA,3
+"1596",NA,"Llano",NA,NA,3
+"1597",NA,"Loma",NA,NA,3
+"1598",NA,"Lombardia",NA,NA,3
+"1599",NA,"MARSELLA",NA,NA,3
+"1600",NA,"MIRANDELA",NA,NA,3
+"1601",NA,"MODELIA",NA,NA,3
+"1602",NA,"Madellin",NA,NA,3
+"1603",NA,"Manila",NA,NA,3
+"1604",NA,"Medellim",NA,NA,3
+"1605",NA,"Molinos",NA,NA,3
+"1606",NA,"N",NA,NA,3
+"1607",NA,"Normand<U+00ED>a",NA,NA,3
+"1608",NA,"Noro",NA,NA,3
+"1609",NA,"Palomitas",NA,NA,3
+"1610",NA,"Paris",NA,NA,3
+"1611",NA,"Park",NA,NA,3
+"1612",NA,"Patria",NA,NA,3
+"1613",NA,"Pinares",NA,NA,3
+"1614",NA,"Portales",NA,NA,3
+"1615",NA,"Pradera",NA,NA,3
+"1616",NA,"QUINTA",NA,NA,3
+"1617",NA,"Quirigua",NA,NA,3
+"1618",NA,"Recodo",NA,NA,3
+"1619",NA,"Risaralda",NA,NA,3
+"1620",NA,"Santiago",NA,NA,3
+"1621",NA,"Sevilla",NA,NA,3
+"1622",NA,"Silvania",NA,NA,3
+"1623",NA,"Sim<U+00F3>n",NA,NA,3
+"1624",NA,"Tabora",NA,NA,3
+"1625",NA,"Tulua",NA,NA,3
+"1626",NA,"VILLAS",NA,NA,3
+"1627",NA,"Victoria",NA,NA,3
+"1628",NA,"Villass",NA,NA,3
+"1629",NA,"americas",NA,NA,3
+"1630",NA,"apartaestudio",NA,NA,3
+"1631",NA,"barriga",NA,NA,3
+"1632",NA,"bonanza",NA,NA,3
+"1633",NA,"btgxjhfyrgd",NA,NA,3
+"1634",NA,"bucaramaga",NA,NA,3
+"1635",NA,"cabecera",NA,NA,3
+"1636",NA,"calazans",NA,NA,3
+"1637",NA,"calvo",NA,NA,3
+"1638",NA,"caney",NA,NA,3
+"1639",NA,"carabelas",NA,NA,3
+"1640",NA,"carmen",NA,NA,3
+"1641",NA,"carrera",NA,NA,3
+"1642",NA,"cartago",NA,NA,3
+"1643",NA,"compatir",NA,NA,3
+"1644",NA,"crespo",NA,NA,3
+"1645",NA,"cucucta",NA,NA,3
+"1646",NA,"envidado",NA,NA,3
+"1647",NA,"girardot",NA,NA,3
+"1648",NA,"ha",NA,NA,3
+"1649",NA,"julio",NA,NA,3
+"1650",NA,"kenedy",NA,NA,3
+"1651",NA,"loma",NA,NA,3
+"1652",NA,"maria",NA,NA,3
+"1653",NA,"medelli",NA,NA,3
+"1654",NA,"meta",NA,NA,3
+"1655",NA,"minuto",NA,NA,3
+"1656",NA,"navarra",NA,NA,3
+"1657",NA,"o",NA,NA,3
+"1658",NA,"olaya",NA,NA,3
+"1659",NA,"palmas",NA,NA,3
+"1660",NA,"park",NA,NA,3
+"1661",NA,"quintaparedes",NA,NA,3
+"1662",NA,"rinc<U+00F3>n",NA,NA,3
+"1663",NA,"robledo",NA,NA,3
+"1664",NA,"rodadero",NA,NA,3
+"1665",NA,"ruitoque",NA,NA,3
+"1666",NA,"shaio",NA,NA,3
+"1667",NA,"talanga",NA,NA,3
+"1668",NA,"techo",NA,NA,3
+"1669",NA,"vargas",NA,NA,3
+"1670",NA,"veraguas",NA,NA,3
+"1671",NA,"vilas",NA,NA,3
+"1672",NA,"zona",NA,NA,3
+"1673","Antioquia","Andes","Corregimiento","Vereda Santa Elena",2
+"1674","Antioquia","Angel<U+00F3>polis","Angel<U+00F3>polis",NA,2
+"1675","Antioquia","Bello","Acevedo","Acevedo",2
+"1676","Antioquia","Bello","La","Barrio Nuevo",2
+"1677","Antioquia","Bello","Paris","Par<U+00ED>s Central",2
+"1678","Antioquia","Caicedo",NA,NA,2
+"1679","Antioquia","Caldas","Caldas","Mandalay",2
+"1680","Antioquia","Concordia",NA,NA,2
+"1681","Antioquia","Envigado","Envigado","El Esmeraldal",2
+"1682","Antioquia","Envigado","Envigado","Loma de Las Brujas",2
+"1683","Antioquia","Envigado","Envigado","Zu",2
+"1684","Antioquia","Itag","Comuna","San Pio X",2
+"1685","Antioquia","Jeric<U+00F3>",NA,NA,2
+"1686","Antioquia","La","La","Suramerica",2
+"1687","Antioquia","Medell<U+00ED>n","Buenos",NA,2
+"1688","Antioquia","Medell<U+00ED>n","Comuna","Astorga",2
+"1689","Antioquia","Medell<U+00ED>n","Comuna","Belalcazar",2
+"1690","Antioquia","Medell<U+00ED>n","Comuna","Bol<U+00ED>variana",2
+"1691","Antioquia","Medell<U+00ED>n","Comuna","Buenos Aires",2
+"1692","Antioquia","Medell<U+00ED>n","Comuna","El Tesoro",2
+"1693","Antioquia","Medell<U+00ED>n","Comuna","Gratamira",2
+"1694","Antioquia","Medell<U+00ED>n","Comuna","Guayabal",2
+"1695","Antioquia","Medell<U+00ED>n","Comuna","Jes<U+00FA>s Nazareno",2
+"1696","Antioquia","Medell<U+00ED>n","Comuna","La Frontera",2
+"1697","Antioquia","Medell<U+00ED>n","Comuna","Los Cerros El Vergel",2
+"1698","Antioquia","Medell<U+00ED>n","Comuna","Los Pinos",2
+"1699","Antioquia","Medell<U+00ED>n","Comuna","Popular ",2
+"1700","Antioquia","Medell<U+00ED>n","Comuna","Provenza",2
+"1701","Antioquia","Medell<U+00ED>n","Comuna","San Diego",2
+"1702","Antioquia","Medell<U+00ED>n","Comuna","San Lucas",2
+"1703","Antioquia","Montebello",NA,NA,2
+"1704","Antioquia","Pe",NA,NA,2
+"1705","Antioquia","Puerto",NA,NA,2
+"1706","Antioquia","Rionegro","Comuna",NA,2
+"1707","Antioquia","Rionegro","Corregimiento","Vereda El Tablazo",2
+"1708","Antioquia","Rionegro","Corregimiento","Vereda Pontezuela",2
+"1709","Antioquia","Yolomb<U+00F3>",NA,NA,2
+"1710","Antioquia",NA,NA,NA,2
+"1711","AntioquiaMede","Medell<U+00ED>n",NA,NA,2
+"1712","Atl<U+00E1>ntico","Baranoa",NA,NA,2
+"1713","Atl<U+00E1>ntico","Barranquilla","Metropolitana","San Jos<U+00E9>",2
+"1714","Atl<U+00E1>ntico","Barranquilla","Norte","Betania",2
+"1715","Atl<U+00E1>ntico","Barranquilla","Norte","Modelo",2
+"1716","Atl<U+00E1>ntico","Malambo",NA,NA,2
+"1717","Atl<U+00E1>ntico","Soledad","Soledad","Normandia",2
+"1718","Atl<U+00E1>nticovilla","Barranquilla",NA,NA,2
+"1719","Bol<U+00ED>var","C<U+00F3>rdoba",NA,NA,2
+"1720","Bol<U+00ED>var","Cartagena","De","Contadora",2
+"1721","Boyac<U+00E1>","Boyac<U+00E1>",NA,NA,2
+"1722","Boyac<U+00E1>","Moniquir<U+00E1>",NA,NA,2
+"1723","C<U+00F3>rdoba","Ceret<U+00E9>",NA,NA,2
+"1724","Caldas","Manizales","Comuna","Bajo Palermo",2
+"1725","Caldas","Manizales","Comuna","Guayacanes",2
+"1726","Caldas","Manizales","Comuna","La Carola",2
+"1727","Caldas","Manizales","Comuna","Los Alcazares",2
+"1728","Caldas","Riosucio",NA,NA,2
+"1729","Caldas","Salamina",NA,NA,2
+"1730","Caquet<U+00E1>","Bel<U+00E9>n",NA,NA,2
+"1731","Cauca","Buenos",NA,NA,2
+"1732","Cauca","Popay<U+00E1>n","Comuna","Nuevo Popayan",2
+"1733","Cauca","Santa",NA,NA,2
+"1734","Cauca","Santander",NA,NA,2
+"1735","Cesar","Aguachica",NA,NA,2
+"1736","Cesar","Curuman<U+00ED>",NA,NA,2
+"1737","Choc<U+00F3>","Quibd<U+00F3>",NA,NA,2
+"1738","Cuncasas","Bogot<U+00E1>",NA,NA,2
+"1739","Cundinamarca","Anolaima","Anolaima","Chico",2
+"1740","Cundinamarca","Anolaima","Anolaima","Vereda Mesitas de Caballero",2
+"1741","Cundinamarca","Apulo",NA,NA,2
+"1742","Cundinamarca","Arbel<U+00E1>ez",NA,NA,2
+"1743","Cundinamarca","BUCARAMANGA",NA,NA,2
+"1744","Cundinamarca","Bocas",NA,NA,2
+"1745","Cundinamarca","Bogmanizalesot<U+00E1>",NA,NA,2
+"1746","Cundinamarca","Bogot<U+00E1>","Antonio","La Fragua",2
+"1747","Cundinamarca","Bogot<U+00E1>","Antonio","San Antonio",2
+"1748","Cundinamarca","Bogot<U+00E1>","Barrios","Escuela Militar",2
+"1749","Cundinamarca","Bogot<U+00E1>","Barrios","Juan XXIII",2
+"1750","Cundinamarca","Bogot<U+00E1>","Barrios","Rafael Uribe",2
+"1751","Cundinamarca","Bogot<U+00E1>","Bosa","Campo Hermoso El Porvenir",2
+"1752","Cundinamarca","Bogot<U+00E1>","Bosa","La Cruz De Terreros",2
+"1753","Cundinamarca","Bogot<U+00E1>","Bosa","Los Heroes",2
+"1754","Cundinamarca","Bogot<U+00E1>","Bosa","San Martin",2
+"1755","Cundinamarca","Bogot<U+00E1>","Ciudad","Arborizadora Alta",2
+"1756","Cundinamarca","Bogot<U+00E1>","Ciudad","La Estancia",2
+"1757","Cundinamarca","Bogot<U+00E1>","Ciudad","Republica De Venezuela",2
+"1758","Cundinamarca","Bogot<U+00E1>","Ciudad","Urbanizaci<U+00F3>n Balmoral ",2
+"1759","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Boyac<U+00E1>",2
+"1760","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","El Paseo",2
+"1761","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","El Salitre Luis Maria Fernandez",2
+"1762","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Engativa bosques de Mariana",2
+"1763","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Engativa san Basilio",2
+"1764","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","La Marcela",2
+"1765","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Las Mercedes",2
+"1766","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Los Angeles",2
+"1767","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Luis Carlos Galan",2
+"1768","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Meissen Sidauto",2
+"1769","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Plazuelas Del Virrey",2
+"1770","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Primavera Norte",2
+"1771","Cundinamarca","Bogot<U+00E1>","Fontib<U+00F3>n","Fontibon",2
+"1772","Cundinamarca","Bogot<U+00E1>","Fontib<U+00F3>n","La Esperanza",2
+"1773","Cundinamarca","Bogot<U+00E1>","Fontib<U+00F3>n","La Rosita",2
+"1774","Cundinamarca","Bogot<U+00E1>","Fontib<U+00F3>n","Mallorca",2
+"1775","Cundinamarca","Bogot<U+00E1>","Kennedy","Alquerias De La Fragua",2
+"1776","Cundinamarca","Bogot<U+00E1>","Kennedy","Aticos De Las Americas",2
+"1777","Cundinamarca","Bogot<U+00E1>","Kennedy","Carvajal Osorio",2
+"1778","Cundinamarca","Bogot<U+00E1>","Kennedy","Ciudad Kennedy Oriental",2
+"1779","Cundinamarca","Bogot<U+00E1>","Kennedy","El Porvenir ",2
+"1780","Cundinamarca","Bogot<U+00E1>","Kennedy","Floresta Sur",2
+"1781","Cundinamarca","Bogot<U+00E1>","Kennedy","Gran Britalia",2
+"1782","Cundinamarca","Bogot<U+00E1>","Kennedy","Milenta Sector ",2
+"1783","Cundinamarca","Bogot<U+00E1>","Kennedy","Nuevo Kennedy",2
+"1784","Cundinamarca","Bogot<U+00E1>","Kennedy","Techo",2
+"1785","Cundinamarca","Bogot<U+00E1>","Kennedy","Tintalito ",2
+"1786","Cundinamarca","Bogot<U+00E1>","Kennedy","Urbanizaci<U+00F3>n Castilla Los Mandriles",2
+"1787","Cundinamarca","Bogot<U+00E1>","Kennedy","Villa Adriana",2
+"1788","Cundinamarca","Bogot<U+00E1>","Kennedyl","Ciudad Kennedy",2
+"1789","Cundinamarca","Bogot<U+00E1>","Kennedyl","Ciudad Kennedy Ce",2
+"1790","Cundinamarca","Bogot<U+00E1>","La","La Candelaria",2
+"1791","Cundinamarca","Bogot<U+00E1>","Martires","Colseguros",2
+"1792","Cundinamarca","Bogot<U+00E1>","Martires","Paloquemao",2
+"1793","Cundinamarca","Bogot<U+00E1>","Martires","Panamericano",2
+"1794","Cundinamarca","Bogot<U+00E1>","Martires","Ricaurte",2
+"1795","Cundinamarca","Bogot<U+00E1>","Pablo",NA,2
+"1796","Cundinamarca","Bogot<U+00E1>","Puente","Muzu",2
+"1797","Cundinamarca","Bogot<U+00E1>","Puente","Remanso",2
+"1798","Cundinamarca","Bogot<U+00E1>","Puente","San Eusebio",2
+"1799","Cundinamarca","Bogot<U+00E1>","Puente","San Gabriel",2
+"1800","Cundinamarca","Bogot<U+00E1>","Puente","Tejar",2
+"1801","Cundinamarca","Bogot<U+00E1>","Puente","Torremolinos",2
+"1802","Cundinamarca","Bogot<U+00E1>","Rafael","Claret Quiroga",2
+"1803","Cundinamarca","Bogot<U+00E1>","Rafael","Hospital San Carlos",2
+"1804","Cundinamarca","Bogot<U+00E1>","Rafael","Ingles Marco Fidel Suarez",2
+"1805","Cundinamarca","Bogot<U+00E1>","Rafael","Marco Fidel Suarez La Ca",2
+"1806","Cundinamarca","Bogot<U+00E1>","Rafael","Olaya",2
+"1807","Cundinamarca","Bogot<U+00E1>","Rafael","Palermo Sur",2
+"1808","Cundinamarca","Bogot<U+00E1>","San","Bello Horizonte",2
+"1809","Cundinamarca","Bogot<U+00E1>","San","Santa Rita ",2
+"1810","Cundinamarca","Bogot<U+00E1>","San","Velodromo",2
+"1811","Cundinamarca","Bogot<U+00E1>","San","Villa Javier",2
+"1812","Cundinamarca","Bogot<U+00E1>","Santa","Lourdes",2
+"1813","Cundinamarca","Bogot<U+00E1>","Suba","Britalia San Diego",2
+"1814","Cundinamarca","Bogot<U+00E1>","Suba","Caminos de San Lorenzo",2
+"1815","Cundinamarca","Bogot<U+00E1>","Suba","Canodromo",2
+"1816","Cundinamarca","Bogot<U+00E1>","Suba","Casa Blanca Sector El Plan",2
+"1817","Cundinamarca","Bogot<U+00E1>","Suba","Costa Azul",2
+"1818","Cundinamarca","Bogot<U+00E1>","Suba","El Recreo De Los Frailes",2
+"1819","Cundinamarca","Bogot<U+00E1>","Suba","Guicani",2
+"1820","Cundinamarca","Bogot<U+00E1>","Suba","La Alborada",2
+"1821","Cundinamarca","Bogot<U+00E1>","Suba","Montereserva",2
+"1822","Cundinamarca","Bogot<U+00E1>","Suba","Prados De Santa Barbara El Rinc<U+00F3>n",2
+"1823","Cundinamarca","Bogot<U+00E1>","Suba","Rincon De Iberia",2
+"1824","Cundinamarca","Bogot<U+00E1>","Suba","Rincon De Suba",2
+"1825","Cundinamarca","Bogot<U+00E1>","Suba","Santa Teresa de Suba",2
+"1826","Cundinamarca","Bogot<U+00E1>","Suba","Teusaca",2
+"1827","Cundinamarca","Bogot<U+00E1>","Suba","Vereda Suba Cerros",2
+"1828","Cundinamarca","Bogot<U+00E1>","Suba","Villa Elisa",2
+"1829","Cundinamarca","Bogot<U+00E1>","Subao","Alcala",2
+"1830","Cundinamarca","Bogot<U+00E1>","Teusaquillo","ACEVEDO TEJADA",2
+"1831","Cundinamarca","Bogot<U+00E1>","Teusaquillo","Banco Central",2
+"1832","Cundinamarca","Bogot<U+00E1>","Teusaquillo","GRAN AMERICA",2
+"1833","Cundinamarca","Bogot<U+00E1>","Teusaquillo","Quinta paredes",2
+"1834","Cundinamarca","Bogot<U+00E1>","Teusaquillo","gran america",2
+"1835","Cundinamarca","Bogot<U+00E1>","Tunjuelito","Parque Metropolitano El Tunal",2
+"1836","Cundinamarca","Bogot<U+00E1>","Tunjuelito","San Vicente De Ferrer",2
+"1837","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Alameda Campestre",2
+"1838","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Bosque Medina",2
+"1839","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Campo Alegre",2
+"1840","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Caobos Salazar",2
+"1841","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Cedro Madeira",2
+"1842","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Cedro Narvaez",2
+"1843","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Danubio",2
+"1844","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Estrella Del Norte",2
+"1845","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","La Floresta De La Sabana",2
+"1846","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","La Pradera Norte",2
+"1847","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Santa Cecilia Parte Baja",2
+"1848","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Santa Monica",2
+"1849","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Santandersito",2
+"1850","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Soatama",2
+"1851","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Torca",2
+"1852","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Torcoroma",2
+"1853","Cundinamarca","Bolgot<U+00E1>",NA,NA,2
+"1854","Cundinamarca","Cali",NA,NA,2
+"1855","Cundinamarca","Calle",NA,NA,2
+"1856","Cundinamarca","Castilla","Bogot<U+00E1>",NA,2
+"1857","Cundinamarca","Ch<U+00ED>a","Ch<U+00ED>a","Bachue",2
+"1858","Cundinamarca","Ch<U+00ED>a","Ch<U+00ED>a",NA,2
+"1859","Cundinamarca","Chocont<U+00E1>",NA,NA,2
+"1860","Cundinamarca","Facatativa",NA,NA,2
+"1861","Cundinamarca","Girardot","Comuna","Diamante",2
+"1862","Cundinamarca","Guaduas",NA,NA,2
+"1863","Cundinamarca","Mosquer<U+00E1>",NA,NA,2
+"1864","Cundinamarca","Mosquera","Mosquera","Cortijo De Serrezuela",2
+"1865","Cundinamarca","Mosquera","Mosquera","Hacienda de Alcal<U+00E1>",2
+"1866","Cundinamarca","Mosquera","Mosquera","Quintas Del Marques",2
+"1867","Cundinamarca","Sibat<U+00E9>",NA,NA,2
+"1868","Cundinamarca","Sop<U+00F3>","Sop<U+00F3>",NA,2
+"1869","Cundinamarca","Tocaima","Tocaima",NA,2
+"1870","Cundinamarca","Villeta","Villeta","Pe",2
+"1871","Cundinamarca","Villeta","Villeta",NA,2
+"1872","Cundinamarca","cota",NA,NA,2
+"1873","Cundinamarca","la",NA,NA,2
+"1874","Cundinamarca","tintal",NA,NA,2
+"1875","Cundinamarca","tocancipa",NA,NA,2
+"1876","CundinamarcaBOSA","Bogot<U+00E1>",NA,NA,2
+"1877","Cundinamarcabonanza","Bogot<U+00E1>",NA,NA,2
+"1878","Cundinamarcabucaramanga","Bogot<U+00E1>",NA,NA,2
+"1879","Cundinamarcacali","Bogot<U+00E1>",NA,NA,2
+"1880","Cundinamarcacastilla","Bogot<U+00E1>",NA,NA,2
+"1881","Cundinamarcala","Bogot<U+00E1>",NA,NA,2
+"1882","Cundinamarcalocales","Bogot<U+00E1>",NA,NA,2
+"1883","Cundinamarcamirandela","Bogot<U+00E1>",NA,NA,2
+"1884","Cundinamarcarosales","Bogot<U+00E1>",NA,NA,2
+"1885","Cundinamarcasuba","Bogot<U+00E1>",NA,NA,2
+"1886","Cundinamoarca","Bogot<U+00E1>",NA,NA,2
+"1887","Cundinarmarca","Bogot<U+00E1>",NA,NA,2
+"1888","Cunmdinamarca","Bogot<U+00E1>",NA,NA,2
+"1889","F<U+00E1>tima","Copacabana",NA,NA,2
+"1890","Guaviare","San",NA,NA,2
+"1891","La","Riohacha",NA,NA,2
+"1892","Meta","Acac<U+00ED>as","Acac<U+00ED>as",NA,2
+"1893","Meta","Barranca",NA,NA,2
+"1894","Meta","La",NA,NA,2
+"1895","Meta","Puerto",NA,NA,2
+"1896","Meta","Restrepo",NA,NA,2
+"1897","Meta","Villavicencio","Comuna","Antonio Villavicencio",2
+"1898","NARI","TUMACO",NA,NA,2
+"1899","Nari","La",NA,NA,2
+"1900","Norte","C<U+00FA>cuta","Comuna","Prados del Este",2
+"1901","Norte","C<U+00FA>cuta","Comuna",NA,2
+"1902","Norte","Chitag<U+00E1>",NA,NA,2
+"1903","Norte","Los","Los",NA,2
+"1904","Quind<U+00ED>o","Armenia","Comuna","Bosques de Pinares",2
+"1905","Quind<U+00ED>o","Armenia","Comuna",NA,2
+"1906","Risaralda","Bel<U+00E9>n",NA,NA,2
+"1907","Risaralda","Dosquebradas","Comuna","Altos de Santa M<U+00F3>nica",2
+"1908","Risaralda","Marsella",NA,NA,2
+"1909","Risaralda","Pereira","Comuna","Centenario",2
+"1910","Santander","Barbosa","Barbosa","Francisco De Paula Santander",2
+"1911","Santander","Barichara",NA,NA,2
+"1912","Santander","Barrancabermeja","Comuna","Campo Hermoso",2
+"1913","Santander","Bucaramanga","Comuna","Aeropuerto G<U+00F3>mez Ni",2
+"1914","Santander","Bucaramanga","Comuna","Alarc<U+00F3>n",2
+"1915","Santander","Bucaramanga","Comuna","Alvarez",2
+"1916","Santander","Bucaramanga","Comuna","El Prado",2
+"1917","Santander","Bucaramanga","Comuna","La Aurora",2
+"1918","Santander","Bucaramanga","Comuna","Los Pinos",2
+"1919","Santander","Bucaramanga","Comuna","Mejoras P<U+00FA>blicas",2
+"1920","Santander","Bucaramanga","provenza","Bucaramanga",2
+"1921","Santander","California",NA,NA,2
+"1922","Santander","Floridablanca","Floridablanca","Villabel",2
+"1923","Santander","Floridablanca","Villabel",NA,2
+"1924","Santander","Gir<U+00F3>n","Gir<U+00F3>n",NA,2
+"1925","Santander","Oiba",NA,NA,2
+"1926","Tolima","Casabianca",NA,NA,2
+"1927","Tolima","Flandes","Flandes",NA,2
+"1928","Tolima","Ibagu<U+00E9>","Comuna","Ciudadela Sim<U+00F3>n Bolivar ",2
+"1929","Tolima","Ibagu<U+00E9>","Comuna","Fuente de los Rosales",2
+"1930","Tolima","Ibagu<U+00E9>","Comuna","Piedra Pintada",2
+"1931","Tolima","Ibagu<U+00E9>","Comuna","Tolima Grande",2
+"1932","Tolima","Ibagu<U+00E9>","Comuna","Urbanizaci<U+00F3>n Villa Luz",2
+"1933","Tolima","Mariquita",NA,NA,2
+"1934","Valle","Ansermanuevo","Corregimiento",NA,2
+"1935","Valle","Bol<U+00ED>var","Corregimiento",NA,2
+"1936","Valle","Buenaventura","Buenaventura",NA,2
+"1937","Valle","Buga",NA,NA,2
+"1938","Valle","Cali","Comuna","Asprosocial Diamante",2
+"1939","Valle","Cali","Comuna","Centenario",2
+"1940","Valle","Cali","Comuna","Chiminagos ",2
+"1941","Valle","Cali","Comuna","Ciudad ",2
+"1942","Valle","Cali","Comuna","Compartir",2
+"1943","Valle","Cali","Comuna","El Lido",2
+"1944","Valle","Cali","Comuna","La Base",2
+"1945","Valle","Cali","Comuna","Las Granjas",2
+"1946","Valle","Cali","Comuna","Los Alcazares",2
+"1947","Valle","Cali","Comuna","Los Libertadores",2
+"1948","Valle","Cali","Comuna","Los Parques Barranquilla",2
+"1949","Valle","Cali","Comuna","Salomia",2
+"1950","Valle","Cali","Comuna","San Cayetano",2
+"1951","Valle","Cali","Comuna","Unicentro Cali",2
+"1952","Valle","Cali","Comuna","Urbanizaci<U+00F3>n La Base",2
+"1953","Valle","Cali","Comuna","Vallado",2
+"1954","Valle","Cali","Comuna","Vipasa",2
+"1955","Valle","Jamund<U+00ED>","Jamund<U+00ED>","Paraiso de la Morada",2
+"1956","Valle","Jamund<U+00ED>","Jamund<U+00ED>","Urbanizaci<U+00F3>n La Morada",2
+"1957","Valle","Roldanillo",NA,NA,2
+"1958","Valle","Toro",NA,NA,2
+"1959","Valle","Tulu<U+00E1>","Comuna","Avenida Cali",2
+"1960","Valle","Tulu<U+00E1>","Comuna","Chiminangos",2
+"1961","antioquia","Envigado",NA,NA,2
+"1962","centro","pereira",NA,NA,2
+"1963","cundinamarca","La",NA,NA,2
+"1964","guayabal","Medell<U+00ED>n",NA,NA,2
+"1965","meta","villavicencio",NA,NA,2
+"1966","norte","C<U+00FA>cuta",NA,NA,2
+"1967","norte","Cucuta",NA,NA,2
+"1968","santander","bucaramanga",NA,NA,2
+"1969","suba","Bogot<U+00E1>",NA,NA,2
+"1970","tolima","ibague",NA,NA,2
+"1971",NA,"A",NA,NA,2
+"1972",NA,"ALCASAREZ",NA,NA,2
+"1973",NA,"ARM",NA,NA,2
+"1974",NA,"Afidro",NA,NA,2
+"1975",NA,"Aldea",NA,NA,2
+"1976",NA,"Alto",NA,NA,2
+"1977",NA,"Altos",NA,NA,2
+"1978",NA,"Amoblado",NA,NA,2
+"1979",NA,"Andaluc<U+00ED>a",NA,NA,2
+"1980",NA,"Apartamento",NA,NA,2
+"1981",NA,"Armeni",NA,NA,2
+"1982",NA,"Atlantico",NA,NA,2
+"1983",NA,"Aures",NA,NA,2
+"1984",NA,"BEL",NA,NA,2
+"1985",NA,"BELMIRA",NA,NA,2
+"1986",NA,"BOSQUE",NA,NA,2
+"1987",NA,"Bacata",NA,NA,2
+"1988",NA,"Banderas",NA,NA,2
+"1989",NA,"Barranquillla",NA,NA,2
+"1990",NA,"Bavaria",NA,NA,2
+"1991",NA,"Belalcazar",NA,NA,2
+"1992",NA,"Belen","medellin",NA,2
+"1993",NA,"Bo",NA,NA,2
+"1994",NA,"Bogotah",NA,NA,2
+"1995",NA,"Bogotq",NA,NA,2
+"1996",NA,"Boquilla",NA,NA,2
+"1997",NA,"Brisas",NA,NA,2
+"1998",NA,"CIUDADELA",NA,NA,2
+"1999",NA,"CL",NA,NA,2
+"2000",NA,"COLINA",NA,NA,2
+"2001",NA,"CRA",NA,NA,2
+"2002",NA,"CUCUTA",NA,NA,2
+"2003",NA,"CajicaCundinamarca",NA,NA,2
+"2004",NA,"Calaszan",NA,NA,2
+"2005",NA,"Calazans",NA,NA,2
+"2006",NA,"Carlos",NA,NA,2
+"2007",NA,"Cerca",NA,NA,2
+"2008",NA,"Cerros",NA,NA,2
+"2009",NA,"Cl",NA,NA,2
+"2010",NA,"Coru",NA,NA,2
+"2011",NA,"DIAMANTE",NA,NA,2
+"2012",NA,"DOSQUEBRADAS",NA,NA,2
+"2013",NA,"Dosqueb",NA,NA,2
+"2014",NA,"Eduardo",NA,NA,2
+"2015",NA,"Esperanza",NA,NA,2
+"2016",NA,"Evanescencia",NA,NA,2
+"2017",NA,"GARCES",NA,NA,2
+"2018",NA,"Gaitan",NA,NA,2
+"2019",NA,"GaleriS",NA,NA,2
+"2020",NA,"Gilmar",NA,NA,2
+"2021",NA,"Hipotecho",NA,NA,2
+"2022",NA,"Iza",NA,NA,2
+"2023",NA,"Jazm<U+00ED>n",NA,NA,2
+"2024",NA,"KENNEDY",NA,NA,2
+"2025",NA,"LAS",NA,NA,2
+"2026",NA,"LAURELES",NA,NA,2
+"2027",NA,"Lago",NA,NA,2
+"2028",NA,"MADID",NA,NA,2
+"2029",NA,"MEDELL",NA,NA,2
+"2030",NA,"MOSQUERA",NA,NA,2
+"2031",NA,"MOTA",NA,NA,2
+"2032",NA,"Manrrique",NA,NA,2
+"2033",NA,"Maranta",NA,NA,2
+"2034",NA,"Medell<U+00ED>",NA,NA,2
+"2035",NA,"Medelli",NA,NA,2
+"2036",NA,"Medellib",NA,NA,2
+"2037",NA,"Miradores",NA,NA,2
+"2038",NA,"NICOLAS",NA,NA,2
+"2039",NA,"NIZA",NA,NA,2
+"2040",NA,"NORMANDIA",NA,NA,2
+"2041",NA,"Nuevo",NA,NA,2
+"2042",NA,"Occidente",NA,NA,2
+"2043",NA,"Ooo",NA,NA,2
+"2044",NA,"Orquideas","toberin",NA,2
+"2045",NA,"PIEDECUESTA",NA,NA,2
+"2046",NA,"POPAYAN",NA,NA,2
+"2047",NA,"Palos",NA,NA,2
+"2048",NA,"Parque",NA,NA,2
+"2049",NA,"Pei",NA,NA,2
+"2050",NA,"Pepe",NA,NA,2
+"2051",NA,"Pijaos",NA,NA,2
+"2052",NA,"Porvenir",NA,NA,2
+"2053",NA,"Primero",NA,NA,2
+"2054",NA,"QUINTAPAREDES",NA,NA,2
+"2055",NA,"Quibdo",NA,NA,2
+"2056",NA,"Quintas",NA,NA,2
+"2057",NA,"Quiroga","Bogota",NA,2
+"2058",NA,"Real",NA,NA,2
+"2059",NA,"Rio",NA,NA,2
+"2060",NA,"Roma",NA,NA,2
+"2061",NA,"SAUZALITO",NA,NA,2
+"2062",NA,"SOLEDAD",NA,NA,2
+"2063",NA,"Sopo",NA,NA,2
+"2064",NA,"Sotavento",NA,NA,2
+"2065",NA,"Sotomayor",NA,NA,2
+"2066",NA,"Sub<U+00E1>",NA,NA,2
+"2067",NA,"TOBERIN",NA,NA,2
+"2068",NA,"Tablaza",NA,NA,2
+"2069",NA,"Tarragona",NA,NA,2
+"2070",NA,"Tejares",NA,NA,2
+"2071",NA,"Tinjaca",NA,NA,2
+"2072",NA,"Tulu<U+00E1>",NA,NA,2
+"2073",NA,"Tumdama",NA,NA,2
+"2074",NA,"Urapanes",NA,NA,2
+"2075",NA,"VILLA",NA,NA,2
+"2076",NA,"VILLAVICENCIO",NA,NA,2
+"2077",NA,"Vatam",NA,NA,2
+"2078",NA,"Via",NA,NA,2
+"2079",NA,"Viviendas",NA,NA,2
+"2080",NA,"_",NA,NA,2
+"2081",NA,"abedules",NA,NA,2
+"2082",NA,"andalucia",NA,NA,2
+"2083",NA,"anillo",NA,NA,2
+"2084",NA,"antiguo",NA,NA,2
+"2085",NA,"apartamentos",NA,NA,2
+"2086",NA,"aron",NA,NA,2
+"2087",NA,"arriendo",NA,NA,2
+"2088",NA,"aviva",NA,NA,2
+"2089",NA,"b",NA,NA,2
+"2090",NA,"bellavista",NA,NA,2
+"2091",NA,"bogots",NA,NA,2
+"2092",NA,"bosques",NA,NA,2
+"2093",NA,"brranquilla",NA,NA,2
+"2094",NA,"caba",NA,NA,2
+"2095",NA,"calarca",NA,NA,2
+"2096",NA,"calera",NA,NA,2
+"2097",NA,"caminos",NA,NA,2
+"2098",NA,"can",NA,NA,2
+"2099",NA,"castila",NA,NA,2
+"2100",NA,"castropol",NA,NA,2
+"2101",NA,"cedritros",NA,NA,2
+"2102",NA,"cedro",NA,NA,2
+"2103",NA,"comuna",NA,NA,2
+"2104",NA,"contador",NA,NA,2
+"2105",NA,"de",NA,NA,2
+"2106",NA,"edificio",NA,NA,2
+"2107",NA,"entre",NA,NA,2
+"2108",NA,"env",NA,NA,2
+"2109",NA,"espa",NA,NA,2
+"2110",NA,"fatima",NA,NA,2
+"2111",NA,"florida",NA,NA,2
+"2112",NA,"galicia",NA,NA,2
+"2113",NA,"gilmar",NA,NA,2
+"2114",NA,"guanta",NA,NA,2
+"2115",NA,"guayabal",NA,NA,2
+"2116",NA,"heroes",NA,NA,2
+"2117",NA,"idanika",NA,NA,2
+"2118",NA,"jose",NA,NA,2
+"2119",NA,"lago",NA,NA,2
+"2120",NA,"lijaca",NA,NA,2
+"2121",NA,"localidad",NA,NA,2
+"2122",NA,"lotus",NA,NA,2
+"2123",NA,"maizales",NA,NA,2
+"2124",NA,"mede",NA,NA,2
+"2125",NA,"medell",NA,NA,2
+"2126",NA,"mediterrane",NA,NA,2
+"2127",NA,"melendez",NA,NA,2
+"2128",NA,"metropolitana",NA,NA,2
+"2129",NA,"morato",NA,NA,2
+"2130",NA,"nari",NA,NA,2
+"2131",NA,"occidente",NA,NA,2
+"2132",NA,"paraiso",NA,NA,2
+"2133",NA,"pardo",NA,NA,2
+"2134",NA,"paseo",NA,NA,2
+"2135",NA,"plaza",NA,NA,2
+"2136",NA,"rafael",NA,NA,2
+"2137",NA,"reserva",NA,NA,2
+"2138",NA,"sarzamora",NA,NA,2
+"2139",NA,"sociego",NA,NA,2
+"2140",NA,"soledad",NA,NA,2
+"2141",NA,"sopo",NA,NA,2
+"2142",NA,"taganga",NA,NA,2
+"2143",NA,"tenjo",NA,NA,2
+"2144",NA,"tierra",NA,NA,2
+"2145",NA,"tribunal",NA,NA,2
+"2146",NA,"tunjuelo",NA,NA,2
+"2147",NA,"venecia",NA,NA,2
+"2148",NA,"vereda",NA,NA,2
+"2149",NA,"vigao",NA,NA,2
+"2150",NA,"viviendas",NA,NA,2
+"2151",NA,"yopal",NA,NA,2
+"2152","ANTIOQUIA","MEDELLIN",NA,NA,1
+"2153","Alhambra","Bogot<U+00E1>",NA,NA,1
+"2154","Amazonas","La",NA,NA,1
+"2155","AnMedellin","Medell<U+00ED>n",NA,NA,1
+"2156","Andes","Bogot<U+00E1>",NA,NA,1
+"2157","AntMedell<U+00ED>","Medell<U+00ED>n",NA,NA,1
+"2158","Antioqu","Medell<U+00ED>n",NA,NA,1
+"2159","Antioqu<U+00ED>a","La",NA,NA,1
+"2160","Antioqu<U+00ED>a","Medellin",NA,NA,1
+"2161","Antioqu<U+00ED>a","la","Medellin",NA,1
+"2162","Antioquia","Alejandr<U+00ED>a","Alejandr<U+00ED>a",NA,1
+"2163","Antioquia","Amag<U+00E1>","Amag<U+00E1>",NA,1
+"2164","Antioquia","Amag<U+00E1>",NA,NA,1
+"2165","Antioquia","Andes","Andes",NA,1
+"2166","Antioquia","Angel<U+00F3>polis","Angel<U+00F3>polis","Calle Abajo",1
+"2167","Antioquia","Apartad<U+00F3>","Comuna","El Salvador",1
+"2168","Antioquia","Argelia","Argelia","Vereda El Tanque",1
+"2169","Antioquia","Barbosa","Barbosa","Pepe Sierra I",1
+"2170","Antioquia","Barbosa","Barbosa",NA,1
+"2171","Antioquia","Bello","Acevedo",NA,1
+"2172","Antioquia","Bello","Bellavista","La Selva",1
+"2173","Antioquia","Bello","Bellavista",NA,1
+"2174","Antioquia","Bello","Bello","Vereda Quitasol",1
+"2175","Antioquia","Bello","Fontidue","Machado",1
+"2176","Antioquia","Bello","La","El Paraiso",1
+"2177","Antioquia","Bello","Su<U+00E1>rez","La Milagrosa",1
+"2178","Antioquia","Bello","Su<U+00E1>rez","Lopez De Mesa",1
+"2179","Antioquia","Bello","Su<U+00E1>rez","P<U+00E9>rez",1
+"2180","Antioquia","Betulia","Betulia","Tolima",1
+"2181","Antioquia","Caracol<U+00ED>",NA,NA,1
+"2182","Antioquia","Carepa",NA,NA,1
+"2183","Antioquia","Caucasia",NA,NA,1
+"2184","Antioquia","Chigorod<U+00F3>",NA,NA,1
+"2185","Antioquia","Dabeiba","Dabeiba",NA,1
+"2186","Antioquia","Dabeiba",NA,NA,1
+"2187","Antioquia","Don",NA,NA,1
+"2188","Antioquia","Eb<U+00E9>jico",NA,NA,1
+"2189","Antioquia","El","El","Vereda Santa Elena",1
+"2190","Antioquia","El","l",NA,1
+"2191","Antioquia","Entrerrios",NA,NA,1
+"2192","Antioquia","Envigado","Envigado","Alcal<U+00E1>",1
+"2193","Antioquia","Envigado","Envigado","Camino Verde",1
+"2194","Antioquia","Envigado","Envigado","El Chingu<U+00ED>",1
+"2195","Antioquia","Envigado","Envigado","El Chocho",1
+"2196","Antioquia","Envigado","Envigado","Jardines",1
+"2197","Antioquia","Envigado","Envigado","La Abadia",1
+"2198","Antioquia","Envigado","Envigado","La Magnolia",1
+"2199","Antioquia","Envigado","Envigado","Las Cometas",1
+"2200","Antioquia","Envigado","Envigado","Loma de los Benedictinos",1
+"2201","Antioquia","Envigado","Envigado","Obrero",1
+"2202","Antioquia","Envigado","Envigado","Se",1
+"2203","Antioquia","G<U+00F3>mez",NA,NA,1
+"2204","Antioquia","Girardota","Girardota","Girardota La Nueva",1
+"2205","Antioquia","Itag","Comuna","Calatrava",1
+"2206","Antioquia","Itag","Comuna","San Antonio",1
+"2207","Antioquia","Itag","Comuna",NA,1
+"2208","Antioquia","Itagui",NA,NA,1
+"2209","Antioquia","La","La","Barrios Unidos",1
+"2210","Antioquia","La","La","La Antioque",1
+"2211","Antioquia","La","La","La Ferreira",1
+"2212","Antioquia","La","La","Vereda Pueblo Viejo",1
+"2213","Antioquia","Marinilla","Marinillao","Panorama",1
+"2214","Antioquia","Mede","Medell<U+00ED>n",NA,1
+"2215","Antioquia","Medell<U+00ED>n","Comuna","Antonio Nari",1
+"2216","Antioquia","Medell<U+00ED>n","Comuna","Aures ",1
+"2217","Antioquia","Medell<U+00ED>n","Comuna","Cucaracho",1
+"2218","Antioquia","Medell<U+00ED>n","Comuna","El Diamante ",1
+"2219","Antioquia","Medell<U+00ED>n","Comuna","El Rinc<U+00F3>n",1
+"2220","Antioquia","Medell<U+00ED>n","Comuna","Francisco Antonio Zea",1
+"2221","Antioquia","Medell<U+00ED>n","Comuna","Girardot",1
+"2222","Antioquia","Medell<U+00ED>n","Comuna","L<U+00F3>pez De Mesa",1
+"2223","Antioquia","Medell<U+00ED>n","Comuna","La Colina",1
+"2224","Antioquia","Medell<U+00ED>n","Comuna","La Gloria",1
+"2225","Antioquia","Medell<U+00ED>n","Comuna","La Palma",1
+"2226","Antioquia","Medell<U+00ED>n","Comuna","La Pradera",1
+"2227","Antioquia","Medell<U+00ED>n","Comuna","Loma del Indio",1
+"2228","Antioquia","Medell<U+00ED>n","Comuna","Lorena",1
+"2229","Antioquia","Medell<U+00ED>n","Comuna","Malib<U+00FA>",1
+"2230","Antioquia","Medell<U+00ED>n","Comuna","Miravalle",1
+"2231","Antioquia","Medell<U+00ED>n","Comuna","Pablo Vi",1
+"2232","Antioquia","Medell<U+00ED>n","Comuna","Robledo",1
+"2233","Antioquia","Medell<U+00ED>n","Comuna","San Pablo",1
+"2234","Antioquia","Medell<U+00ED>n","Comuna","San Pablo ",1
+"2235","Antioquia","Medell<U+00ED>n","Comuna","San Pedro",1
+"2236","Antioquia","Medell<U+00ED>n","Comuna","Santa Fe",1
+"2237","Antioquia","Medell<U+00ED>n","Comuna","Versalles ",1
+"2238","Antioquia","Medell<U+00ED>n","Comuna","Villa Flora",1
+"2239","Antioquia","Medell<U+00ED>n","Comuna","estadio",1
+"2240","Antioquia","Medell<U+00ED>n","El",NA,1
+"2241","Antioquia","Medell<U+00ED>n","Robledo",NA,1
+"2242","Antioquia","Rionegro","Corregimiento","Vereda El Higuer<U+00F3>n",1
+"2243","Antioquia","Rionegro","Corregimiento","Vereda La Mosquita",1
+"2244","Antioquia","Sabaneta","Sabaneta","Aves Maria",1
+"2245","Antioquia","Sabaneta","Sabaneta","La Doctora",1
+"2246","Antioquia","Sonson",NA,NA,1
+"2247","Antioquia","Titirib<U+00ED>",NA,NA,1
+"2248","Antioquia","Toledo",NA,NA,1
+"2249","Antioquia","Yond<U+00F3>",NA,NA,1
+"2250","Antioquia","gUARNE",NA,NA,1
+"2251","Antioquia","guarne",NA,NA,1
+"2252","Antioquia","itagui",NA,NA,1
+"2253","AntioquiaBello","Bello",NA,NA,1
+"2254","AntioquiaMedellin","Medell<U+00ED>n",NA,NA,1
+"2255","Antioquiabelen","Medell<U+00ED>n",NA,NA,1
+"2256","Antioquiacaldas","Medell<U+00ED>n",NA,NA,1
+"2257","Antioquiao","Bello",NA,NA,1
+"2258","Antioquiasan","Medell<U+00ED>n",NA,NA,1
+"2259","Arauca","Arauca","Comuna","Bulevar de la Ceiba",1
+"2260","Arauca","Arauca","Comuna","Fundadores Alto",1
+"2261","Arauca","Saravena",NA,NA,1
+"2262","Atl<U+00E1>ntico","Baranoa","Baranoa","La Candelaria",1
+"2263","Atl<U+00E1>ntico","Barranquilla","Metropolitana","Ciudadela ",1
+"2264","Atl<U+00E1>ntico","Barranquilla","Metropolitana",NA,1
+"2265","Atl<U+00E1>ntico","Barranquilla","Norte","El Porvenir",1
+"2266","Atl<U+00E1>ntico","Barranquilla","Norte","El Prado",1
+"2267","Atl<U+00E1>ntico","Barranquilla","Norte","La Concepci<U+00F3>n",1
+"2268","Atl<U+00E1>ntico","Barranquilla","Norte","Las Delicias",1
+"2269","Atl<U+00E1>ntico","Barranquilla","Riomar","Alto Prado",1
+"2270","Atl<U+00E1>ntico","Barranquilla","Riomar","Andaluc<U+00ED>a",1
+"2271","Atl<U+00E1>ntico","Barranquilla","Sur","Chiquinquir<U+00E1>",1
+"2272","Atl<U+00E1>ntico","Barranquilla","Sur","El Tayrona",1
+"2273","Atl<U+00E1>ntico","Barranquilla","Sur","Las Gaviotas",1
+"2274","Atl<U+00E1>ntico","Barranquilla","Sur","Lucero",1
+"2275","Atl<U+00E1>ntico","Barranquilla","Sur","Nueva Granada",1
+"2276","Atl<U+00E1>ntico","Galapa",NA,NA,1
+"2277","Atl<U+00E1>ntico","Juan",NA,NA,1
+"2278","Atl<U+00E1>ntico","Polonuevo",NA,NA,1
+"2279","Atl<U+00E1>ntico","Puerto","Puerto","Corregimiento Salgar",1
+"2280","Atl<U+00E1>ntico","Santo",NA,NA,1
+"2281","Atl<U+00E1>ntico","Soledad","Soledad","Altos de las Villas",1
+"2282","Atl<U+00E1>ntico","Soledad","Soledad","Ciudad Bol<U+00ED>var",1
+"2283","Atl<U+00E1>ntico","Soledad","Soledad","La Rivera",1
+"2284","Atl<U+00E1>ntico","Soledad","Soledad","Las Ferias",1
+"2285","Atl<U+00E1>ntico","Soledad","Soledad","Los Almendros",1
+"2286","Atl<U+00E1>ntico","Soledad","Soledad","Los Robles",1
+"2287","Atl<U+00E1>ntico","Soledad","Soledad","Moras Occidente",1
+"2288","Atl<U+00E1>ntico","Soledad","Soledad","Soledad ",1
+"2289","Atl<U+00E1>ntico","Tubara",NA,NA,1
+"2290","Atl<U+00E1>nticoBarran","Barranquilla",NA,NA,1
+"2291","Atl<U+00E1>nticobellavista","Barranquilla",NA,NA,1
+"2292","BELEN","MEDELLIN",NA,NA,1
+"2293","Bogota","Barrio",NA,NA,1
+"2294","Bogota","San",NA,NA,1
+"2295","Bol<U+00ED>var","Altos",NA,NA,1
+"2296","Bol<U+00ED>var","Cartagena","De","La Boquilla",1
+"2297","Bol<U+00ED>var","Cartagena","Hist<U+00F3>rica","Alto Bosque",1
+"2298","Bol<U+00ED>var","Cartagena","Hist<U+00F3>rica","Islas Del Rosario",1
+"2299","Bol<U+00ED>var","Cartagena","Industrial","Mamonal",1
+"2300","Bol<U+00ED>var","El",NA,NA,1
+"2301","Bol<U+00ED>varr","Cartagena",NA,NA,1
+"2302","Boyac<U+00E1>","Covarach<U+00ED>a",NA,NA,1
+"2303","Boyac<U+00E1>","Guateque",NA,NA,1
+"2304","Boyac<U+00E1>","Motavita",NA,NA,1
+"2305","Boyac<U+00E1>","Tiban<U+00E1>",NA,NA,1
+"2306","Boyac<U+00E1>","Tibasosa",NA,NA,1
+"2307","Boyac<U+00E1>","Tota",NA,NA,1
+"2308","Boyac<U+00E1>","Tunja","Comuna","Bogot<U+00E1>",1
+"2309","Boyac<U+00E1>","Tunja","Comuna","Los Muiscas",1
+"2310","Boyac<U+00E1>","Tunja","Comuna","Palos Verdes",1
+"2311","Boyaca","Duitama",NA,NA,1
+"2312","Bucaramanga","Bucaramanga",NA,NA,1
+"2313","C<U+00F3>rdoba","Lorica",NA,NA,1
+"2314","C<U+00F3>rdoba","Mo",NA,NA,1
+"2315","C<U+00F3>rdoba","Monter<U+00ED>a","Monteria","Corregimiento Patio Bonito",1
+"2316","C<U+00F3>rdoba","Sahag<U+00FA>n",NA,NA,1
+"2317","CIUDADELA","BOGOTA","SUBA",NA,1
+"2318","Caldas","Aguadas","Aguadas","El Chagualo",1
+"2319","Caldas","Anserma","Anserma",NA,1
+"2320","Caldas","Aranzazu","Aranzazu","Galeria",1
+"2321","Caldas","La",NA,NA,1
+"2322","Caldas","Manizales","Comuna","Alta Suiza",1
+"2323","Caldas","Manizales","Comuna","Balcones de Chipre",1
+"2324","Caldas","Manizales","Comuna","La Carolita",1
+"2325","Caldas","Manizales","Comuna",NA,1
+"2326","Caldas","Manizales",NA,"La Sultana",1
+"2327","Caldas","Neira",NA,NA,1
+"2328","Caldas","Palestina","Palestina","Vereda Cartagena",1
+"2329","Caldas","Palestina","Palestina","Vereda Santagueda",1
+"2330","Caldas",NA,NA,NA,1
+"2331","Caquet<U+00E1>","Florencia","Comuna","El Quirinal",1
+"2332","Caquet<U+00E1>","Florencia","Corregimiento","Vereda La Esperanza",1
+"2333","Casanare","Aguazul",NA,NA,1
+"2334","Casanare","Yopal","Comuna","Aerocivil",1
+"2335","Casanare","Yopal","Comuna",NA,1
+"2336","Casanare","Yopal","Corregimiento",NA,1
+"2337","Cauca","Cajib<U+00ED>o","Corregimiento","Vereda La Buitrera",1
+"2338","Cauca","Cajib<U+00ED>o","Corregimiento",NA,1
+"2339","Cauca","La",NA,NA,1
+"2340","Cauca","Piendam<U+00F3>",NA,NA,1
+"2341","Cauca","Popay<U+00E1>n","Comuna","Santa Fe De Bogota",1
+"2342","Cauca","omuna","Colina",NA,1
+"2343","Centro","Bogot<U+00E1>",NA,NA,1
+"2344","Centro","medellin",NA,NA,1
+"2345","Cesar","Becerril","Becerril","Corregimiento La Guajirita",1
+"2346","Cesar","Becerril",NA,NA,1
+"2347","Cesar","Pueblo",NA,NA,1
+"2348","Cesar","R<U+00ED>o",NA,NA,1
+"2349","Cesar","Valledupar","Comuna","Novalito",1
+"2350","Cesar","Valledupar","Corregimiento",NA,1
+"2351","Cesar","novalito",NA,NA,1
+"2352","Chapinero","Bogot<U+00E1>",NA,NA,1
+"2353","Copacabana","Medell<U+00ED>n",NA,NA,1
+"2354","Cun","Bogot<U+00E1>",NA,NA,1
+"2355","Cundina","Bogot<U+00E1>",NA,NA,1
+"2356","Cundinala","Bogot<U+00E1>",NA,NA,1
+"2357","Cundinamacarcali","Bogot<U+00E1>",NA,NA,1
+"2358","Cundinamarbucca","Bogot<U+00E1>",NA,NA,1
+"2359","Cundinamarc","Bogot",NA,NA,1
+"2360","Cundinamarc","Ciudad",NA,NA,1
+"2361","Cundinamarca","Altos",NA,NA,1
+"2362","Cundinamarca","Anapoima","Anapoima","Colombia",1
+"2363","Cundinamarca","Anolaima","Anolaima","Lagos de Niza",1
+"2364","Cundinamarca","Anolaima","Anolaima","Villa Carolina",1
+"2365","Cundinamarca","Anolaima","Anolaima",NA,1
+"2366","Cundinamarca","Anolaima",NA,NA,1
+"2367","Cundinamarca","Apulo","Apulo","El Campin",1
+"2368","Cundinamarca","ArBogot<U+00E1>",NA,NA,1
+"2369","Cundinamarca","B<U+00E1>",NA,NA,1
+"2370","Cundinamarca","Bcastillaogot<U+00E1>",NA,NA,1
+"2371","Cundinamarca","BikghhhmvnbnnnmbBogots<U+00E1>",NA,NA,1
+"2372","Cundinamarca","Blogot<U+00E1>",NA,NA,1
+"2373","Cundinamarca","Bogo",NA,NA,1
+"2374","Cundinamarca","Bogopt<U+00E1>",NA,NA,1
+"2375","Cundinamarca","Bogot<U+00E1>","Antonio","Caracas",1
+"2376","Cundinamarca","Bogot<U+00E1>","Antonio","La Fraguita",1
+"2377","Cundinamarca","Bogot<U+00E1>","Antonio","Luna Park",1
+"2378","Cundinamarca","Bogot<U+00E1>","Antonio","San Jorge Central Sector ",1
+"2379","Cundinamarca","Bogot<U+00E1>","Barrios"," De Noviembre",1
+"2380","Cundinamarca","Bogot<U+00E1>","Barrios","Benjamin Herrera",1
+"2381","Cundinamarca","Bogot<U+00E1>","Barrios","Concepcion Norte",1
+"2382","Cundinamarca","Bogot<U+00E1>","Barrios","El Labrador",1
+"2383","Cundinamarca","Bogot<U+00E1>","Barrios","La Libertad",1
+"2384","Cundinamarca","Bogot<U+00E1>","Barrios","POLO",1
+"2385","Cundinamarca","Bogot<U+00E1>","Barrios","Vizcaya",1
+"2386","Cundinamarca","Bogot<U+00E1>","Bosa","Andalucia",1
+"2387","Cundinamarca","Bogot<U+00E1>","Bosa","Berlin",1
+"2388","Cundinamarca","Bogot<U+00E1>","Bosa","Bosalinda",1
+"2389","Cundinamarca","Bogot<U+00E1>","Bosa","Brasil ",1
+"2390","Cundinamarca","Bogot<U+00E1>","Bosa","Ciudadela La Libertad ",1
+"2391","Cundinamarca","Bogot<U+00E1>","Bosa","El Jazmin Sector El Triangulo",1
+"2392","Cundinamarca","Bogot<U+00E1>","Bosa","El Porvenir ",1
+"2393","Cundinamarca","Bogot<U+00E1>","Bosa","Jimenez De Quesada ",1
+"2394","Cundinamarca","Bogot<U+00E1>","Bosa","La Libertad Sector Magnolia",1
+"2395","Cundinamarca","Bogot<U+00E1>","Bosa","La Primavera",1
+"2396","Cundinamarca","Bogot<U+00E1>","Bosa","Olarte",1
+"2397","Cundinamarca","Bogot<U+00E1>","Bosa","San Pablo Sector ",1
+"2398","Cundinamarca","Bogot<U+00E1>","Bosa","San Pedro Bosa Occidental",1
+"2399","Cundinamarca","Bogot<U+00E1>","Bosa","Santa Lucia",1
+"2400","Cundinamarca","Bogot<U+00E1>","Bosa","Villa Carolina",1
+"2401","Cundinamarca","Bogot<U+00E1>","Bosa","Villa Nohora Bosa Central",1
+"2402","Cundinamarca","Bogot<U+00E1>","Bosa","Villa Nohora Bosa Occidental",1
+"2403","Cundinamarca","Bogot<U+00E1>","Bosa","Villas Del Velero",1
+"2404","Cundinamarca","Bogot<U+00E1>","Chapinero","Chapinero",1
+"2405","Cundinamarca","Bogot<U+00E1>","Chapinero","El Paraiso",1
+"2406","Cundinamarca","Bogot<U+00E1>","Chapinero","Granada",1
+"2407","Cundinamarca","Bogot<U+00E1>","Chapinero","San Luis Altos Del Cabo",1
+"2408","Cundinamarca","Bogot<U+00E1>","Chapinero","San Martin De Porres",1
+"2409","Cundinamarca","Bogot<U+00E1>","Chapinerode","Chapinero Alto",1
+"2410","Cundinamarca","Bogot<U+00E1>","Ciudad","Barranquitos",1
+"2411","Cundinamarca","Bogot<U+00E1>","Ciudad","Casalinda",1
+"2412","Cundinamarca","Bogot<U+00E1>","Ciudad","Conjunto Residencial La Valvanera",1
+"2413","Cundinamarca","Bogot<U+00E1>","Ciudad","El Tesoro",1
+"2414","Cundinamarca","Bogot<U+00E1>","Ciudad","Empresa Comunitaria Manuela Beltr<U+00E1>n",1
+"2415","Cundinamarca","Bogot<U+00E1>","Ciudad","Jerusalen Sector Santa Rosita Las Vegas",1
+"2416","Cundinamarca","Bogot<U+00E1>","Ciudad","La Primavera",1
+"2417","Cundinamarca","Bogot<U+00E1>","Ciudad","Monterrey",1
+"2418","Cundinamarca","Bogot<U+00E1>","Ciudad","Primavera Sur Occidente",1
+"2419","Cundinamarca","Bogot<U+00E1>","Ciudad","Urbanizaci<U+00F3>n Balmoral Rincon de la Valvanera",1
+"2420","Cundinamarca","Bogot<U+00E1>","Ciudad","Urbanizaci<U+00F3>n Protecho Bogota",1
+"2421","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Bosques De Mariana",1
+"2422","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","El Muelle",1
+"2423","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","El Refugio",1
+"2424","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Engativa",1
+"2425","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Granjas El Dorado",1
+"2426","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","La Almeria",1
+"2427","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","La Clarita",1
+"2428","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","La Riviera",1
+"2429","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Las Palmas",1
+"2430","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Los Pinos Florencia",1
+"2431","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Marandu",1
+"2432","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Molinos De Viento",1
+"2433","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","San Basilio Garces Navas",1
+"2434","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","Santa Monica",1
+"2435","Cundinamarca","Bogot<U+00E1>","Engativ<U+00E1>","lamos",1
+"2436","Cundinamarca","Bogot<U+00E1>","Fontib<U+00F3>n","El Bogotano",1
+"2437","Cundinamarca","Bogot<U+00E1>","Fontib<U+00F3>n","Ferrocaja",1
+"2438","Cundinamarca","Bogot<U+00E1>","Fontib<U+00F3>n","La Giralda",1
+"2439","Cundinamarca","Bogot<U+00E1>","Fontib<U+00F3>n","Montevideo",1
+"2440","Cundinamarca","Bogot<U+00E1>","Fontib<U+00F3>n","Puerta De Teja",1
+"2441","Cundinamarca","Bogot<U+00E1>","Kennedy","Agrupaci<U+00F3>n Francisco Jose De Caldas",1
+"2442","Cundinamarca","Bogot<U+00E1>","Kennedy","Agrupacion Pio X",1
+"2443","Cundinamarca","Bogot<U+00E1>","Kennedy","Aloha",1
+"2444","Cundinamarca","Bogot<U+00E1>","Kennedy","Alqueria de La Fragua Sector El Paraiso",1
+"2445","Cundinamarca","Bogot<U+00E1>","Kennedy","Alquerias De La Fragua Villa Nueva",1
+"2446","Cundinamarca","Bogot<U+00E1>","Kennedy","Andalucia ",1
+"2447","Cundinamarca","Bogot<U+00E1>","Kennedy","Bombay",1
+"2448","Cundinamarca","Bogot<U+00E1>","Kennedy","Ciudad Favidi",1
+"2449","Cundinamarca","Bogot<U+00E1>","Kennedy","Ciudad Kennedy Norte",1
+"2450","Cundinamarca","Bogot<U+00E1>","Kennedy","Class",1
+"2451","Cundinamarca","Bogot<U+00E1>","Kennedy","Cooperativa De Suboficiales",1
+"2452","Cundinamarca","Bogot<U+00E1>","Kennedy","El Portal De Las Americas",1
+"2453","Cundinamarca","Bogot<U+00E1>","Kennedy","El Porvenir",1
+"2454","Cundinamarca","Bogot<U+00E1>","Kennedy","El Vergel",1
+"2455","Cundinamarca","Bogot<U+00E1>","Kennedy","Jacqueline",1
+"2456","Cundinamarca","Bogot<U+00E1>","Kennedy","Jazmin Occidental",1
+"2457","Cundinamarca","Bogot<U+00E1>","Kennedy","Kennedy Oriental Super Mz ",1
+"2458","Cundinamarca","Bogot<U+00E1>","Kennedy","Las Americas",1
+"2459","Cundinamarca","Bogot<U+00E1>","Kennedy","Las Americas Sector Galan",1
+"2460","Cundinamarca","Bogot<U+00E1>","Kennedy","Los Cristales",1
+"2461","Cundinamarca","Bogot<U+00E1>","Kennedy","Morabia ",1
+"2462","Cundinamarca","Bogot<U+00E1>","Kennedy","Nueva Timiza",1
+"2463","Cundinamarca","Bogot<U+00E1>","Kennedy","Perpetuo Socorro ",1
+"2464","Cundinamarca","Bogot<U+00E1>","Kennedy","Renania Urapanes",1
+"2465","Cundinamarca","Bogot<U+00E1>","Kennedy","Santa Monica",1
+"2466","Cundinamarca","Bogot<U+00E1>","Kennedy","Techo ",1
+"2467","Cundinamarca","Bogot<U+00E1>","Kennedy","Tierra buen",1
+"2468","Cundinamarca","Bogot<U+00E1>","Kennedy","Unidad Residencial Ayacucho ",1
+"2469","Cundinamarca","Bogot<U+00E1>","Kennedy","Urbanizaci<U+00F3>n Castilla Los Madriles",1
+"2470","Cundinamarca","Bogot<U+00E1>","Kennedy","Villa Andrea",1
+"2471","Cundinamarca","Bogot<U+00E1>","Kennedy","pio xxII",1
+"2472","Cundinamarca","Bogot<U+00E1>","KennedyTintal","El Tintal",1
+"2473","Cundinamarca","Bogot<U+00E1>","La","Bel<U+00E9>n",1
+"2474","Cundinamarca","Bogot<U+00E1>","La","Centro Administrativo",1
+"2475","Cundinamarca","Bogot<U+00E1>","Puente","Colon",1
+"2476","Cundinamarca","Bogot<U+00E1>","Puente","Los Comuneros",1
+"2477","Cundinamarca","Bogot<U+00E1>","Puente","Ospina Perez",1
+"2478","Cundinamarca","Bogot<U+00E1>","Puente","Ponderosa",1
+"2479","Cundinamarca","Bogot<U+00E1>","Puente","Santa Isabel",1
+"2480","Cundinamarca","Bogot<U+00E1>","Puente","Urbanizaci<U+00F3>n Corkidi",1
+"2481","Cundinamarca","Bogot<U+00E1>","Rafael","Bravo Paez Marco Fidel Suarez",1
+"2482","Cundinamarca","Bogot<U+00E1>","Rafael","Callejon Santa Barbara",1
+"2483","Cundinamarca","Bogot<U+00E1>","Rafael","Centenario Quiroga",1
+"2484","Cundinamarca","Bogot<U+00E1>","Rafael","Cerros De Oriente",1
+"2485","Cundinamarca","Bogot<U+00E1>","Rafael","Diana Turbay",1
+"2486","Cundinamarca","Bogot<U+00E1>","Rafael","Ingles Quiroga",1
+"2487","Cundinamarca","Bogot<U+00E1>","Rafael","La Esperanza",1
+"2488","Cundinamarca","Bogot<U+00E1>","Rafael","Los Pijaos",1
+"2489","Cundinamarca","Bogot<U+00E1>","Rafael","Murillo Toro",1
+"2490","Cundinamarca","Bogot<U+00E1>","Rafael","Palermo Sur Brisas",1
+"2491","Cundinamarca","Bogot<U+00E1>","Rafael","San Luis",1
+"2492","Cundinamarca","Bogot<U+00E1>","Rafael","Sociego Sur",1
+"2493","Cundinamarca","Bogot<U+00E1>","SIETE",NA,1
+"2494","Cundinamarca","Bogot<U+00E1>","San","Atenas",1
+"2495","Cundinamarca","Bogot<U+00E1>","San","Bello Horizonte ",1
+"2496","Cundinamarca","Bogot<U+00E1>","San","Buenos Aires El Sociego",1
+"2497","Cundinamarca","Bogot<U+00E1>","San","El Recodo Republica De Canada",1
+"2498","Cundinamarca","Bogot<U+00E1>","San","El Triunfo",1
+"2499","Cundinamarca","Bogot<U+00E1>","San","La Serafina",1
+"2500","Cundinamarca","Bogot<U+00E1>","San","Las Brisas",1
+"2501","Cundinamarca","Bogot<U+00E1>","San","Los Libertadores Sector San Miguel",1
+"2502","Cundinamarca","Bogot<U+00E1>","San","Los Pinos",1
+"2503","Cundinamarca","Bogot<U+00E1>","San","Macarena Los Alpes",1
+"2504","Cundinamarca","Bogot<U+00E1>","San","Nueva Delly",1
+"2505","Cundinamarca","Bogot<U+00E1>","San","Quindio ",1
+"2506","Cundinamarca","Bogot<U+00E1>","San","San Blas",1
+"2507","Cundinamarca","Bogot<U+00E1>","San","San Cristobal Alto",1
+"2508","Cundinamarca","Bogot<U+00E1>","San","San Vicente Sur Oriente",1
+"2509","Cundinamarca","Bogot<U+00E1>","San","Santa Ana",1
+"2510","Cundinamarca","Bogot<U+00E1>","San","Santa Ana sur",1
+"2511","Cundinamarca","Bogot<U+00E1>","San","Vitelma",1
+"2512","Cundinamarca","Bogot<U+00E1>","Santa","Egipto",1
+"2513","Cundinamarca","Bogot<U+00E1>","Santa","Egipto Alto",1
+"2514","Cundinamarca","Bogot<U+00E1>","Santa","El Rocio",1
+"2515","Cundinamarca","Bogot<U+00E1>","Santa","La soledad",1
+"2516","Cundinamarca","Bogot<U+00E1>","Santa","Vereda El Verj<U+00F3>n",1
+"2517","Cundinamarca","Bogot<U+00E1>","Santa","Vitelma",1
+"2518","Cundinamarca","Bogot<U+00E1>","Suba","Arrayanes",1
+"2519","Cundinamarca","Bogot<U+00E1>","Suba","Atenas Tibabuyes",1
+"2520","Cundinamarca","Bogot<U+00E1>","Suba","Balcones de Suba",1
+"2521","Cundinamarca","Bogot<U+00E1>","Suba","Berlin",1
+"2522","Cundinamarca","Bogot<U+00E1>","Suba","Bosques De San Jorge",1
+"2523","Cundinamarca","Bogot<U+00E1>","Suba","Camino de Arrayanes",1
+"2524","Cundinamarca","Bogot<U+00E1>","Suba","Casa Blanca ",1
+"2525","Cundinamarca","Bogot<U+00E1>","Suba","El Refugio De Suba",1
+"2526","Cundinamarca","Bogot<U+00E1>","Suba","El Velero",1
+"2527","Cundinamarca","Bogot<U+00E1>","Suba","Gloria Lara De Echeverri",1
+"2528","Cundinamarca","Bogot<U+00E1>","Suba","La Gaitana",1
+"2529","Cundinamarca","Bogot<U+00E1>","Suba","La Isabela",1
+"2530","Cundinamarca","Bogot<U+00E1>","Suba","Las Flores",1
+"2531","Cundinamarca","Bogot<U+00E1>","Suba","Lindaraja",1
+"2532","Cundinamarca","Bogot<U+00E1>","Suba","Los Eliseos",1
+"2533","Cundinamarca","Bogot<U+00E1>","Suba","Los Prados De La Sultana",1
+"2534","Cundinamarca","Bogot<U+00E1>","Suba","Miraflores",1
+"2535","Cundinamarca","Bogot<U+00E1>","Suba","Nuevo Corinto El Rinc<U+00F3>n",1
+"2536","Cundinamarca","Bogot<U+00E1>","Suba","Pijao De Oro",1
+"2537","Cundinamarca","Bogot<U+00E1>","Suba","Prado",1
+"2538","Cundinamarca","Bogot<U+00E1>","Suba","Prados De Santa Barbara Tibabuyes",1
+"2539","Cundinamarca","Bogot<U+00E1>","Suba","Prados De Suba",1
+"2540","Cundinamarca","Bogot<U+00E1>","Suba","Prados de la Sabana",1
+"2541","Cundinamarca","Bogot<U+00E1>","Suba","Rincon De Santa Ines",1
+"2542","Cundinamarca","Bogot<U+00E1>","Suba","San Francisco",1
+"2543","Cundinamarca","Bogot<U+00E1>","Suba","San Jorge",1
+"2544","Cundinamarca","Bogot<U+00E1>","Suba","San Pedro",1
+"2545","Cundinamarca","Bogot<U+00E1>","Suba","Santa Ana De Suba",1
+"2546","Cundinamarca","Bogot<U+00E1>","Suba","Santa Carolina",1
+"2547","Cundinamarca","Bogot<U+00E1>","Suba","Santa Catalina",1
+"2548","Cundinamarca","Bogot<U+00E1>","Suba","Santa Cecilia",1
+"2549","Cundinamarca","Bogot<U+00E1>","Suba","Suba gaitana",1
+"2550","Cundinamarca","Bogot<U+00E1>","Suba","Tibabuyes Universal",1
+"2551","Cundinamarca","Bogot<U+00E1>","Suba","Tierra Linda",1
+"2552","Cundinamarca","Bogot<U+00E1>","Suba","Villa De Las Flores",1
+"2553","Cundinamarca","Bogot<U+00E1>","Suba","Villa Delia Britalia Norte",1
+"2554","Cundinamarca","Bogot<U+00E1>","Suba","Villa Lucy",1
+"2555","Cundinamarca","Bogot<U+00E1>","Suba","Vista Bella",1
+"2556","Cundinamarca","Bogot<U+00E1>","Subap","Prado Pinzon",1
+"2557","Cundinamarca","Bogot<U+00E1>","Subaq","Prado Veraniego",1
+"2558","Cundinamarca","Bogot<U+00E1>","Teusaquillo","CENTRO NARI",1
+"2559","Cundinamarca","Bogot<U+00E1>","Teusaquillo","CORFERIAS",1
+"2560","Cundinamarca","Bogot<U+00E1>","Teusaquillo","Castilla",1
+"2561","Cundinamarca","Bogot<U+00E1>","Teusaquillo","Ciudad Salitre",1
+"2562","Cundinamarca","Bogot<U+00E1>","Teusaquillo","EL RECUERDO",1
+"2563","Cundinamarca","Bogot<U+00E1>","Teusaquillo","El recuerdo",1
+"2564","Cundinamarca","Bogot<U+00E1>","Teusaquillo","QUINTA PAREDES",1
+"2565","Cundinamarca","Bogot<U+00E1>","Teusaquillo","acevedo tejada",1
+"2566","Cundinamarca","Bogot<U+00E1>","TeusaquilloNBBB","El Salitre",1
+"2567","Cundinamarca","Bogot<U+00E1>","Tunjuelito","Conjunto Residencial Nuevo Muzu",1
+"2568","Cundinamarca","Bogot<U+00E1>","Tunjuelito","El Carmen",1
+"2569","Cundinamarca","Bogot<U+00E1>","Tunjuelito","Escuela de Policia General Santander",1
+"2570","Cundinamarca","Bogot<U+00E1>","Tunjuelito","San Vicente sur",1
+"2571","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Altablanca",1
+"2572","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Arcadia",1
+"2573","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Bellavista",1
+"2574","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Bosque de Mar<U+00ED>a",1
+"2575","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Capri",1
+"2576","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Dardanelos",1
+"2577","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Francisco Miranda",1
+"2578","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Ginebra",1
+"2579","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Jardin Norte",1
+"2580","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","La Liberia",1
+"2581","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Los Cedros",1
+"2582","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Nuevo Horizonte",1
+"2583","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Sagrado Corazon",1
+"2584","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","San Gabriel",1
+"2585","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Soratama",1
+"2586","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","Villas Del Mediterraneo",1
+"2587","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>n","san cristobal",1
+"2588","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>nLisboa","Lisboa",1
+"2589","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>np","Santa Paula",1
+"2590","Cundinamarca","Bogot<U+00E1>","Usaqu<U+00E9>npau","Santa Paula",1
+"2591","Cundinamarca","Bogot<U+00E1>","Usme","Alfonso Lopez Sector Charala Comuneros",1
+"2592","Cundinamarca","Bogot<U+00E1>","Usme","Brisas Del Llano Ciudad Usme",1
+"2593","Cundinamarca","Bogot<U+00E1>","Usme","Comuneros",1
+"2594","Cundinamarca","Bogot<U+00E1>","Usme","El Brillante",1
+"2595","Cundinamarca","Bogot<U+00E1>","Usme","El Pedregal",1
+"2596","Cundinamarca","Bogot<U+00E1>","Usme","El Virrey",1
+"2597","Cundinamarca","Bogot<U+00E1>","Usme","La Aurora",1
+"2598","Cundinamarca","Bogot<U+00E1>","Usme","Los Tejares Sur Sector ",1
+"2599","Cundinamarca","Bogot<U+00E1>","Usme","San Martin",1
+"2600","Cundinamarca","Bogot<U+00E1>","Usme","Santa Librada",1
+"2601","Cundinamarca","Bogot<U+00E1>","Usme","Villa Alejandria",1
+"2602","Cundinamarca","Bogot<U+00E1>","santa",NA,1
+"2603","Cundinamarca","Bogot<U+00E1>aq","Teusaquillo",NA,1
+"2604","Cundinamarca","Bogot<U+00E1>p",NA,NA,1
+"2605","Cundinamarca","Bojac<U+00E1>",NA,NA,1
+"2606","Cundinamarca","Bosa",NA,NA,1
+"2607","Cundinamarca","Cabrera",NA,NA,1
+"2608","Cundinamarca","Cachipay","Cachipay","Vereda Mesitas",1
+"2609","Cundinamarca","Cachipay",NA,NA,1
+"2610","Cundinamarca","Cajic<U+00E1>","Cajic<U+00E1>","Huertas de Cajic<U+00E1>",1
+"2611","Cundinamarca","Cedritos",NA,NA,1
+"2612","Cundinamarca","Ch<U+00ED>a","Ch<U+00ED>a","Fontanar",1
+"2613","Cundinamarca","Ch<U+00ED>a","Ch<U+00ED>a","San Jacinto",1
+"2614","Cundinamarca","Ch<U+00ED>a","Ch<U+00ED>a","San Simon",1
+"2615","Cundinamarca","Ch<U+00ED>a","Ch<U+00ED>a","Sindamanoy",1
+"2616","Cundinamarca","Ch<U+00ED>a","Ch<U+00ED>a","Tiquiza",1
+"2617","Cundinamarca","Ch<U+00ED>a","Ch<U+00ED>a","Vereda Bojaca",1
+"2618","Cundinamarca","Ch<U+00ED>a","Ch<U+00ED>a","Vereda Calahorra",1
+"2619","Cundinamarca","Ch<U+00ED>a","Ch<U+00ED>a","Vereda Yerbabuena",1
+"2620","Cundinamarca","Chapinero",NA,NA,1
+"2621","Cundinamarca","Cogua",NA,NA,1
+"2622","Cundinamarca","Comuna","Bogot<U+00E1>",NA,1
+"2623","Cundinamarca","Cota","Cota","Vereda Parcelas",1
+"2624","Cundinamarca","EL",NA,NA,1
+"2625","Cundinamarca","Engativ<U+00E1>",NA,NA,1
+"2626","Cundinamarca","Facatativ<U+00E1>","facatativa",NA,1
+"2627","Cundinamarca","Floridablancaot<U+00E1>",NA,NA,1
+"2628","Cundinamarca","Fusagasug<U+00E1>","Comuna","Antiguo Balmoral",1
+"2629","Cundinamarca","Fusagasug<U+00E1>","Comuna","El Mirador de Bonnet",1
+"2630","Cundinamarca","Fusagasug<U+00E1>","Comuna","San Mateo",1
+"2631","Cundinamarca","Fusagasug<U+00E1>","Comuna","Santa Anita",1
+"2632","Cundinamarca","Fusagasug<U+00E1>","Corregimiento","Vereda Mesitas",1
+"2633","Cundinamarca","Girardot","Comuna","Granada",1
+"2634","Cundinamarca","Girardot","Comuna","Los Rosales",1
+"2635","Cundinamarca","Girardot","Comuna","Portal De Santa M<U+00F3>nica",1
+"2636","Cundinamarca","Girardot","Comuna","el Bogot<U+00E1>",1
+"2637","Cundinamarca","Guali","Bogot<U+00E1>",NA,1
+"2638","Cundinamarca","Guatavita",NA,NA,1
+"2639","Cundinamarca","Guti<U+00E9>rrez",NA,NA,1
+"2640","Cundinamarca","Hayuelos",NA,NA,1
+"2641","Cundinamarca","Kennedy",NA,NA,1
+"2642","Cundinamarca","LA",NA,NA,1
+"2643","Cundinamarca","La","La","La Pradera de Potos<U+00ED>",1
+"2644","Cundinamarca","La","La","Vereda El Espinal",1
+"2645","Cundinamarca","MOSQUERA",NA,NA,1
+"2646","Cundinamarca","MOsquera",NA,NA,1
+"2647","Cundinamarca","Medell<U+00ED>n",NA,NA,1
+"2648","Cundinamarca","Medellin",NA,NA,1
+"2649","Cundinamarca","MedellinantioquiaBogot<U+00E1>",NA,NA,1
+"2650","Cundinamarca","Medet<U+00E1>",NA,NA,1
+"2651","Cundinamarca","Mesitas",NA,NA,1
+"2652","Cundinamarca","Mosquera","Mosquera","Mallorca",1
+"2653","Cundinamarca","Mosquera","Mosquera","Sol creciente",1
+"2654","Cundinamarca","Nimaima",NA,NA,1
+"2655","Cundinamarca","Olaya",NA,NA,1
+"2656","Cundinamarca","Puerto",NA,NA,1
+"2657","Cundinamarca","Retiro",NA,NA,1
+"2658","Cundinamarca","SANTA",NA,NA,1
+"2659","Cundinamarca","Siberia",NA,NA,1
+"2660","Cundinamarca","Soach<U+00E1>",NA,NA,1
+"2661","Cundinamarca","Soacha","Comuna","Le<U+00F3>n XIII",1
+"2662","Cundinamarca","Soacha","Comuna","Parque Campestre",1
+"2663","Cundinamarca","Soacha","Comuna","San Mateo",1
+"2664","Cundinamarca","Sop<U+00F3>","Sop<U+00F3>","Vereda Brice",1
+"2665","Cundinamarca","Sop<U+00F3>","Sop<U+00F3>","Vereda Hatogrande",1
+"2666","Cundinamarca","Subachoque","Subachoque","Vereda Tibagota",1
+"2667","Cundinamarca","TOCANCIP",NA,NA,1
+"2668","Cundinamarca","Tena",NA,NA,1
+"2669","Cundinamarca","Ticancipa",NA,NA,1
+"2670","Cundinamarca","Tintal",NA,NA,1
+"2671","Cundinamarca","Tocancipa",NA,NA,1
+"2672","Cundinamarca","Usatama","Bogot<U+00E1>",NA,1
+"2673","Cundinamarca","Versalles",NA,NA,1
+"2674","Cundinamarca","Villeta","Villeta","Vereda Payand<U+00E9>",1
+"2675","Cundinamarca","Zipaquir<U+00E1>","Comuna","Algarra ",1
+"2676","Cundinamarca","cali",NA,NA,1
+"2677","Cundinamarca","calle",NA,NA,1
+"2678","Cundinamarca","carimagua",NA,NA,1
+"2679","Cundinamarca","chapinero",NA,NA,1
+"2680","Cundinamarca","ciudad",NA,NA,1
+"2681","Cundinamarca","el",NA,NA,1
+"2682","Cundinamarca","facatativa",NA,NA,1
+"2683","Cundinamarca","funza",NA,NA,1
+"2684","Cundinamarca","medeBogot<U+00E1>",NA,NA,1
+"2685","Cundinamarca","medellinBogot<U+00E1>",NA,NA,1
+"2686","Cundinamarca","metropolis","Bogot<U+00E1>",NA,1
+"2687","Cundinamarca","modelia",NA,NA,1
+"2688","Cundinamarca","ogot<U+00E1>",NA,NA,1
+"2689","Cundinamarca","ot<U+00E1>",NA,NA,1
+"2690","Cundinamarca","pontevedra",NA,NA,1
+"2691","Cundinamarca","salitre",NA,NA,1
+"2692","Cundinamarca","san",NA,NA,1
+"2693","Cundinamarca","santa",NA,NA,1
+"2694","Cundinamarca","sasaima",NA,NA,1
+"2695","Cundinamarca","soacha",NA,NA,1
+"2696","Cundinamarca","suba","Bogot<U+00E1>",NA,1
+"2697","Cundinamarca","t<U+00E1>","B","Metropolis",1
+"2698","Cundinamarca","tica",NA,NA,1
+"2699","Cundinamarca","tocaima",NA,NA,1
+"2700","Cundinamarca","ubate",NA,NA,1
+"2701","CundinamarcaBU","Bogot<U+00E1>",NA,NA,1
+"2702","CundinamarcaCa","Bogot<U+00E1>",NA,NA,1
+"2703","CundinamarcaCajica","Bogot<U+00E1>",NA,NA,1
+"2704","CundinamarcaFusagasug<U+00E1>",NA,NA,NA,1
+"2705","CundinamarcaT","Bogot<U+00E1>",NA,NA,1
+"2706","Cundinamarcaalahmbre","Bogot<U+00E1>",NA,NA,1
+"2707","Cundinamarcaalfonso","Bogot<U+00E1>",NA,NA,1
+"2708","Cundinamarcaamaratu","Bogot<U+00E1>",NA,NA,1
+"2709","Cundinamarcabarranquilla","Bogot<U+00E1>",NA,NA,1
+"2710","Cundinamarcaboita","Bogot<U+00E1>",NA,NA,1
+"2711","Cundinamarcabosa","Bogot<U+00E1>",NA,NA,1
+"2712","Cundinamarcacajica","Bogot<U+00E1>",NA,NA,1
+"2713","Cundinamarcaced","Bogot<U+00E1>",NA,NA,1
+"2714","Cundinamarcacedritos","Bogot<U+00E1>",NA,NA,1
+"2715","Cundinamarcaciudad","Bogot<U+00E1>",NA,NA,1
+"2716","Cundinamarcaclub","Bogot<U+00E1>",NA,NA,1
+"2717","Cundinamarcaengativa","Bogot<U+00E1>",NA,NA,1
+"2718","Cundinamarcaflandes","Bogot<U+00E1>",NA,NA,1
+"2719","Cundinamarcafontibon","Bogot<U+00E1>",NA,NA,1
+"2720","Cundinamarcaguarne","Bogot<U+00E1>",NA,NA,1
+"2721","Cundinamarcak","Bogot<U+00E1>",NA,NA,1
+"2722","Cundinamarcal","Cajica",NA,NA,1
+"2723","Cundinamarcalos","Bogot<U+00E1>",NA,NA,1
+"2724","Cundinamarcalu","Bogot<U+00E1>",NA,NA,1
+"2725","Cundinamarcam","Bogot<U+00E1>",NA,NA,1
+"2726","Cundinamarcame","Bogot<U+00E1>",NA,NA,1
+"2727","Cundinamarcametropolis","Bogot<U+00E1>",NA,NA,1
+"2728","Cundinamarcamolinos","Bogot<U+00E1>",NA,NA,1
+"2729","Cundinamarcanmnhhm","Bogot<U+00E1>",NA,NA,1
+"2730","Cundinamarcanmnhhmjj","Bogot<U+00E1>",NA,NA,1
+"2731","Cundinamarcanormandia","Bogot<U+00E1>",NA,NA,1
+"2732","Cundinamarcapereira","Bogot<U+00E1>",NA,NA,1
+"2733","Cundinamarcapotrerito","Bogot<U+00E1>",NA,NA,1
+"2734","Cundinamarcaprado","Bogot<U+00E1>",NA,NA,1
+"2735","Cundinamarcapublicar","Bogot<U+00E1>",NA,NA,1
+"2736","Cundinamarcapuente","Bogot<U+00E1>",NA,NA,1
+"2737","Cundinamarcaremansos","Bogot<U+00E1>",NA,NA,1
+"2738","Cundinamarcarisaralda","Bogot<U+00E1>",NA,NA,1
+"2739","Cundinamarcasiete","Bogot<U+00E1>",NA,NA,1
+"2740","Cundinamarcate","Bogot<U+00E1>",NA,NA,1
+"2741","Cundinamarcateusaquillo","Bogot<U+00E1>",NA,NA,1
+"2742","Cundinamarcatoberin","Bogot<U+00E1>",NA,NA,1
+"2743","Cundinamarcatocancip<U+00E1>","tocancipa",NA,NA,1
+"2744","Cundinamarcatulua","Bogot<U+00E1>",NA,NA,1
+"2745","Cundinamarcausaquen","Bogot<U+00E1>",NA,NA,1
+"2746","Cundinamarcaveraguas","Bogot<U+00E1>",NA,NA,1
+"2747","Cundinamarcavilla","Bogot<U+00E1>",NA,NA,1
+"2748","Cundinamarcayuituuhht","Bogot<U+00E1>",NA,NA,1
+"2749","Cundinamarcazc","Bogot<U+00E1>",NA,NA,1
+"2750","Cundinamarcma","Bogot<U+00E1>",NA,NA,1
+"2751","Cundinamat<U+00E1>","Suba","Prado",NA,1
+"2752","Cundinamyarca","Bogot<U+00E1>",NA,NA,1
+"2753","Cundinaumarca","Bogot<U+00E1>",NA,NA,1
+"2754","Cundinlamarca","Bogot<U+00E1>",NA,NA,1
+"2755","Cundinsaamarca","Bogot<U+00E1>",NA,NA,1
+"2756","Cundinzipqiamarca","Bogot<U+00E1>",NA,NA,1
+"2757","Cunsdinamarca","chi<U+00E1>",NA,NA,1
+"2758","Cvillas","Bogot<U+00E1>",NA,NA,1
+"2759","Cvundinamarcac","Bogot<U+00E1>",NA,NA,1
+"2760","Distrito","Bogot<U+00E1>",NA,NA,1
+"2761","Floridablanca","La",NA,NA,1
+"2762","Guain<U+00ED>a","San",NA,NA,1
+"2763","Huila","Garz<U+00F3>n","Garz<U+00F3>n","Ciudadela Sabambu",1
+"2764","Huila","Garz<U+00F3>n","Garz<U+00F3>n","Granjas",1
+"2765","Huila","Garz<U+00F3>n","Garz<U+00F3>n","Vereda El Batan",1
+"2766","Huila","Garz<U+00F3>n","Garz<U+00F3>n",NA,1
+"2767","Huila","Neiva","Comuna","Alberto Galindo",1
+"2768","Huila","Neiva","Comuna","Asoproneiva",1
+"2769","Huila","Neiva","Comuna","Ipanema",1
+"2770","Huila","Neiva","Comuna","Siete De Agosto",1
+"2771","Huila","Neiva","Corregimiento",NA,1
+"2772","Huila","Palermo",NA,NA,1
+"2773","Huila","Rivera",NA,NA,1
+"2774","Huila","pitalito",NA,NA,1
+"2775","Kennedy","Bogot<U+00E1>",NA,NA,1
+"2776","La","Barrancas",NA,NA,1
+"2777","La","Distracci<U+00F3>n",NA,NA,1
+"2778","La","Urumita",NA,NA,1
+"2779","Laureles","Medellin",NA,NA,1
+"2780","Magdalena","Ci<U+00E9>naga",NA,NA,1
+"2781","Magdalena","Santa","Comuna","Aeromar",1
+"2782","Magdalena","Santa","Comuna","Altos de Santa Rita",1
+"2783","Magdalena","Santa","Comuna","Bello Horizonte",1
+"2784","Magdalena","Santa","Comuna","Los Almendros",1
+"2785","Magdalena","Santa","Comuna","Pozos Colorados",1
+"2786","Magdalena","Santa","Comuna","Taganga",1
+"2787","Magdalena","Santa","Comuna","Urbanizaci<U+00F3>n Villas de Alejandr<U+00ED>a",1
+"2788","Magdalena","Zona",NA,NA,1
+"2789","Medell<U+00ED>n","Bel<U+00E9>n",NA,NA,1
+"2790","Meta","Guamal",NA,NA,1
+"2791","Meta","Villavicencio","Comuna","El Cedral",1
+"2792","Meta","Villavicencio","Corregimiento","Vereda Apiay",1
+"2793","Nari","Bel<U+00E9>n",NA,NA,1
+"2794","Nari","Ipiales",NA,NA,1
+"2795","Nari","Olaya",NA,NA,1
+"2796","Nari","Pasto","Comuna"," De Octubre",1
+"2797","Nari","Pasto","Comuna","El Rinc<U+00F3>n De Pasto",1
+"2798","Nari","Tumaco",NA,NA,1
+"2799","Norte","C<U+00FA>cuta","Comuna","C<U+00FA>cuta ",1
+"2800","Norte","C<U+00FA>cuta","Comuna","Motilones",1
+"2801","Norte","C<U+00FA>cuta","Comuna","Prados Norte",1
+"2802","Norte","C<U+00FA>cutade","C<U+00FA>cuta",NA,1
+"2803","Norte","El",NA,NA,1
+"2804","Norte","Los","Los","El Rincon de Alicante",1
+"2805","Norte","Los",NA,NA,1
+"2806","Norte","Lourdes",NA,NA,1
+"2807","Norte","Oca","Comuna","La Modelo",1
+"2808","Norte","Oca","Corregimiento","Vereda Piedecuesta",1
+"2809","Norte","Oca","Corregimiento",NA,1
+"2810","Norte","Pamplona",NA,NA,1
+"2811","Norte","Villa","Villa","Corregimiento Luis Carlos Gal<U+00E1>n",1
+"2812","Norte","Villa","Villa","Pie de Cuesta",1
+"2813","Putumayo","Mocoa","Mocoa",NA,1
+"2814","Putumayo","Villagarz<U+00F3>n",NA,NA,1
+"2815","Quind<U+00ED>o","Calarca","Corregimiento","Pablo Sexto",1
+"2816","Quind<U+00ED>o","Circasia",NA,NA,1
+"2817","Quind<U+00ED>o","Filandia",NA,NA,1
+"2818","Quind<U+00ED>o","La","La",NA,1
+"2819","Quind<U+00ED>o","La",NA,NA,1
+"2820","Quind<U+00ED>o","Montenegro","Montenegro",NA,1
+"2821","Quind<U+00ED>o","Pijao",NA,NA,1
+"2822","Quind<U+00ED>o","Salento","Salento",NA,1
+"2823","Quind<U+00ED>o","Salento",NA,NA,1
+"2824","QuindIo","Armenia",NA,NA,1
+"2825","Risaralda","Dosquebradas","Comuna","Buenos Aires",1
+"2826","Risaralda","Dosquebradas","Comuna","La Romelia Alta y Baja",1
+"2827","Risaralda","Dosquebradas","Comuna","San Nicol<U+00E1>s",1
+"2828","Risaralda","Pereira","Comuna","Bosques de Santa Elena",1
+"2829","Risaralda","Pereira","Comuna","Cedritos",1
+"2830","Risaralda","Pereira","Comuna","Ciudad Pereira",1
+"2831","Risaralda","Pereira","Comuna","Laureles",1
+"2832","Risaralda","Pereira","Comuna","Parque La Libertad",1
+"2833","Risaralda","Pereira","Comuna","Pereira",1
+"2834","Risaralda","Pereira","Comuna","Pinares",1
+"2835","Risaralda","Pereira","Comuna","Pueblito Paisa",1
+"2836","Risaralda","Pereira","Comuna","Rafael Uribe ",1
+"2837","Risaralda","Pereira","Comuna","Risaralda",1
+"2838","Risaraldabarrio","Pereira",NA,NA,1
+"2839","Risaraldasamaria","Pereira",NA,NA,1
+"2840","SANTANDER","GIRON",NA,NA,1
+"2841","SANTANDER","PIEDECUESTA",NA,NA,1
+"2842","Santander","Albania",NA,NA,1
+"2843","Santander","Aratoca",NA,NA,1
+"2844","Santander","Barbosa","Barbosa","Urbanizaci<U+00F3>n Villa Mar<U+00ED>a",1
+"2845","Santander","Barrancabermeja","Barrancabermeja",NA,1
+"2846","Santander","Barrancabermeja","Comuna","Chic<U+00F3>",1
+"2847","Santander","Barrancabermeja","Comuna","Gal<U+00E1>n G<U+00F3>mez",1
+"2848","Santander","Barrancabermeja","Comuna","Palmira",1
+"2849","Santander","Bucaramanga","Comuna","Bol<U+00ED>var",1
+"2850","Santander","Bucaramanga","Comuna","Brisas del Mutis",1
+"2851","Santander","Bucaramanga","Comuna","Candiles",1
+"2852","Santander","Bucaramanga","Comuna","Comuneros",1
+"2853","Santander","Bucaramanga","Comuna","Dangond",1
+"2854","Santander","Bucaramanga","Comuna","Jardines De Coaviconsa",1
+"2855","Santander","Bucaramanga","Comuna","La Gran Ladera",1
+"2856","Santander","Bucaramanga","Comuna","Rinc<U+00F3>n De La Paz",1
+"2857","Santander","Bucaramanga","Comuna","Toledo Plata",1
+"2858","Santander","Bucaramanga","fontana","Bucaramanga",1
+"2859","Santander","Bucaramangag","Bucaramanga",NA,1
+"2860","Santander","El",NA,NA,1
+"2861","Santander","Floridablanca","Floridablanca","Altos De La Florida",1
+"2862","Santander","Floridablanca","Floridablanca","Ciudad Valencia",1
+"2863","Santander","Floridablanca","Floridablanca","Palomitas",1
+"2864","Santander","Floridablanca","Floridablanca","Portal De Castilla",1
+"2865","Santander","Gir<U+00F3>n","Gir<U+00F3>n","Ciudad Metropolitana",1
+"2866","Santander","Gir<U+00F3>n","Gir<U+00F3>n","Espa",1
+"2867","Santander","Gir<U+00F3>n","Gir<U+00F3>n","Rincon De Giron",1
+"2868","Santander","Land<U+00E1>zuri",NA,NA,1
+"2869","Santander","Los",NA,NA,1
+"2870","Santander","Piedecuesta","Piedecuesta","Callejuelas",1
+"2871","Santander","Rionegro",NA,NA,1
+"2872","SantanderBucaramanga","Bucaramanga",NA,NA,1
+"2873","Sucre","Cove","Cove",NA,1
+"2874","Sucre","Tol<U+00FA>",NA,NA,1
+"2875","TOLIMA","IBAGUE",NA,NA,1
+"2876","Tolima","Cajamarca",NA,NA,1
+"2877","Tolima","Flandes","Flandes","Urbanizaci<U+00F3>n Villa Lucia",1
+"2878","Tolima","Ibagu<U+00E9>","Comuna","Bel<U+00E9>n",1
+"2879","Tolima","Ibagu<U+00E9>","Comuna","Ca",1
+"2880","Tolima","Ibagu<U+00E9>","Comuna","La Cartagena",1
+"2881","Tolima","Ibagu<U+00E9>","Comuna","Macarena",1
+"2882","Tolima","Ibagu<U+00E9>","Comuna","Urbanizaci<U+00F3>n Villa Magdalena",1
+"2883","Tolima","Icononzo",NA,NA,1
+"2884","Tolima","Prado",NA,NA,1
+"2885","Tolima","Roncesvalles",NA,NA,1
+"2886","Valle","Andaluc<U+00ED>a","Andaluc<U+00ED>a","Urbanizaci<U+00F3>n Villa Claudia",1
+"2887","Valle","Andaluc<U+00ED>a",NA,NA,1
+"2888","Valle","Ansermanuevo",NA,NA,1
+"2889","Valle","Buenaventura","Buenaventura","Corregimiento San Antonio de Yurumangu<U+00ED>",1
+"2890","Valle","Buenaventura","Comuna","Alfonso Lopez M",1
+"2891","Valle","Buenaventura","Comuna","Bosque Municipal",1
+"2892","Valle","Cali","Cali","Corregimiento Felidia",1
+"2893","Valle","Cali","Comuna"," de Julio",1
+"2894","Valle","Cali","Comuna","Aguacatal",1
+"2895","Valle","Cali","Comuna","Altos De Menga",1
+"2896","Valle","Cali","Comuna","Arroyohondo",1
+"2897","Valle","Cali","Comuna","Barrio Caldas",1
+"2898","Valle","Cali","Comuna","Base A<U+00E9>rea",1
+"2899","Valle","Cali","Comuna","Belisario Caicedo",1
+"2900","Valle","Cali","Comuna","Bella Suiza",1
+"2901","Valle","Cali","Comuna","Bochalema",1
+"2902","Valle","Cali","Comuna","Bosques Del Limonar",1
+"2903","Valle","Cali","Comuna","Breta",1
+"2904","Valle","Cali","Comuna","Buenos Aires",1
+"2905","Valle","Cali","Comuna","Ca",1
+"2906","Valle","Cali","Comuna","Champagnat",1
+"2907","Valle","Cali","Comuna","Ciudad Los ",1
+"2908","Valle","Cali","Comuna","Colseguros Andes",1
+"2909","Valle","Cali","Comuna","Cuarto De Legua Guadalupe",1
+"2910","Valle","Cali","Comuna","Dapa",1
+"2911","Valle","Cali","Comuna","Departamental",1
+"2912","Valle","Cali","Comuna","El Guabal",1
+"2913","Valle","Cali","Comuna","El Morichal",1
+"2914","Valle","Cali","Comuna","El Morti",1
+"2915","Valle","Cali","Comuna","El Nacional",1
+"2916","Valle","Cali","Comuna","El Sena",1
+"2917","Valle","Cali","Comuna","El Tr<U+00E9>bol",1
+"2918","Valle","Cali","Comuna","Flora Industrial",1
+"2919","Valle","Cali","Comuna","Jos<U+00E9> Manuel Marroqu<U+00ED>n Etapa ",1
+"2920","Valle","Cali","Comuna","La Selva",1
+"2921","Valle","Cali","Comuna","Los Guaduales",1
+"2922","Valle","Cali","Comuna","Los Guayacanes",1
+"2923","Valle","Cali","Comuna","Mayapan Las Vegas",1
+"2924","Valle","Cali","Comuna","Mojica",1
+"2925","Valle","Cali","Comuna","Nueva Floresta",1
+"2926","Valle","Cali","Comuna","Nueva Tequendama",1
+"2927","Valle","Cali","Comuna","Ol<U+00ED>mpico",1
+"2928","Valle","Cali","Comuna","Petecuy Etapa ",1
+"2929","Valle","Cali","Comuna","Primero De Mayo",1
+"2930","Valle","Cali","Comuna","Rep<U+00FA>blica De Israel",1
+"2931","Valle","Cali","Comuna","San Antonio",1
+"2932","Valle","Cali","Comuna","San Fernando Viejo",1
+"2933","Valle","Cali","Comuna","San Vicente",1
+"2934","Valle","Cali","Comuna","Santa Anita La Selva",1
+"2935","Valle","Cali","Comuna","Santa M<U+00F3>nica Belalcazar",1
+"2936","Valle","Cali","Comuna","Santa Rita",1
+"2937","Valle","Cali","Comuna","Urbanizaci<U+00F3>n Tequendama",1
+"2938","Valle","Cali","Comuna","Versalles",1
+"2939","Valle","Cali","palmira","Valle del Cauca",1
+"2940","Valle","Calima","Calima",NA,1
+"2941","Valle","Calima","Calli",NA,1
+"2942","Valle","Candelaria","Candelaria","Zona industrial la nubia",1
+"2943","Valle","Cartago","Comuna","Bella Vista",1
+"2944","Valle","Cartago","Comuna","El Polo",1
+"2945","Valle","Cartago","Comuna","Los Alc<U+00E1>zares",1
+"2946","Valle","Cartago","Comuna","Los Alpes",1
+"2947","Valle","Cartago","Comuna","San Vicente",1
+"2948","Valle","Cartago","Comuna",NA,1
+"2949","Valle","Dagua",NA,NA,1
+"2950","Valle","Ginebra",NA,NA,1
+"2951","Valle","Jamund<U+00ED>","Corregimiento",NA,1
+"2952","Valle","Jamund<U+00ED>","Jamund<U+00ED>","Solares De La Morada",1
+"2953","Valle","La","La","Vereda Monta",1
+"2954","Valle","Obando",NA,NA,1
+"2955","Valle","Palmira","Comuna","Corregimiento Rozo",1
+"2956","Valle","Palmira","Comuna","El Porvenir",1
+"2957","Valle","Pradera",NA,NA,1
+"2958","Valle","Tulu<U+00E1>","Comuna","Las Acacias",1
+"2959","Valle","Tulu<U+00E1>","Corregimiento","Vereda La Colonia",1
+"2960","Valle","Versalles",NA,NA,1
+"2961","Valle","Yumbo","El",NA,1
+"2962","Valle","Yumbo","Otras","Acopi",1
+"2963","Valle","Yumbo","Otras","Am<U+00E9>ricas",1
+"2964","Valle","comuna","Cali",NA,1
+"2965","Valle","tulua","Valle",NA,1
+"2966","Valle",NA,NA,NA,1
+"2967","Vichada","La",NA,NA,1
+"2968","antioqua","Medellin",NA,NA,1
+"2969","antioquia","Bello",NA,NA,1
+"2970","antioquia","La",NA,NA,1
+"2971","antioquia","bello",NA,NA,1
+"2972","antioquia","caldas",NA,NA,1
+"2973","antioquia","sabaneta",NA,NA,1
+"2974","antioquiaoccidente","Medellin",NA,NA,1
+"2975","atlantico","Barranquilla",NA,NA,1
+"2976","belencito","Ibagu<U+00E9>",NA,NA,1
+"2977","bello","Antioquia",NA,NA,1
+"2978","belmiraCundinamarca","Bogot<U+00E1>",NA,NA,1
+"2979","bogota","Bilbao",NA,NA,1
+"2980","bogota","cundinamarca","Comuna",NA,1
+"2981","bosa","Bogot<U+00E1>",NA,NA,1
+"2982","boston","Medell<U+00ED>n","Medell<U+00ED>n",NA,1
+"2983","buenos","medellin",NA,NA,1
+"2984","caldas","Manizales",NA,NA,1
+"2985","centro","Bogot<U+00E1>",NA,NA,1
+"2986","chapinero","Bogot<U+00E1>",NA,NA,1
+"2987","chapinero","bogota",NA,NA,1
+"2988","chipre","Manizales",NA,NA,1
+"2989","ciudad","Bogot<U+00E1>",NA,NA,1
+"2990","cuidad","Cali",NA,NA,1
+"2991","cundinamarca","Bogot<U+00E1>",NA,NA,1
+"2992","cundinamarca","cota",NA,NA,1
+"2993","cundinamarca","tenjo",NA,NA,1
+"2994","itagui","Las",NA,NA,1
+"2995","kenedy","Bogot<U+00E1>",NA,NA,1
+"2996","la","Bucaramanga",NA,NA,1
+"2997","lombardia","Bogot<U+00E1>",NA,NA,1
+"2998","mogot<U+00E1>","B",NA,NA,1
+"2999","norte","Bogot<U+00E1>",NA,NA,1
+"3000","norte","cucuta",NA,NA,1
+"3001","paicol","Huila",NA,NA,1
+"3002","policarpa","Bogot<U+00E1>",NA,NA,1
+"3003","risaralda","Dosquebradas",NA,NA,1
+"3004","risaralda","pereira",NA,NA,1
+"3005","san","Medellin",NA,NA,1
+"3006","santander","Bucaramang<U+00E1>",NA,NA,1
+"3007","santander","San",NA,NA,1
+"3008","tolima","Ibagu<U+00E9>",NA,NA,1
+"3009","trisentenario","medellin",NA,NA,1
+"3010","venecia","Bogot<U+00E1>",NA,NA,1
+"3011",NA,"ALAMEDA",NA,NA,1
+"3012",NA,"ANDALUCIA",NA,NA,1
+"3013",NA,"APARTAMENTO",NA,NA,1
+"3014",NA,"Aa",NA,NA,1
+"3015",NA,"Acasias",NA,NA,1
+"3016",NA,"Acebedo",NA,NA,1
+"3017",NA,"Aguacatala",NA,NA,1
+"3018",NA,"Aguas",NA,NA,1
+"3019",NA,"Alabanza",NA,NA,1
+"3020",NA,"Alameda",NA,NA,1
+"3021",NA,"Alaska",NA,NA,1
+"3022",NA,"Alc<U+00E1>zares",NA,NA,1
+"3023",NA,"Alcaravanes",NA,NA,1
+"3024",NA,"Alqueria",NA,NA,1
+"3025",NA,"Alsaci",NA,NA,1
+"3026",NA,"Andino",NA,NA,1
+"3027",NA,"Antonia",NA,NA,1
+"3028",NA,"Apartsmento",NA,NA,1
+"3029",NA,"Arauco",NA,NA,1
+"3030",NA,"Aremnia",NA,NA,1
+"3031",NA,"Armenia_",NA,NA,1
+"3032",NA,"Arriendo",NA,NA,1
+"3033",NA,"Atl<U+00E1>ntico",NA,NA,1
+"3034",NA,"Autopista",NA,NA,1
+"3035",NA,"BALI",NA,NA,1
+"3036",NA,"BARRIO",NA,NA,1
+"3037",NA,"BARRIOS",NA,NA,1
+"3038",NA,"BArrios",NA,NA,1
+"3039",NA,"BOGO",NA,NA,1
+"3040",NA,"BOGOT",NA,NA,1
+"3041",NA,"BRISAS",NA,NA,1
+"3042",NA,"BUCARMANGA",NA,NA,1
+"3043",NA,"BUCRAMANGA",NA,NA,1
+"3044",NA,"BUcaramanga",NA,NA,1
+"3045",NA,"Bario",NA,NA,1
+"3046",NA,"Barranquila",NA,NA,1
+"3047",NA,"Barranquill",NA,NA,1
+"3048",NA,"Barranquillita",NA,NA,1
+"3049",NA,"Barrquilla",NA,NA,1
+"3050",NA,"Bazaar",NA,NA,1
+"3051",NA,"Bd",NA,NA,1
+"3052",NA,"Belli",NA,NA,1
+"3053",NA,"Bellomonte",NA,NA,1
+"3054",NA,"Bellos",NA,NA,1
+"3055",NA,"Bigita",NA,NA,1
+"3056",NA,"Bigota",NA,NA,1
+"3057",NA,"Bilbao",NA,NA,1
+"3058",NA,"Bisa",NA,NA,1
+"3059",NA,"Bn",NA,NA,1
+"3060",NA,"Bocagrande",NA,NA,1
+"3061",NA,"Bogita",NA,NA,1
+"3062",NA,"Bogo",NA,NA,1
+"3063",NA,"Bogot<U+00E1>","Norte",NA,1
+"3064",NA,"Bogot<U+00E1>inamarca",NA,NA,1
+"3065",NA,"BogotA",NA,NA,1
+"3066",NA,"Bogota","pasadena",NA,1
+"3067",NA,"Bogotamarca",NA,NA,1
+"3068",NA,"Bogt",NA,NA,1
+"3069",NA,"Bogtota",NA,NA,1
+"3070",NA,"Boh",NA,NA,1
+"3071",NA,"Bol<U+00ED>var",NA,NA,1
+"3072",NA,"Boos",NA,NA,1
+"3073",NA,"Bpgota",NA,NA,1
+"3074",NA,"Brasilia",NA,NA,1
+"3075",NA,"Britq",NA,NA,1
+"3076",NA,"Bucara",NA,NA,1
+"3077",NA,"Bucaramangaii",NA,NA,1
+"3078",NA,"Bucarmanga",NA,NA,1
+"3079",NA,"Bucatamanga",NA,NA,1
+"3080",NA,"Buccaramanga",NA,NA,1
+"3081",NA,"Bue",NA,NA,1
+"3082",NA,"Buena",NA,NA,1
+"3083",NA,"C<U+00F3>rdoba",NA,NA,1
+"3084",NA,"C<U+00FA>cuta","trigal",NA,1
+"3085",NA,"CABA",NA,NA,1
+"3086",NA,"CAJICA",NA,NA,1
+"3087",NA,"CALARCA",NA,NA,1
+"3088",NA,"CALAZANS",NA,NA,1
+"3089",NA,"CALLE",NA,NA,1
+"3090",NA,"CAMPO",NA,NA,1
+"3091",NA,"CANTALEJO",NA,NA,1
+"3092",NA,"CARMEN",NA,NA,1
+"3093",NA,"CARTAGENA",NA,NA,1
+"3094",NA,"CHIA",NA,NA,1
+"3095",NA,"CHICO",NA,NA,1
+"3096",NA,"CHINCHINA",NA,NA,1
+"3097",NA,"CHico",NA,NA,1
+"3098",NA,"CIRCASIA",NA,NA,1
+"3099",NA,"CLi",NA,NA,1
+"3100",NA,"COMUN",NA,NA,1
+"3101",NA,"COMUNA",NA,NA,1
+"3102",NA,"CONQUISTADORES",NA,NA,1
+"3103",NA,"COTA",NA,NA,1
+"3104",NA,"COUNTRY",NA,NA,1
+"3105",NA,"CRISTO",NA,NA,1
+"3106",NA,"Cabecera",NA,NA,1
+"3107",NA,"Cabeceras",NA,NA,1
+"3108",NA,"Cajamarca",NA,NA,1
+"3109",NA,"Cajita",NA,NA,1
+"3110",NA,"Cal",NA,NA,1
+"3111",NA,"Calarc<U+00E1>",NA,NA,1
+"3112",NA,"Calendario",NA,NA,1
+"3113",NA,"Calj",NA,NA,1
+"3114",NA,"Calu",NA,NA,1
+"3115",NA,"Cambulos",NA,NA,1
+"3116",NA,"Camelua",NA,NA,1
+"3117",NA,"Camino",NA,NA,1
+"3118",NA,"Caminos",NA,NA,1
+"3119",NA,"Campestre",NA,NA,1
+"3120",NA,"Caney",NA,NA,1
+"3121",NA,"Capellania",NA,NA,1
+"3122",NA,"Capri",NA,NA,1
+"3123",NA,"Carepa",NA,NA,1
+"3124",NA,"Carera",NA,NA,1
+"3125",NA,"Carimagua",NA,NA,1
+"3126",NA,"Casti",NA,NA,1
+"3127",NA,"Catalejo",NA,NA,1
+"3128",NA,"Ce",NA,NA,1
+"3129",NA,"Cedo",NA,NA,1
+"3130",NA,"Cedro",NA,NA,1
+"3131",NA,"Centenario",NA,NA,1
+"3132",NA,"Cerditos",NA,NA,1
+"3133",NA,"Cerritos",NA,NA,1
+"3134",NA,"Chinchin<U+00E1>",NA,NA,1
+"3135",NA,"Chiquinquir<U+00E1>",NA,NA,1
+"3136",NA,"Circas",NA,NA,1
+"3137",NA,"Clinica",NA,NA,1
+"3138",NA,"Cmanizales",NA,NA,1
+"3139",NA,"Co",NA,NA,1
+"3140",NA,"Colombia",NA,NA,1
+"3141",NA,"Compra",NA,NA,1
+"3142",NA,"Concordia",NA,NA,1
+"3143",NA,"Corinto",NA,NA,1
+"3144",NA,"Correr<U+00ED>as",NA,NA,1
+"3145",NA,"Cove",NA,NA,1
+"3146",NA,"Cra",NA,NA,1
+"3147",NA,"Cumaral",NA,NA,1
+"3148",NA,"DEDELLIN",NA,NA,1
+"3149",NA,"Danta",NA,NA,1
+"3150",NA,"Dejar<U+00E1>",NA,NA,1
+"3151",NA,"Dharaq",NA,NA,1
+"3152",NA,"Dian",NA,NA,1
+"3153",NA,"Dindalito",NA,NA,1
+"3154",NA,"E",NA,NA,1
+"3155",NA,"EDIFICIO",NA,NA,1
+"3156",NA,"Edf",NA,NA,1
+"3157",NA,"Emails",NA,NA,1
+"3158",NA,"En",NA,NA,1
+"3159",NA,"Enciso",NA,NA,1
+"3160",NA,"Entre",NA,NA,1
+"3161",NA,"Enviado",NA,NA,1
+"3162",NA,"Esmeralda",NA,NA,1
+"3163",NA,"Estacion",NA,NA,1
+"3164",NA,"Estoril",NA,NA,1
+"3165",NA,"F<U+00E1>tima",NA,NA,1
+"3166",NA,"FACATATIVA",NA,NA,1
+"3167",NA,"FINCA",NA,NA,1
+"3168",NA,"FLORENCIA",NA,NA,1
+"3169",NA,"FLORESTA",NA,NA,1
+"3170",NA,"FUSAG",NA,NA,1
+"3171",NA,"Favidi",NA,NA,1
+"3172",NA,"Federman",NA,NA,1
+"3173",NA,"Felicidad",NA,NA,1
+"3174",NA,"Fenalco",NA,NA,1
+"3175",NA,"Finca",NA,NA,1
+"3176",NA,"Flo",NA,NA,1
+"3177",NA,"Fontibom",NA,NA,1
+"3178",NA,"Fontybon",NA,NA,1
+"3179",NA,"G",NA,NA,1
+"3180",NA,"GACHANCIPA",NA,NA,1
+"3181",NA,"GALAN",NA,NA,1
+"3182",NA,"GARZON",NA,NA,1
+"3183",NA,"GIRARDOT",NA,NA,1
+"3184",NA,"GRAN",NA,NA,1
+"3185",NA,"Gait<U+00E1>n",NA,NA,1
+"3186",NA,"Galapa",NA,NA,1
+"3187",NA,"Gigante",NA,NA,1
+"3188",NA,"Ginebra",NA,NA,1
+"3189",NA,"Granja",NA,NA,1
+"3190",NA,"Gratamira",NA,NA,1
+"3191",NA,"Guadalajara",NA,NA,1
+"3192",NA,"Guadalupe",NA,NA,1
+"3193",NA,"Guaduales",NA,NA,1
+"3194",NA,"Guamal",NA,NA,1
+"3195",NA,"Guamo",NA,NA,1
+"3196",NA,"Guaymaral",NA,NA,1
+"3197",NA,"Gustavo",NA,NA,1
+"3198",NA,"Guyabal",NA,NA,1
+"3199",NA,"H",NA,NA,1
+"3200",NA,"HAYUELOS",NA,NA,1
+"3201",NA,"HAyuelos",NA,NA,1
+"3202",NA,"Habitacion",NA,NA,1
+"3203",NA,"Hayuelo",NA,NA,1
+"3204",NA,"Heores",NA,NA,1
+"3205",NA,"Hoyuelos",NA,NA,1
+"3206",NA,"Huertas",NA,NA,1
+"3207",NA,"IPIALES",NA,NA,1
+"3208",NA,"ITAGU",NA,NA,1
+"3209",NA,"ITT",NA,NA,1
+"3210",NA,"Ib",NA,NA,1
+"3211",NA,"Iberia",NA,NA,1
+"3212",NA,"Iitagui",NA,NA,1
+"3213",NA,"Ingles",NA,NA,1
+"3214",NA,"Ipiales",NA,NA,1
+"3215",NA,"Isla",NA,NA,1
+"3216",NA,"Istmina",NA,NA,1
+"3217",NA,"Itaguu",NA,NA,1
+"3218",NA,"Itahui",NA,NA,1
+"3219",NA,"Itsgui",NA,NA,1
+"3220",NA,"Ixa",NA,NA,1
+"3221",NA,"JAMUNDI",NA,NA,1
+"3222",NA,"JJ",NA,NA,1
+"3223",NA,"Jeric<U+00F3>",NA,NA,1
+"3224",NA,"Jessi",NA,NA,1
+"3225",NA,"Jos<U+00E9>",NA,NA,1
+"3226",NA,"Jose",NA,NA,1
+"3227",NA,"Jota",NA,NA,1
+"3228",NA,"Jun<U+00ED>n",NA,NA,1
+"3229",NA,"Junin",NA,NA,1
+"3230",NA,"Jvargas",NA,NA,1
+"3231",NA,"K",NA,NA,1
+"3232",NA,"KR",NA,NA,1
+"3233",NA,"Kardonal",NA,NA,1
+"3234",NA,"Kenndey",NA,NA,1
+"3235",NA,"Kennexy",NA,NA,1
+"3236",NA,"Kennwdy",NA,NA,1
+"3237",NA,"Kk",NA,NA,1
+"3238",NA,"Kkennedy",NA,NA,1
+"3239",NA,"L",NA,NA,1
+"3240",NA,"LISBOA",NA,NA,1
+"3241",NA,"LOCALIDAD",NA,NA,1
+"3242",NA,"Laa",NA,NA,1
+"3243",NA,"Lagos",NA,NA,1
+"3244",NA,"Libertad",NA,NA,1
+"3245",NA,"Limomar",NA,NA,1
+"3246",NA,"M<U+00E9>delin",NA,NA,1
+"3247",NA,"MADELLIN",NA,NA,1
+"3248",NA,"MEDELIN",NA,NA,1
+"3249",NA,"MIRAN",NA,NA,1
+"3250",NA,"MONTERIA",NA,NA,1
+"3251",NA,"MORATO",NA,NA,1
+"3252",NA,"Madeira",NA,NA,1
+"3253",NA,"Madelen",NA,NA,1
+"3254",NA,"ManizAles",NA,NA,1
+"3255",NA,"Manizale",NA,NA,1
+"3256",NA,"Manizalea",NA,NA,1
+"3257",NA,"Maratu",NA,NA,1
+"3258",NA,"Maria",NA,NA,1
+"3259",NA,"Marinillla",NA,NA,1
+"3260",NA,"Mariquita",NA,NA,1
+"3261",NA,"Marsdll",NA,NA,1
+"3262",NA,"Mazur<U+00E9>n",NA,NA,1
+"3263",NA,"Medelin",NA,NA,1
+"3264",NA,"Medell<U+00ED>n","Antioquia",NA,1
+"3265",NA,"MedellinCantioquia",NA,NA,1
+"3266",NA,"Medelllin",NA,NA,1
+"3267",NA,"Medelln",NA,NA,1
+"3268",NA,"Mediterrane",NA,NA,1
+"3269",NA,"Mesa",NA,NA,1
+"3270",NA,"Meta",NA,NA,1
+"3271",NA,"Metropolis",NA,NA,1
+"3272",NA,"Milan",NA,NA,1
+"3273",NA,"Mirador",NA,NA,1
+"3274",NA,"Moaquera",NA,NA,1
+"3275",NA,"Modela",NA,NA,1
+"3276",NA,"Modeli",NA,NA,1
+"3277",NA,"Molinks",NA,NA,1
+"3278",NA,"Monjes",NA,NA,1
+"3279",NA,"Montenegro",NA,NA,1
+"3280",NA,"Monter<U+00ED>a","Monteria","Corregimiento Patio Bonito",1
+"3281",NA,"Montereserva",NA,NA,1
+"3282",NA,"Monterredondo",NA,NA,1
+"3283",NA,"Monterrey",NA,NA,1
+"3284",NA,"Moravia",NA,NA,1
+"3285",NA,"Mosqier",NA,NA,1
+"3286",NA,"Mosqu",NA,NA,1
+"3287",NA,"Mutis",NA,NA,1
+"3288",NA,"Muzu","Bogota",NA,1
+"3289",NA,"Muzu",NA,NA,1
+"3290",NA,"NACIONAL",NA,NA,1
+"3291",NA,"NEIVA",NA,NA,1
+"3292",NA,"NEVIGADO",NA,NA,1
+"3293",NA,"NORTE",NA,NA,1
+"3294",NA,"NUEVA",NA,NA,1
+"3295",NA,"Naci",NA,NA,1
+"3296",NA,"Nacional",NA,NA,1
+"3297",NA,"Nede",NA,NA,1
+"3298",NA,"Nemocon",NA,NA,1
+"3299",NA,"Nicol<U+00E1>s",NA,NA,1
+"3300",NA,"Nogal",NA,NA,1
+"3301",NA,"Nor",NA,NA,1
+"3302",NA,"Nortw",NA,NA,1
+"3303",NA,"Nose",NA,NA,1
+"3304",NA,"Not",NA,NA,1
+"3305",NA,"O",NA,NA,1
+"3306",NA,"OCA",NA,NA,1
+"3307",NA,"Olarte",NA,NA,1
+"3308",NA,"Olimpico",NA,NA,1
+"3309",NA,"Olivos",NA,NA,1
+"3310",NA,"Oriente",NA,NA,1
+"3311",NA,"Orquideas",NA,NA,1
+"3312",NA,"Ortega",NA,NA,1
+"3313",NA,"Oviedo",NA,NA,1
+"3314",NA,"PALERMO",NA,NA,1
+"3315",NA,"PERDOMO",NA,NA,1
+"3316",NA,"PIEDRA",NA,NA,1
+"3317",NA,"PINARES",NA,NA,1
+"3318",NA,"PONTEVEDRA",NA,NA,1
+"3319",NA,"PRADO",NA,NA,1
+"3320",NA,"Pa",NA,NA,1
+"3321",NA,"Paicol",NA,NA,1
+"3322",NA,"Pal",NA,NA,1
+"3323",NA,"Pamplona",NA,NA,1
+"3324",NA,"Pasedena",NA,NA,1
+"3325",NA,"Paulo",NA,NA,1
+"3326",NA,"Pedregal",NA,NA,1
+"3327",NA,"Pen<U+00ED>nsula",NA,NA,1
+"3328",NA,"Peraira",NA,NA,1
+"3329",NA,"Pilarica",NA,NA,1
+"3330",NA,"Pinar",NA,NA,1
+"3331",NA,"Pio",NA,NA,1
+"3332",NA,"Pitalito",NA,NA,1
+"3333",NA,"Pitamito",NA,NA,1
+"3334",NA,"Playa",NA,NA,1
+"3335",NA,"Playas",NA,NA,1
+"3336",NA,"Poblafo",NA,NA,1
+"3337",NA,"Popular",NA,NA,1
+"3338",NA,"Por",NA,NA,1
+"3339",NA,"Pueblo",NA,NA,1
+"3340",NA,"Puenr",NA,NA,1
+"3341",NA,"Puete",NA,NA,1
+"3342",NA,"Punta",NA,NA,1
+"3343",NA,"Q",NA,NA,1
+"3344",NA,"Que",NA,NA,1
+"3345",NA,"Quint",NA,NA,1
+"3346",NA,"Quitigua",NA,NA,1
+"3347",NA,"R<U+00ED>o",NA,NA,1
+"3348",NA,"RECREO",NA,NA,1
+"3349",NA,"RESERVA",NA,NA,1
+"3350",NA,"RINCON",NA,NA,1
+"3351",NA,"Resultado",NA,NA,1
+"3352",NA,"Ricaute",NA,NA,1
+"3353",NA,"Riog",NA,NA,1
+"3354",NA,"Ritoque",NA,NA,1
+"3355",NA,"Roldanillo",NA,NA,1
+"3356",NA,"Rzfrrztzdtzzdtzzzdtfzztd",NA,NA,1
+"3357",NA,"S<U+00E1>n",NA,NA,1
+"3358",NA,"SANANETA",NA,NA,1
+"3359",NA,"SANJUAN",NA,NA,1
+"3360",NA,"SERCA",NA,NA,1
+"3361",NA,"SOACHA",NA,NA,1
+"3362",NA,"SOPETRAN",NA,NA,1
+"3363",NA,"SUCRE",NA,NA,1
+"3364",NA,"SUba",NA,NA,1
+"3365",NA,"Sabanagrande",NA,NA,1
+"3366",NA,"Sachica",NA,NA,1
+"3367",NA,"Salazar",NA,NA,1
+"3368",NA,"Salimas",NA,NA,1
+"3369",NA,"Samaria",NA,NA,1
+"3370",NA,"Sanra",NA,NA,1
+"3371",NA,"Santacatalina",NA,NA,1
+"3372",NA,"Santafe",NA,NA,1
+"3373",NA,"Santarrosa",NA,NA,1
+"3374",NA,"Santiado",NA,NA,1
+"3375",NA,"Santoago",NA,NA,1
+"3376",NA,"Sants",NA,NA,1
+"3377",NA,"Sarzamoea",NA,NA,1
+"3378",NA,"Senderos",NA,NA,1
+"3379",NA,"Sibat<U+00E9>",NA,NA,1
+"3380",NA,"Sibate",NA,NA,1
+"3381",NA,"Smorrlrlee",NA,NA,1
+"3382",NA,"Soacga",NA,NA,1
+"3383",NA,"Socorro",NA,NA,1
+"3384",NA,"Sohacha",NA,NA,1
+"3385",NA,"Sopetran",NA,NA,1
+"3386",NA,"Ss",NA,NA,1
+"3387",NA,"Ssn",NA,NA,1
+"3388",NA,"Sta",NA,NA,1
+"3389",NA,"Subq",NA,NA,1
+"3390",NA,"T<U+00ED>miza",NA,NA,1
+"3391",NA,"T<U+00FA>ndame",NA,NA,1
+"3392",NA,"TABIO",NA,NA,1
+"3393",NA,"TENJO",NA,NA,1
+"3394",NA,"TEUSAQULLO",NA,NA,1
+"3395",NA,"TOCANCIPA",NA,NA,1
+"3396",NA,"TUNJA",NA,NA,1
+"3397",NA,"Taborq",NA,NA,1
+"3398",NA,"Techo",NA,NA,1
+"3399",NA,"Tequendama",NA,NA,1
+"3400",NA,"Territorio",NA,NA,1
+"3401",NA,"Teusaquilloo",NA,NA,1
+"3402",NA,"Timana",NA,NA,1
+"3403",NA,"Tintas",NA,NA,1
+"3404",NA,"Tisquesusa",NA,NA,1
+"3405",NA,"To",NA,NA,1
+"3406",NA,"Tol<U+00FA>",NA,NA,1
+"3407",NA,"Toledo",NA,NA,1
+"3408",NA,"Torres",NA,NA,1
+"3409",NA,"Transversal",NA,NA,1
+"3410",NA,"Trigal",NA,NA,1
+"3411",NA,"Unicentro",NA,NA,1
+"3412",NA,"Universidades",NA,NA,1
+"3413",NA,"Uribe",NA,NA,1
+"3414",NA,"VALLE",NA,NA,1
+"3415",NA,"VERSALLES",NA,NA,1
+"3416",NA,"VICTORIA",NA,NA,1
+"3417",NA,"VIRREY",NA,NA,1
+"3418",NA,"Vallegrande",NA,NA,1
+"3419",NA,"Velodromo",NA,NA,1
+"3420",NA,"Veneciq",NA,NA,1
+"3421",NA,"Venecis",NA,NA,1
+"3422",NA,"Veraguas",NA,NA,1
+"3423",NA,"Vi",NA,NA,1
+"3424",NA,"ViLlas",NA,NA,1
+"3425",NA,"Viboral",NA,NA,1
+"3426",NA,"Victotia",NA,NA,1
+"3427",NA,"Villamar<U+00ED>a",NA,NA,1
+"3428",NA,"Vixtoria",NA,NA,1
+"3429",NA,"Vritalia",NA,NA,1
+"3430",NA,"X",NA,NA,1
+"3431",NA,"Y",NA,NA,1
+"3432",NA,"Yerbabuena",NA,NA,1
+"3433",NA,"ZARZAMORA",NA,NA,1
+"3434",NA,"ZIPAQUIR",NA,NA,1
+"3435",NA,"ZONA",NA,NA,1
+"3436",NA,"Zarzamora",NA,NA,1
+"3437",NA,"Zonq",NA,NA,1
+"3438",NA,"a",NA,NA,1
+"3439",NA,"acacias",NA,NA,1
+"3440",NA,"acopi",NA,NA,1
+"3441",NA,"aguacatala",NA,NA,1
+"3442",NA,"alcazares",NA,NA,1
+"3443",NA,"alejandria",NA,NA,1
+"3444",NA,"alfonso",NA,NA,1
+"3445",NA,"almeria",NA,NA,1
+"3446",NA,"alquiler",NA,NA,1
+"3447",NA,"alsacia",NA,NA,1
+"3448",NA,"alto",NA,NA,1
+"3449",NA,"alvarez",NA,NA,1
+"3450",NA,"am<U+00E9>ricas",NA,NA,1
+"3451",NA,"an",NA,NA,1
+"3452",NA,"ant",NA,NA,1
+"3453",NA,"antiguio",NA,NA,1
+"3454",NA,"antio",NA,NA,1
+"3455",NA,"antioquia","la",NA,1
+"3456",NA,"antomio",NA,NA,1
+"3457",NA,"antonio",NA,NA,1
+"3458",NA,"antuioquia",NA,NA,1
+"3459",NA,"apa",NA,NA,1
+"3460",NA,"aparta",NA,NA,1
+"3461",NA,"apartaestudioo",NA,NA,1
+"3462",NA,"aranjuez",NA,NA,1
+"3463",NA,"arcadia",NA,NA,1
+"3464",NA,"areopuerto",NA,NA,1
+"3465",NA,"atalntico",NA,NA,1
+"3466",NA,"atlantico",NA,NA,1
+"3467",NA,"attelea",NA,NA,1
+"3468",NA,"aures",NA,NA,1
+"3469",NA,"auto",NA,NA,1
+"3470",NA,"av",NA,NA,1
+"3471",NA,"avenida",NA,NA,1
+"3472",NA,"aves",NA,NA,1
+"3473",NA,"baquero",NA,NA,1
+"3474",NA,"baranquilla",NA,NA,1
+"3475",NA,"barramquilla",NA,NA,1
+"3476",NA,"barranquil",NA,NA,1
+"3477",NA,"barranquillla",NA,NA,1
+"3478",NA,"barrrio",NA,NA,1
+"3479",NA,"barrrios",NA,NA,1
+"3480",NA,"bat<U+00E1>n",NA,NA,1
+"3481",NA,"bavaria",NA,NA,1
+"3482",NA,"bekmira",NA,NA,1
+"3483",NA,"bel<U+00E9>n",NA,NA,1
+"3484",NA,"bigao",NA,NA,1
+"3485",NA,"bogoa",NA,NA,1
+"3486",NA,"bogoita",NA,NA,1
+"3487",NA,"bogota","cedritos",NA,1
+"3488",NA,"bogta",NA,NA,1
+"3489",NA,"boita",NA,NA,1
+"3490",NA,"bostoh",NA,NA,1
+"3491",NA,"buc",NA,NA,1
+"3492",NA,"bucaramanaga",NA,NA,1
+"3493",NA,"bucarica",NA,NA,1
+"3494",NA,"buga",NA,NA,1
+"3495",NA,"bwlwn",NA,NA,1
+"3496",NA,"c",NA,NA,1
+"3497",NA,"caa",NA,NA,1
+"3498",NA,"caicedonia",NA,NA,1
+"3499",NA,"calatrava",NA,NA,1
+"3500",NA,"calicanto",NA,NA,1
+"3501",NA,"calima",NA,NA,1
+"3502",NA,"campos",NA,NA,1
+"3503",NA,"capellania",NA,NA,1
+"3504",NA,"carategena",NA,NA,1
+"3505",NA,"carbelas",NA,NA,1
+"3506",NA,"carvajal",NA,NA,1
+"3507",NA,"casas",NA,NA,1
+"3508",NA,"castellan",NA,NA,1
+"3509",NA,"catalu",NA,NA,1
+"3510",NA,"cedritoas",NA,NA,1
+"3511",NA,"cedritods",NA,NA,1
+"3512",NA,"cedritoe",NA,NA,1
+"3513",NA,"cerros",NA,NA,1
+"3514",NA,"cgia",NA,NA,1
+"3515",NA,"chacinero",NA,NA,1
+"3516",NA,"chap",NA,NA,1
+"3517",NA,"chapienero",NA,NA,1
+"3518",NA,"chi",NA,NA,1
+"3519",NA,"chic<U+00F3>",NA,NA,1
+"3520",NA,"chipre",NA,NA,1
+"3521",NA,"choachi",NA,NA,1
+"3522",NA,"chpinero",NA,NA,1
+"3523",NA,"chucua",NA,NA,1
+"3524",NA,"cofradia",NA,NA,1
+"3525",NA,"colores",NA,NA,1
+"3526",NA,"compartir",NA,NA,1
+"3527",NA,"comuneros",NA,NA,1
+"3528",NA,"condominio",NA,NA,1
+"3529",NA,"conjunto",NA,NA,1
+"3530",NA,"conquistadores",NA,NA,1
+"3531",NA,"cooina",NA,NA,1
+"3532",NA,"copacabna",NA,NA,1
+"3533",NA,"copacav",NA,NA,1
+"3534",NA,"cota",NA,NA,1
+"3535",NA,"country",NA,NA,1
+"3536",NA,"cristales",NA,NA,1
+"3537",NA,"cristo",NA,NA,1
+"3538",NA,"cristobal",NA,NA,1
+"3539",NA,"crr",NA,NA,1
+"3540",NA,"cuidad",NA,NA,1
+"3541",NA,"departamento",NA,NA,1
+"3542",NA,"dinamarca",NA,NA,1
+"3543",NA,"ditairea",NA,NA,1
+"3544",NA,"do",NA,NA,1
+"3545",NA,"duba",NA,NA,1
+"3546",NA,"duplex",NA,NA,1
+"3547",NA,"en",NA,NA,1
+"3548",NA,"engativ<U+00E1>",NA,NA,1
+"3549",NA,"ennedy",NA,NA,1
+"3550",NA,"envigad",NA,NA,1
+"3551",NA,"envigadi",NA,NA,1
+"3552",NA,"envigado","antioquia",NA,1
+"3553",NA,"esmeralda",NA,NA,1
+"3554",NA,"estradita",NA,NA,1
+"3555",NA,"estrato",NA,NA,1
+"3556",NA,"eta",NA,NA,1
+"3557",NA,"felicidad",NA,NA,1
+"3558",NA,"ferias",NA,NA,1
+"3559",NA,"finca",NA,NA,1
+"3560",NA,"flandes",NA,NA,1
+"3561",NA,"florencia",NA,NA,1
+"3562",NA,"floridablan",NA,NA,1
+"3563",NA,"fon",NA,NA,1
+"3564",NA,"formulario",NA,NA,1
+"3565",NA,"frailes",NA,NA,1
+"3566",NA,"fundadores",NA,NA,1
+"3567",NA,"fusa",NA,NA,1
+"3568",NA,"fusagasiga",NA,NA,1
+"3569",NA,"galer<U+00ED>as",NA,NA,1
+"3570",NA,"galeriasp",NA,NA,1
+"3571",NA,"garces",NA,NA,1
+"3572",NA,"garzon",NA,NA,1
+"3573",NA,"girardota",NA,NA,1
+"3574",NA,"gmc",NA,NA,1
+"3575",NA,"guachu",NA,NA,1
+"3576",NA,"hayuelo",NA,NA,1
+"3577",NA,"hjjjjjjjjghh",NA,NA,1
+"3578",NA,"hospital",NA,NA,1
+"3579",NA,"hthohcioxtrsayi",NA,NA,1
+"3580",NA,"iatgui",NA,NA,1
+"3581",NA,"ibaue",NA,NA,1
+"3582",NA,"internacional",NA,NA,1
+"3583",NA,"ipanema",NA,NA,1
+"3584",NA,"ipiales",NA,NA,1
+"3585",NA,"jardin",NA,NA,1
+"3586",NA,"jhon",NA,NA,1
+"3587",NA,"juanito",NA,NA,1
+"3588",NA,"junin",NA,NA,1
+"3589",NA,"k",NA,NA,1
+"3590",NA,"keneddy",NA,NA,1
+"3591",NA,"kmedellin",NA,NA,1
+"3592",NA,"laguneta",NA,NA,1
+"3593",NA,"lamos",NA,NA,1
+"3594",NA,"lavictoria",NA,NA,1
+"3595",NA,"libano",NA,NA,1
+"3596",NA,"lima",NA,NA,1
+"3597",NA,"loima",NA,NA,1
+"3598",NA,"loreto",NA,NA,1
+"3599",NA,"madell<U+00ED>n",NA,NA,1
+"3600",NA,"maniza",NA,NA,1
+"3601",NA,"manrique",NA,NA,1
+"3602",NA,"maranta",NA,NA,1
+"3603",NA,"marca",NA,NA,1
+"3604",NA,"marly",NA,NA,1
+"3605",NA,"martires",NA,NA,1
+"3606",NA,"mayorca",NA,NA,1
+"3607",NA,"me",NA,NA,1
+"3608",NA,"medel",NA,NA,1
+"3609",NA,"mejoras",NA,NA,1
+"3610",NA,"melgar",NA,NA,1
+"3611",NA,"menorca",NA,NA,1
+"3612",NA,"mi",NA,NA,1
+"3613",NA,"miami",NA,NA,1
+"3614",NA,"milan",NA,NA,1
+"3615",NA,"modeli",NA,NA,1
+"3616",NA,"monaco",NA,NA,1
+"3617",NA,"monjes",NA,NA,1
+"3618",NA,"morisco",NA,NA,1
+"3619",NA,"motilones",NA,NA,1
+"3620",NA,"multicentro",NA,NA,1
+"3621",NA,"mundo",NA,NA,1
+"3622",NA,"mutis",NA,NA,1
+"3623",NA,"muzu",NA,NA,1
+"3624",NA,"mwdellin",NA,NA,1
+"3625",NA,"mzauren",NA,NA,1
+"3626",NA,"naranjal",NA,NA,1
+"3627",NA,"negocio",NA,NA,1
+"3628",NA,"nogal",NA,NA,1
+"3629",NA,"nor",NA,NA,1
+"3630",NA,"normadia",NA,NA,1
+"3631",NA,"oca",NA,NA,1
+"3632",NA,"once",NA,NA,1
+"3633",NA,"oriente",NA,NA,1
+"3634",NA,"paipa",NA,NA,1
+"3635",NA,"paisajes",NA,NA,1
+"3636",NA,"palmeras",NA,NA,1
+"3637",NA,"palo",NA,NA,1
+"3638",NA,"panamericano",NA,NA,1
+"3639",NA,"paris",NA,NA,1
+"3640",NA,"paulo",NA,NA,1
+"3641",NA,"pereria",NA,NA,1
+"3642",NA,"pie",NA,NA,1
+"3643",NA,"pilarica",NA,NA,1
+"3644",NA,"pinar",NA,NA,1
+"3645",NA,"pio",NA,NA,1
+"3646",NA,"pitalito",NA,NA,1
+"3647",NA,"plazuelas",NA,NA,1
+"3648",NA,"popa",NA,NA,1
+"3649",NA,"porno",NA,NA,1
+"3650",NA,"portales",NA,NA,1
+"3651",NA,"porto",NA,NA,1
+"3652",NA,"pradera",NA,NA,1
+"3653",NA,"primavera",NA,NA,1
+"3654",NA,"pring",NA,NA,1
+"3655",NA,"publicar",NA,NA,1
+"3656",NA,"puero",NA,NA,1
+"3657",NA,"puerta",NA,NA,1
+"3658",NA,"quintanares",NA,NA,1
+"3659",NA,"quirinal",NA,NA,1
+"3660",NA,"ramblas",NA,NA,1
+"3661",NA,"rca",NA,NA,1
+"3662",NA,"ricaurte",NA,NA,1
+"3663",NA,"rionefr",NA,NA,1
+"3664",NA,"ro",NA,NA,1
+"3665",NA,"rodeo",NA,NA,1
+"3666",NA,"roma",NA,NA,1
+"3667",NA,"rosales",NA,NA,1
+"3668",NA,"sabenta",NA,NA,1
+"3669",NA,"salado",NA,NA,1
+"3670",NA,"salento",NA,NA,1
+"3671",NA,"salitres",NA,NA,1
+"3672",NA,"salomia",NA,NA,1
+"3673",NA,"salvador",NA,NA,1
+"3674",NA,"sangil",NA,NA,1
+"3675",NA,"santateresa",NA,NA,1
+"3676",NA,"santiago",NA,NA,1
+"3677",NA,"santillana",NA,NA,1
+"3678",NA,"sba",NA,NA,1
+"3679",NA,"se",NA,NA,1
+"3680",NA,"sector",NA,NA,1
+"3681",NA,"silvania",NA,NA,1
+"3682",NA,"soopo",NA,NA,1
+"3683",NA,"suba","bogota",NA,1
+"3684",NA,"sume",NA,NA,1
+"3685",NA,"tejares",NA,NA,1
+"3686",NA,"teusasquillo",NA,NA,1
+"3687",NA,"tibabita",NA,NA,1
+"3688",NA,"tunal",NA,NA,1
+"3689",NA,"unidad",NA,NA,1
+"3690",NA,"universidades",NA,NA,1
+"3691",NA,"valledelcauca",NA,NA,1
+"3692",NA,"valledupa",NA,NA,1
+"3693",NA,"vellavista",NA,NA,1
+"3694",NA,"verbenal",NA,NA,1
+"3695",NA,"vernecia",NA,NA,1
+"3696",NA,"via",NA,NA,1
+"3697",NA,"victoria",NA,NA,1
+"3698",NA,"vilanova",NA,NA,1
+"3699",NA,"villacolombia",NA,NA,1
+"3700",NA,"villavicemcio",NA,NA,1
+"3701",NA,"y",NA,NA,1
+"3702",NA,"zyyatgsatattrtgtra",NA,NA,1
